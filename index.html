@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Les Archives HGGSP</title>
+    <link rel="stylesheet" href="style.css?v=61">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js" defer></script>
+    <script src="data.js?v=22" defer></script>
+    <script src="documents-2021.js?v=29" defer></script>
+    <script src="documents-2022.js?v=29" defer></script>
+    <script src="documents-2023.js?v=38" defer></script>
+    <script src="documents-2024.js?v=15" defer></script>
+    <script src="documents-2025.js?v=6" defer></script>
+    <script src="documents-2026.js?v=5" defer></script>
+    <script src="script.js?v=95" defer></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand-block">
+        <div class="globe-icon" aria-hidden="true">
+          <img src="assets/branding/header-icon-ch.png" alt="" />
+        </div>
+        <div>
+          <p class="eyebrow">Archives bac général - spécialité HGGSP</p>
+          <h1>Les Archives HGGSP</h1>
+          <p class="subtitle">Tous les sujets HGGSP du Baccalauréat organisés pour enseigner, réviser et progresser</p>
+        </div>
+      </div>
+      <div class="top-actions">
+        <button class="about-button" id="aboutButton" type="button" aria-label="À propos" aria-controls="aboutDialog" aria-expanded="false">i</button>
+        <button class="sheet-button" id="sheetButton" type="button" aria-label="Ouvrir mon sujet" aria-controls="sheetOverlay" aria-expanded="false">
+          <span>Mon sujet</span>
+          <strong id="sheetCount">0</strong>
+        </button>
+        <button class="theme-toggle" id="themeToggle" type="button" aria-label="Activer le mode sombre" aria-pressed="false">
+          <span class="sun-icon" aria-hidden="true">☀</span>
+          <span class="moon-icon" aria-hidden="true">☾</span>
+        </button>
+        <div class="stats" aria-live="polite">
+          <span id="resultCount">0 sujet</span>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="list-page" id="listPage">
+        <div class="list-layout">
+          <section class="search-banner" aria-label="Recherche rapide">
+            <label class="search-field search-banner-field" for="searchInput">
+              <span>Recherche</span>
+              <input id="searchInput" type="search" placeholder="2026, faire la paix, conquête spatiale, mémoire des génocides...">
+            </label>
+
+            <div class="banner-controls" aria-label="Filtres de recherche">
+              <label class="favorite-filter" for="favoriteOnly">
+                <input id="favoriteOnly" type="checkbox">
+                <span>Favoris uniquement</span>
+              </label>
+
+              <label for="chapterSelect">
+                <span>Thème</span>
+                <select id="chapterSelect"></select>
+              </label>
+
+              <label for="exerciseTypeSelect">
+                <span>Type d'exercice</span>
+                <select id="exerciseTypeSelect">
+                  <option value="Tous">Tous</option>
+                  <option value="hggsp-dissertation">Dissertation</option>
+                  <option value="hggsp-document-study">Étude de documents</option>
+                </select>
+              </label>
+
+              <label for="yearSelect">
+                <span>Année</span>
+                <select id="yearSelect"></select>
+              </label>
+
+              <label for="placeSelect">
+                <span>Lieu</span>
+                <select id="placeSelect"></select>
+              </label>
+
+              <button class="secondary-button banner-reset" id="resetButton" type="button">Reinitialiser</button>
+            </div>
+
+            <div class="mobile-stats-slot" id="mobileStatsSlot"></div>
+          </section>
+
+        <div class="app-shell">
+
+          <section class="results" aria-label="Liste des sujets">
+            <div class="list-head">
+              <h2>Sujets</h2>
+              <select id="sortSelect" aria-label="Tri des sujets">
+                <option value="recent">Plus recents</option>
+                <option value="oldest">Plus anciens</option>
+                <option value="subject">Par matiere</option>
+              </select>
+            </div>
+            <div class="exercise-list" id="exerciseList"></div>
+          </section>
+        </div>
+        </div>
+      </section>
+
+      <section class="detail-page" id="detailPage" hidden>
+        <button class="back-button" id="backButton" type="button">Retour aux sujets</button>
+
+        <section class="viewer" aria-label="Visionneuse Markdown">
+        <div class="viewer-toolbar">
+          <div>
+            <p class="viewer-kicker" id="viewerMeta">Selectionnez un sujet</p>
+            <h2 id="viewerTitle">Sujet</h2>
+          </div>
+          <button class="correction-button" id="toggleCorrection" type="button" hidden>Afficher la correction</button>
+        </div>
+
+        <article class="markdown-view" id="subjectView"></article>
+
+        <article class="correction-panel" id="correctionPanel" hidden>
+          <div class="panel-title">Correction</div>
+          <div class="markdown-view correction-content" id="correctionView"></div>
+        </article>
+        </section>
+      </section>
+    </main>
+    <div class="about-overlay" id="aboutOverlay" hidden>
+      <section class="about-dialog" id="aboutDialog" role="dialog" aria-modal="true" aria-labelledby="aboutTitle">
+        <div class="about-head">
+          <h2 id="aboutTitle">À propos</h2>
+          <button class="about-close" id="aboutClose" type="button" aria-label="Fermer">×</button>
+        </div>
+        <div class="about-content">
+          <p class="about-lead">Conçu par Alexandre Balet</p>
+          <p>Enseignant et formateur Histoire-Géographie, Bangkok, AEFE</p>
+          <p>Développée avec l’assistance de Codex et de GPT-5.6 Luna</p>
+          <p><a href="mailto:alexandre.balet@aefe.fr">alexandre.balet@aefe.fr</a></p>
+          <p>Dernière mise à jour : 26 septembre 2027</p>
+        </div>
+      </section>
+    </div>
+    <div class="sheet-overlay" id="sheetOverlay" hidden>
+      <section class="sheet-dialog" id="sheetDialog" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
+        <div class="sheet-head">
+          <div>
+            <h2 id="sheetTitle">Mon sujet personnalisé</h2>
+            <p id="sheetMeta">Ajoutez des sujets ou des extraits pour composer un entraînement à distribuer.</p>
+          </div>
+          <button class="about-close" id="sheetClose" type="button" aria-label="Fermer">×</button>
+        </div>
+        <div class="sheet-body">
+          <aside class="sheet-sidebar">
+            <div class="sheet-actions">
+              <button class="secondary-button" id="sheetClearButton" type="button">Vider la sélection</button>
+              <details class="export-menu sheet-export-menu">
+                <summary class="secondary-resource export-menu-button">Exporter le sujet</summary>
+                <div class="export-options">
+                  <button class="export-option" type="button" data-sheet-export-format="pdf">PDF</button>
+                  <button class="export-option" type="button" data-sheet-export-format="markdown">Markdown ZIP</button>
+                  <button class="export-option" type="button" data-sheet-export-format="odt">ODT LibreOffice</button>
+                  <button class="export-option" type="button" data-sheet-export-format="docx">DOCX Word</button>
+                </div>
+              </details>
+            </div>
+            <div class="sheet-selection" id="sheetSelection"></div>
+          </aside>
+          <article class="markdown-view sheet-preview" id="sheetPreview"></article>
+        </div>
+      </section>
+    </div>
+    <footer class="site-footer">
+      <p>
+        Créé par <a href="https://th.linkedin.com/in/alexandre-balet" target="_blank" rel="noopener">Alexandre Balet</a> à partir de la
+        <a href="https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique" target="_blank" rel="noopener">banque de sujets disponible sur Eduscol</a>, pour
+        <a href="http://www.laclassedhistoire.fr" target="_blank" rel="noopener">La Classe d'Histoire</a>.
+        Contenu sous licence Creative Commons CC BY-SA.
+      </p>
+      <div class="license-icons" aria-label="Licence Creative Commons CC BY-SA">
+        <span class="license-icon">CC</span>
+        <span class="license-icon">BY</span>
+        <span class="license-icon">SA</span>
+      </div>
+    </footer>
+  </body>
+</html>

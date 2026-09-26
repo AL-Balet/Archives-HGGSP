@@ -1,0 +1,9630 @@
+window.HGGSP_EXERCISES = [
+  {
+    "id": "hggsp-2026-amerique-du-nord-sujet-jour-1-1",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2026,
+    "session": "Session 2026 - Épreuves normales",
+    "place": "Amérique du Nord",
+    "title": "2026 - Amérique du Nord - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "26-HGGSPJ1AN1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj1an1-127673.pdf",
+    "links": [
+      {
+        "label": "26-hggspj1an1",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj1an1-127673.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Amérique du Nord",
+      "Session 2026 - Épreuves normales",
+      "Sujet - Jour 1",
+      "26-HGGSPJ1AN1",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires",
+      "Dissertation 1 : Peut-on construire la paix collectivement depuis les traités de Westphalie ?",
+      "Dissertation 2 : Mers et océans : des enjeux géopolitiques multiples, entre rivalités et coopérations.",
+      "Étude critique : Étude critique de documents : Transmettre la mémoire de la Shoah. Consigne : En analysant les documents, en les confrontant, et en vous appuyant sur"
+    ],
+    "indexedText": "2026 - Amérique du Nord - Sujet - Jour 1 Session 2026 - Épreuves normales Amérique du Nord Sujet - Jour 1 26-HGGSPJ1AN1 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 1 - De nouveaux espaces de conquête Thème 3 - Histoire et mémoires Dissertation 1 : Peut-on construire la paix collectivement depuis les traités de Westphalie ? Dissertation 2 : Mers et océans : des enjeux géopolitiques multiples, entre rivalités et coopérations. Étude critique : Étude critique de documents : Transmettre la mémoire de la Shoah. Consigne : En analysant les documents, en les confrontant, et en vous appuyant sur guerre paix conflit oceans mers memoire shoah",
+    "subjectMarkdown": "# 2026 - Amérique du Nord - Sujet - Jour 1\n\n**Code épreuve :** `26-HGGSPJ1AN1`\n\n**Session :** Session 2026 - Épreuves normales\n\n**Localisation :** Amérique du Nord\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 3 - Histoire et mémoires\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Peut-on construire la paix collectivement depuis les traités de Westphalie ?  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - Mers et océans : des enjeux géopolitiques multiples, entre rivalités et coopérations.  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Étude critique** - Étude critique de documents : Transmettre la mémoire de la Shoah. Consigne : En analysant les documents, en les confrontant, et en vous appuyant sur  \n  _Thème 3 - Histoire et mémoires_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj1an1-127673.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "guerre",
+      "paix",
+      "conflit",
+      "oceans",
+      "mers",
+      "memoire",
+      "shoah"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Peut-on construire la paix collectivement depuis les traités de Westphalie ?",
+      "Dissertation 2 : Mers et océans : des enjeux géopolitiques multiples, entre rivalités et coopérations.",
+      "Étude critique : Étude critique de documents : Transmettre la mémoire de la Shoah. Consigne : En analysant les documents, en les confrontant, et en vous appuyant sur"
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "themeIds": [
+      "T2",
+      "T1",
+      "T3"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Peut-on construire la paix collectivement depuis les traités de Westphalie ?",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Mers et océans : des enjeux géopolitiques multiples, entre rivalités et coopérations.",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "oceans",
+          "mers"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : Transmettre la mémoire de la Shoah. Consigne : En analysant les documents, en les confrontant, et en vous appuyant sur",
+        "documentKey": "transmettre la memoire de la shoah",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "shoah"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2026-amerique-du-nord-sujet-jour-2-2",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 3 - Histoire et mémoires",
+    "chapters": [
+      "Thème 3 - Histoire et mémoires",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2026,
+    "session": "Session 2026 - Épreuves normales",
+    "place": "Amérique du Nord",
+    "title": "2026 - Amérique du Nord - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "26-HGGSPJ2AN1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj2an1-127676.pdf",
+    "links": [
+      {
+        "label": "26-hggspj2an1",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj2an1-127676.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Amérique du Nord",
+      "Session 2026 - Épreuves normales",
+      "Sujet - Jour 2",
+      "26-HGGSPJ2AN1",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Dissertation 1 : La mémoire des conflits : un enjeu pour les sociétés.",
+      "Dissertation 2 : Acteurs et échelles de la lutte contre le changement climatique.",
+      "Étude critique : Étude critique de documents : Permanences et mutations des formes de guerre. Consigne : En analysant les documents, en les confrontant, et en vous appuyant sur"
+    ],
+    "indexedText": "2026 - Amérique du Nord - Sujet - Jour 2 Session 2026 - Épreuves normales Amérique du Nord Sujet - Jour 2 26-HGGSPJ2AN1 Thème 3 - Histoire et mémoires Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Dissertation 1 : La mémoire des conflits : un enjeu pour les sociétés. Dissertation 2 : Acteurs et échelles de la lutte contre le changement climatique. Étude critique : Étude critique de documents : Permanences et mutations des formes de guerre. Consigne : En analysant les documents, en les confrontant, et en vous appuyant sur memoire climatique guerre paix conflit",
+    "subjectMarkdown": "# 2026 - Amérique du Nord - Sujet - Jour 2\n\n**Code épreuve :** `26-HGGSPJ2AN1`\n\n**Session :** Session 2026 - Épreuves normales\n\n**Localisation :** Amérique du Nord\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 3 - Histoire et mémoires\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - La mémoire des conflits : un enjeu pour les sociétés.  \n  _Thème 3 - Histoire et mémoires_\n- **Dissertation 2** - Acteurs et échelles de la lutte contre le changement climatique.  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Étude critique de documents : Permanences et mutations des formes de guerre. Consigne : En analysant les documents, en les confrontant, et en vous appuyant sur  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj2an1-127676.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 3 - Histoire et mémoires",
+    "themeId": "T3",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "memoire",
+      "climatique",
+      "guerre",
+      "paix",
+      "conflit"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : La mémoire des conflits : un enjeu pour les sociétés.",
+      "Dissertation 2 : Acteurs et échelles de la lutte contre le changement climatique.",
+      "Étude critique : Étude critique de documents : Permanences et mutations des formes de guerre. Consigne : En analysant les documents, en les confrontant, et en vous appuyant sur"
+    ],
+    "themes": [
+      "Thème 3 - Histoire et mémoires",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "themeIds": [
+      "T3",
+      "T5",
+      "T2"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "La mémoire des conflits : un enjeu pour les sociétés.",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Acteurs et échelles de la lutte contre le changement climatique.",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "climatique"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : Permanences et mutations des formes de guerre. Consigne : En analysant les documents, en les confrontant, et en vous appuyant sur",
+        "documentKey": "permanences et mutations des formes de guerre",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2026-asie-sujet-jour-1-3",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 1 - De nouveaux espaces de conquête"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2026,
+    "session": "Session 2026 - Épreuves normales",
+    "place": "Asie",
+    "title": "2026 - Asie - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "26-HGGSPJ1JA1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj1ja1-127739.pdf",
+    "links": [
+      {
+        "label": "26-hggspj1ja1",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj1ja1-127739.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Asie",
+      "Session 2026 - Épreuves normales",
+      "Sujet - Jour 1",
+      "26-HGGSPJ1JA1",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Dissertation 1 : Les modes de résolution des conflits depuis les traités de Westphalie.",
+      "Dissertation 2 : Les États-Unis et l’environnement.",
+      "Étude critique : Étude critique de documents – La conquête de l’espace extra-atmosphérique Consigne – En analysant les documents, en les confrontant et en vous appuyant sur"
+    ],
+    "indexedText": "2026 - Asie - Sujet - Jour 1 Session 2026 - Épreuves normales Asie Sujet - Jour 1 26-HGGSPJ1JA1 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 1 - De nouveaux espaces de conquête Dissertation 1 : Les modes de résolution des conflits depuis les traités de Westphalie. Dissertation 2 : Les États-Unis et l’environnement. Étude critique : Étude critique de documents – La conquête de l’espace extra-atmosphérique Consigne – En analysant les documents, en les confrontant et en vous appuyant sur guerre paix conflit conflits environnement espace conquete",
+    "subjectMarkdown": "# 2026 - Asie - Sujet - Jour 1\n\n**Code épreuve :** `26-HGGSPJ1JA1`\n\n**Session :** Session 2026 - Épreuves normales\n\n**Localisation :** Asie\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 1 - De nouveaux espaces de conquête\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Les modes de résolution des conflits depuis les traités de Westphalie.  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - Les États-Unis et l’environnement.  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Étude critique de documents – La conquête de l’espace extra-atmosphérique Consigne – En analysant les documents, en les confrontant et en vous appuyant sur  \n  _Thème 1 - De nouveaux espaces de conquête_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj1ja1-127739.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "guerre",
+      "paix",
+      "conflit",
+      "conflits",
+      "environnement",
+      "espace",
+      "conquete"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les modes de résolution des conflits depuis les traités de Westphalie.",
+      "Dissertation 2 : Les États-Unis et l’environnement.",
+      "Étude critique : Étude critique de documents – La conquête de l’espace extra-atmosphérique Consigne – En analysant les documents, en les confrontant et en vous appuyant sur"
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 1 - De nouveaux espaces de conquête"
+    ],
+    "themeIds": [
+      "T2",
+      "T5",
+      "T1"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les modes de résolution des conflits depuis les traités de Westphalie.",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "conflits"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Les États-Unis et l’environnement.",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents – La conquête de l’espace extra-atmosphérique Consigne – En analysant les documents, en les confrontant et en vous appuyant sur",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "espace",
+          "conquete"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2026-asie-sujet-jour-2-4",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2026,
+    "session": "Session 2026 - Épreuves normales",
+    "place": "Asie",
+    "title": "2026 - Asie - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "26-HGGSPJ2JA1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj2ja1-127742.pdf",
+    "links": [
+      {
+        "label": "26-hggspj2ja1",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj2ja1-127742.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Asie",
+      "Session 2026 - Épreuves normales",
+      "Sujet - Jour 2",
+      "26-HGGSPJ2JA1",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Dissertation 1 : Mers et océans : des espaces de conquêtes, de rivalités et de coopérations.",
+      "Dissertation 2 : Comment conserver, écrire et transmettre les mémoires des génocides des Juifs et des Tsiganes ?",
+      "Étude critique : Étude critique de documents – Les formes de conflits au XXIe siècle Consigne – En analysant les docum ents, en les confrontant et en vous appuyant sur"
+    ],
+    "indexedText": "2026 - Asie - Sujet - Jour 2 Session 2026 - Épreuves normales Asie Sujet - Jour 2 26-HGGSPJ2JA1 Thème 1 - De nouveaux espaces de conquête Thème 3 - Histoire et mémoires Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Dissertation 1 : Mers et océans : des espaces de conquêtes, de rivalités et de coopérations. Dissertation 2 : Comment conserver, écrire et transmettre les mémoires des génocides des Juifs et des Tsiganes ? Étude critique : Étude critique de documents – Les formes de conflits au XXIe siècle Consigne – En analysant les docum ents, en les confrontant et en vous appuyant sur oceans mers conquetes memoire memoires genocides guerre paix conflit conflits",
+    "subjectMarkdown": "# 2026 - Asie - Sujet - Jour 2\n\n**Code épreuve :** `26-HGGSPJ2JA1`\n\n**Session :** Session 2026 - Épreuves normales\n\n**Localisation :** Asie\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 3 - Histoire et mémoires\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Mers et océans : des espaces de conquêtes, de rivalités et de coopérations.  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - Comment conserver, écrire et transmettre les mémoires des génocides des Juifs et des Tsiganes ?  \n  _Thème 3 - Histoire et mémoires_\n- **Étude critique** - Étude critique de documents – Les formes de conflits au XXIe siècle Consigne – En analysant les docum ents, en les confrontant et en vous appuyant sur  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj2ja1-127742.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "oceans",
+      "mers",
+      "conquetes",
+      "memoire",
+      "memoires",
+      "genocides",
+      "guerre",
+      "paix",
+      "conflit",
+      "conflits"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Mers et océans : des espaces de conquêtes, de rivalités et de coopérations.",
+      "Dissertation 2 : Comment conserver, écrire et transmettre les mémoires des génocides des Juifs et des Tsiganes ?",
+      "Étude critique : Étude critique de documents – Les formes de conflits au XXIe siècle Consigne – En analysant les docum ents, en les confrontant et en vous appuyant sur"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "themeIds": [
+      "T1",
+      "T3",
+      "T2"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Mers et océans : des espaces de conquêtes, de rivalités et de coopérations.",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "oceans",
+          "mers",
+          "conquetes"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Comment conserver, écrire et transmettre les mémoires des génocides des Juifs et des Tsiganes ?",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "memoires",
+          "genocides"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents – Les formes de conflits au XXIe siècle Consigne – En analysant les docum ents, en les confrontant et en vous appuyant sur",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "conflits"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2026-polynesie-francaise-sujet-jour-1-5",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2026,
+    "session": "Session 2026 - Épreuves normales",
+    "place": "Polynésie française",
+    "title": "2026 - Polynésie française - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "26-HGGSPJ1PO1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj1po1-127859.pdf",
+    "links": [
+      {
+        "label": "26-hggspj1po1",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj1po1-127859.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Polynésie française",
+      "Session 2026 - Épreuves normales",
+      "Sujet - Jour 1",
+      "26-HGGSPJ1PO1",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires",
+      "Dissertation 1 : Espace, mers et océans : théâtres de rivalités géopolitiques.",
+      "Dissertation 2 : Le rôle des sociétés dans l’évolution des milieux depuis le XIXe siècle : entre exploitation et protection.",
+      "Étude critique : Étude critique de documents – Juger les crimes de masse Consigne – En analysant les documents, en les confrontant et en vous appuyant sur vos"
+    ],
+    "indexedText": "2026 - Polynésie française - Sujet - Jour 1 Session 2026 - Épreuves normales Polynésie française Sujet - Jour 1 26-HGGSPJ1PO1 Thème 1 - De nouveaux espaces de conquête Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 3 - Histoire et mémoires Dissertation 1 : Espace, mers et océans : théâtres de rivalités géopolitiques. Dissertation 2 : Le rôle des sociétés dans l’évolution des milieux depuis le XIXe siècle : entre exploitation et protection. Étude critique : Étude critique de documents – Juger les crimes de masse Consigne – En analysant les documents, en les confrontant et en vous appuyant sur vos espace oceans mers environnement milieux exploitation protection memoire crimes de masse",
+    "subjectMarkdown": "# 2026 - Polynésie française - Sujet - Jour 1\n\n**Code épreuve :** `26-HGGSPJ1PO1`\n\n**Session :** Session 2026 - Épreuves normales\n\n**Localisation :** Polynésie française\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 3 - Histoire et mémoires\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Espace, mers et océans : théâtres de rivalités géopolitiques.  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - Le rôle des sociétés dans l’évolution des milieux depuis le XIXe siècle : entre exploitation et protection.  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Étude critique de documents – Juger les crimes de masse Consigne – En analysant les documents, en les confrontant et en vous appuyant sur vos  \n  _Thème 3 - Histoire et mémoires_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj1po1-127859.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "espace",
+      "oceans",
+      "mers",
+      "environnement",
+      "milieux",
+      "exploitation",
+      "protection",
+      "memoire",
+      "crimes de masse"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Espace, mers et océans : théâtres de rivalités géopolitiques.",
+      "Dissertation 2 : Le rôle des sociétés dans l’évolution des milieux depuis le XIXe siècle : entre exploitation et protection.",
+      "Étude critique : Étude critique de documents – Juger les crimes de masse Consigne – En analysant les documents, en les confrontant et en vous appuyant sur vos"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "themeIds": [
+      "T1",
+      "T5",
+      "T3"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Espace, mers et océans : théâtres de rivalités géopolitiques.",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "espace",
+          "oceans",
+          "mers"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Le rôle des sociétés dans l’évolution des milieux depuis le XIXe siècle : entre exploitation et protection.",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "milieux",
+          "exploitation",
+          "protection"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents – Juger les crimes de masse Consigne – En analysant les documents, en les confrontant et en vous appuyant sur vos",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "crimes de masse"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2026-polynesie-francaise-sujet-jour-2-6",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "chapters": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2026,
+    "session": "Session 2026 - Épreuves normales",
+    "place": "Polynésie française",
+    "title": "2026 - Polynésie française - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "26-HGGSPJ2PO1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj2po1-127862.pdf",
+    "links": [
+      {
+        "label": "26-hggspj2po1",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj2po1-127862.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Polynésie française",
+      "Session 2026 - Épreuves normales",
+      "Sujet - Jour 2",
+      "26-HGGSPJ2PO1",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires",
+      "Dissertation 1 : La question environnementale aux États-Unis depuis le XIXe siècle.",
+      "Dissertation 2 : Coopérer dans l’espace et les océans : un enjeu géopolitique pour les États.",
+      "Étude critique : Étude critique de documents – L’histoire et les mémoires des génocides des Juifs et des Tsiganes Consigne – En analysant les documents, en les confrontant et en vous appuyant sur vos"
+    ],
+    "indexedText": "2026 - Polynésie française - Sujet - Jour 2 Session 2026 - Épreuves normales Polynésie française Sujet - Jour 2 26-HGGSPJ2PO1 Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 1 - De nouveaux espaces de conquête Thème 3 - Histoire et mémoires Dissertation 1 : La question environnementale aux États-Unis depuis le XIXe siècle. Dissertation 2 : Coopérer dans l’espace et les océans : un enjeu géopolitique pour les États. Étude critique : Étude critique de documents – L’histoire et les mémoires des génocides des Juifs et des Tsiganes Consigne – En analysant les documents, en les confrontant et en vous appuyant sur vos environnement environnementale espace oceans memoire memoires histoire genocides",
+    "subjectMarkdown": "# 2026 - Polynésie française - Sujet - Jour 2\n\n**Code épreuve :** `26-HGGSPJ2PO1`\n\n**Session :** Session 2026 - Épreuves normales\n\n**Localisation :** Polynésie française\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 3 - Histoire et mémoires\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - La question environnementale aux États-Unis depuis le XIXe siècle.  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Dissertation 2** - Coopérer dans l’espace et les océans : un enjeu géopolitique pour les États.  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Étude critique** - Étude critique de documents – L’histoire et les mémoires des génocides des Juifs et des Tsiganes Consigne – En analysant les documents, en les confrontant et en vous appuyant sur vos  \n  _Thème 3 - Histoire et mémoires_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj2po1-127862.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "themeId": "T5",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "environnement",
+      "environnementale",
+      "espace",
+      "oceans",
+      "memoire",
+      "memoires",
+      "histoire",
+      "genocides"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : La question environnementale aux États-Unis depuis le XIXe siècle.",
+      "Dissertation 2 : Coopérer dans l’espace et les océans : un enjeu géopolitique pour les États.",
+      "Étude critique : Étude critique de documents – L’histoire et les mémoires des génocides des Juifs et des Tsiganes Consigne – En analysant les documents, en les confrontant et en vous appuyant sur vos"
+    ],
+    "themes": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "themeIds": [
+      "T5",
+      "T1",
+      "T3"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "La question environnementale aux États-Unis depuis le XIXe siècle.",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "environnementale"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Coopérer dans l’espace et les océans : un enjeu géopolitique pour les États.",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "espace",
+          "oceans"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents – L’histoire et les mémoires des génocides des Juifs et des Tsiganes Consigne – En analysant les documents, en les confrontant et en vous appuyant sur vos",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "memoires",
+          "histoire",
+          "genocides"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2026-antilles-guyane-sujet-jour-1-7",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 3 - Histoire et mémoires",
+    "chapters": [
+      "Thème 3 - Histoire et mémoires",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2026,
+    "session": "Session 2026 - Épreuves normales",
+    "place": "Antilles Guyane",
+    "title": "2026 - Antilles Guyane - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "26-HGGSPJ1AG1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj1ag1-128328.pdf",
+    "links": [
+      {
+        "label": "26-hggspj1ag1",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj1ag1-128328.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Antilles Guyane",
+      "Session 2026 - Épreuves normales",
+      "Sujet - Jour 1",
+      "26-HGGSPJ1AG1",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Dissertation 1 : Construire les mémoires des génocides des Juifs et des Tsiganes.",
+      "Dissertation 2 : Le rapport des États-Unis à l’environnement.",
+      "Étude critique : Étude critique de document – L’ONU face aux défis de la construction de la paix Consigne – En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "indexedText": "2026 - Antilles Guyane - Sujet - Jour 1 Session 2026 - Épreuves normales Antilles Guyane Sujet - Jour 1 26-HGGSPJ1AG1 Thème 3 - Histoire et mémoires Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Dissertation 1 : Construire les mémoires des génocides des Juifs et des Tsiganes. Dissertation 2 : Le rapport des États-Unis à l’environnement. Étude critique : Étude critique de document – L’ONU face aux défis de la construction de la paix Consigne – En analysant le document et en vous appuyant sur vos connaissances, memoire memoires genocides environnement guerre paix conflit onu",
+    "subjectMarkdown": "# 2026 - Antilles Guyane - Sujet - Jour 1\n\n**Code épreuve :** `26-HGGSPJ1AG1`\n\n**Session :** Session 2026 - Épreuves normales\n\n**Localisation :** Antilles Guyane\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 3 - Histoire et mémoires\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Construire les mémoires des génocides des Juifs et des Tsiganes.  \n  _Thème 3 - Histoire et mémoires_\n- **Dissertation 2** - Le rapport des États-Unis à l’environnement.  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Étude critique de document – L’ONU face aux défis de la construction de la paix Consigne – En analysant le document et en vous appuyant sur vos connaissances,  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj1ag1-128328.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 3 - Histoire et mémoires",
+    "themeId": "T3",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "memoire",
+      "memoires",
+      "genocides",
+      "environnement",
+      "guerre",
+      "paix",
+      "conflit",
+      "onu"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Construire les mémoires des génocides des Juifs et des Tsiganes.",
+      "Dissertation 2 : Le rapport des États-Unis à l’environnement.",
+      "Étude critique : Étude critique de document – L’ONU face aux défis de la construction de la paix Consigne – En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "themes": [
+      "Thème 3 - Histoire et mémoires",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "themeIds": [
+      "T3",
+      "T5",
+      "T2"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Construire les mémoires des génocides des Juifs et des Tsiganes.",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "memoires",
+          "genocides"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Le rapport des États-Unis à l’environnement.",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document – L’ONU face aux défis de la construction de la paix Consigne – En analysant le document et en vous appuyant sur vos connaissances,",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "onu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2026-antilles-guyane-sujet-jour-2-8",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 1 - De nouveaux espaces de conquête"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2026,
+    "session": "Session 2026 - Épreuves normales",
+    "place": "Antilles Guyane",
+    "title": "2026 - Antilles Guyane - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "26-HGGSPJ2AG1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj2ag1-128331.pdf",
+    "links": [
+      {
+        "label": "26-hggspj2ag1",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj2ag1-128331.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Antilles Guyane",
+      "Session 2026 - Épreuves normales",
+      "Sujet - Jour 2",
+      "26-HGGSPJ2AG1",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Dissertation 1 : Les États, seuls acteurs de la guerre depuis le XVIIIe siècle ?",
+      "Dissertation 2 : Rivalités et coopérations dans la conquête spatiale.",
+      "Étude critique : Étude critique de document – Un débat historique et ses implications politiques : les causes de la Première Guerre mondiale Consigne - À l’aide du document et en vous appuyant sur vos connaissances, vous"
+    ],
+    "indexedText": "2026 - Antilles Guyane - Sujet - Jour 2 Session 2026 - Épreuves normales Antilles Guyane Sujet - Jour 2 26-HGGSPJ2AG1 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 1 - De nouveaux espaces de conquête Dissertation 1 : Les États, seuls acteurs de la guerre depuis le XVIIIe siècle ? Dissertation 2 : Rivalités et coopérations dans la conquête spatiale. Étude critique : Étude critique de document – Un débat historique et ses implications politiques : les causes de la Première Guerre mondiale Consigne - À l’aide du document et en vous appuyant sur vos connaissances, vous guerre paix conflit spatiale conquete",
+    "subjectMarkdown": "# 2026 - Antilles Guyane - Sujet - Jour 2\n\n**Code épreuve :** `26-HGGSPJ2AG1`\n\n**Session :** Session 2026 - Épreuves normales\n\n**Localisation :** Antilles Guyane\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 1 - De nouveaux espaces de conquête\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Les États, seuls acteurs de la guerre depuis le XVIIIe siècle ?  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - Rivalités et coopérations dans la conquête spatiale.  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Étude critique** - Étude critique de document – Un débat historique et ses implications politiques : les causes de la Première Guerre mondiale Consigne - À l’aide du document et en vous appuyant sur vos connaissances, vous  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj2ag1-128331.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "guerre",
+      "paix",
+      "conflit",
+      "spatiale",
+      "conquete"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les États, seuls acteurs de la guerre depuis le XVIIIe siècle ?",
+      "Dissertation 2 : Rivalités et coopérations dans la conquête spatiale.",
+      "Étude critique : Étude critique de document – Un débat historique et ses implications politiques : les causes de la Première Guerre mondiale Consigne - À l’aide du document et en vous appuyant sur vos connaissances, vous"
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 1 - De nouveaux espaces de conquête"
+    ],
+    "themeIds": [
+      "T2",
+      "T1"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les États, seuls acteurs de la guerre depuis le XVIIIe siècle ?",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Rivalités et coopérations dans la conquête spatiale.",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "spatiale",
+          "conquete"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document – Un débat historique et ses implications politiques : les causes de la Première Guerre mondiale Consigne - À l’aide du document et en vous appuyant sur vos connaissances, vous",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2026-metropole-sujet-jour-1-9",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 3 - Histoire et mémoires",
+    "chapters": [
+      "Thème 3 - Histoire et mémoires",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2026,
+    "session": "Session 2026 - Épreuves normales",
+    "place": "Métropole",
+    "title": "2026 - Métropole - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "26-HGGSPJ1ME1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj1me1-128103.pdf",
+    "links": [
+      {
+        "label": "26-hggspj1me1",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj1me1-128103.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Métropole",
+      "Session 2026 - Épreuves normales",
+      "Sujet - Jour 1",
+      "26-HGGSPJ1ME1",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Dissertation 1 : Les acteurs de la construction des mémoires.",
+      "Dissertation 2 : Les évolutions des formes de la guerre du XVIII e siècle à nos jours.",
+      "Étude critique : Étude critique de documents – Les États-Unis et la question environnementale Consigne - En analysant les documents, en les confrontant et en vous aidant de vos"
+    ],
+    "indexedText": "2026 - Métropole - Sujet - Jour 1 Session 2026 - Épreuves normales Métropole Sujet - Jour 1 26-HGGSPJ1ME1 Thème 3 - Histoire et mémoires Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Dissertation 1 : Les acteurs de la construction des mémoires. Dissertation 2 : Les évolutions des formes de la guerre du XVIII e siècle à nos jours. Étude critique : Étude critique de documents – Les États-Unis et la question environnementale Consigne - En analysant les documents, en les confrontant et en vous aidant de vos memoire memoires guerre paix conflit environnement environnementale",
+    "subjectMarkdown": "# 2026 - Métropole - Sujet - Jour 1\n\n**Code épreuve :** `26-HGGSPJ1ME1`\n\n**Session :** Session 2026 - Épreuves normales\n\n**Localisation :** Métropole\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 3 - Histoire et mémoires\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Les acteurs de la construction des mémoires.  \n  _Thème 3 - Histoire et mémoires_\n- **Dissertation 2** - Les évolutions des formes de la guerre du XVIII e siècle à nos jours.  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Étude critique** - Étude critique de documents – Les États-Unis et la question environnementale Consigne - En analysant les documents, en les confrontant et en vous aidant de vos  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj1me1-128103.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 3 - Histoire et mémoires",
+    "themeId": "T3",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "memoire",
+      "memoires",
+      "guerre",
+      "paix",
+      "conflit",
+      "environnement",
+      "environnementale"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les acteurs de la construction des mémoires.",
+      "Dissertation 2 : Les évolutions des formes de la guerre du XVIII e siècle à nos jours.",
+      "Étude critique : Étude critique de documents – Les États-Unis et la question environnementale Consigne - En analysant les documents, en les confrontant et en vous aidant de vos"
+    ],
+    "themes": [
+      "Thème 3 - Histoire et mémoires",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "themeIds": [
+      "T3",
+      "T2",
+      "T5"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les acteurs de la construction des mémoires.",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "memoires"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Les évolutions des formes de la guerre du XVIII e siècle à nos jours.",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents – Les États-Unis et la question environnementale Consigne - En analysant les documents, en les confrontant et en vous aidant de vos",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "environnementale"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2026-metropole-sujet-jour-2-sujet-1-et-sujet-2-10",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "type": "Sujet - Jour 2 / Sujet 1 et sujet 2",
+    "types": [
+      "Sujet - Jour 2 / Sujet 1 et sujet 2",
+      "Épreuves normales"
+    ],
+    "year": 2026,
+    "session": "Session 2026 - Épreuves normales",
+    "place": "Métropole",
+    "title": "2026 - Métropole - Sujet - Jour 2 / Sujet 1 et sujet 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "26-HGGSPJ2ME1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj2me1-128106.pdf",
+    "links": [
+      {
+        "label": "26-hggspj2me1",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj2me1-128106.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "26-hggspj2me2",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj2me2-128109.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Métropole",
+      "Session 2026 - Épreuves normales",
+      "Sujet - Jour 2 / Sujet 1 et sujet 2",
+      "26-HGGSPJ2ME1",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires",
+      "Dissertation 1 : Les défis de la conquête de l’espace.",
+      "Dissertation 2 : Protéger l’environnement depuis le XIX e siècle.",
+      "Étude critique : Étude critique de documents – Juger les crimes de masse et de génocide Consigne - En analysant les documents, en les confrontant et en vous appuyant sur"
+    ],
+    "indexedText": "2026 - Métropole - Sujet - Jour 2 / Sujet 1 et sujet 2 Session 2026 - Épreuves normales Métropole Sujet - Jour 2 / Sujet 1 et sujet 2 26-HGGSPJ2ME1 Thème 1 - De nouveaux espaces de conquête Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 3 - Histoire et mémoires Dissertation 1 : Les défis de la conquête de l’espace. Dissertation 2 : Protéger l’environnement depuis le XIX e siècle. Étude critique : Étude critique de documents – Juger les crimes de masse et de génocide Consigne - En analysant les documents, en les confrontant et en vous appuyant sur espace conquete environnement memoire genocide crimes de masse",
+    "subjectMarkdown": "# 2026 - Métropole - Sujet - Jour 2 / Sujet 1 et sujet 2\n\n**Code épreuve :** `26-HGGSPJ2ME1`\n\n**Session :** Session 2026 - Épreuves normales\n\n**Localisation :** Métropole\n\n**Description :** Sujet - Jour 2 / Sujet 1 et sujet 2\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 3 - Histoire et mémoires\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Les défis de la conquête de l’espace.  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - Protéger l’environnement depuis le XIX e siècle.  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Étude critique de documents – Juger les crimes de masse et de génocide Consigne - En analysant les documents, en les confrontant et en vous appuyant sur  \n  _Thème 3 - Histoire et mémoires_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj2me1-128106.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "espace",
+      "conquete",
+      "environnement",
+      "memoire",
+      "genocide",
+      "crimes de masse"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les défis de la conquête de l’espace.",
+      "Dissertation 2 : Protéger l’environnement depuis le XIX e siècle.",
+      "Étude critique : Étude critique de documents – Juger les crimes de masse et de génocide Consigne - En analysant les documents, en les confrontant et en vous appuyant sur"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "themeIds": [
+      "T1",
+      "T5",
+      "T3"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les défis de la conquête de l’espace.",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "espace",
+          "conquete"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Protéger l’environnement depuis le XIX e siècle.",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents – Juger les crimes de masse et de génocide Consigne - En analysant les documents, en les confrontant et en vous appuyant sur",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "genocide",
+          "crimes de masse"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2026-centres-etrangers-g1-sujet-jour-1-11",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 1 - De nouveaux espaces de conquête"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2026,
+    "session": "Session 2026 - Épreuves normales",
+    "place": "Centres étrangers G1",
+    "title": "2026 - Centres étrangers G1 - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "26-HGGSPJ1G11",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj1g11-128463.pdf",
+    "links": [
+      {
+        "label": "26-hggspj1g11",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj1g11-128463.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Centres étrangers G1",
+      "Session 2026 - Épreuves normales",
+      "Sujet - Jour 1",
+      "26-HGGSPJ1G11",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Dissertation 1 : Construire la paix depuis le XVIIe siècle : acteurs, moyens, limites.",
+      "Dissertation 2 : La construction des mémoires des conflits : quels acteurs pour quelles finalités ?",
+      "Étude critique : Étude critique de documents - La Chine à la conquête des mers et des océans Consigne - En analysant les documents, en les confrontant et en vous appuyant sur"
+    ],
+    "indexedText": "2026 - Centres étrangers G1 - Sujet - Jour 1 Session 2026 - Épreuves normales Centres étrangers G1 Sujet - Jour 1 26-HGGSPJ1G11 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 3 - Histoire et mémoires Thème 1 - De nouveaux espaces de conquête Dissertation 1 : Construire la paix depuis le XVIIe siècle : acteurs, moyens, limites. Dissertation 2 : La construction des mémoires des conflits : quels acteurs pour quelles finalités ? Étude critique : Étude critique de documents - La Chine à la conquête des mers et des océans Consigne - En analysant les documents, en les confrontant et en vous appuyant sur guerre paix conflit memoire memoires oceans mers conquete",
+    "subjectMarkdown": "# 2026 - Centres étrangers G1 - Sujet - Jour 1\n\n**Code épreuve :** `26-HGGSPJ1G11`\n\n**Session :** Session 2026 - Épreuves normales\n\n**Localisation :** Centres étrangers G1\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 3 - Histoire et mémoires\n- Thème 1 - De nouveaux espaces de conquête\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Construire la paix depuis le XVIIe siècle : acteurs, moyens, limites.  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - La construction des mémoires des conflits : quels acteurs pour quelles finalités ?  \n  _Thème 3 - Histoire et mémoires_\n- **Étude critique** - Étude critique de documents - La Chine à la conquête des mers et des océans Consigne - En analysant les documents, en les confrontant et en vous appuyant sur  \n  _Thème 1 - De nouveaux espaces de conquête_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj1g11-128463.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "guerre",
+      "paix",
+      "conflit",
+      "memoire",
+      "memoires",
+      "oceans",
+      "mers",
+      "conquete"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Construire la paix depuis le XVIIe siècle : acteurs, moyens, limites.",
+      "Dissertation 2 : La construction des mémoires des conflits : quels acteurs pour quelles finalités ?",
+      "Étude critique : Étude critique de documents - La Chine à la conquête des mers et des océans Consigne - En analysant les documents, en les confrontant et en vous appuyant sur"
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 1 - De nouveaux espaces de conquête"
+    ],
+    "themeIds": [
+      "T2",
+      "T3",
+      "T1"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Construire la paix depuis le XVIIe siècle : acteurs, moyens, limites.",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "La construction des mémoires des conflits : quels acteurs pour quelles finalités ?",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "memoires"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents - La Chine à la conquête des mers et des océans Consigne - En analysant les documents, en les confrontant et en vous appuyant sur",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "oceans",
+          "mers",
+          "conquete"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2026-centres-etrangers-g1-sujet-jour-2-12",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2026,
+    "session": "Session 2026 - Épreuves normales",
+    "place": "Centres étrangers G1",
+    "title": "2026 - Centres étrangers G1 - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "26-HGGSPJ2G11",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj2g11-128466.pdf",
+    "links": [
+      {
+        "label": "26-hggspj2g11",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj2g11-128466.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Centres étrangers G1",
+      "Session 2026 - Épreuves normales",
+      "Sujet - Jour 2",
+      "26-HGGSPJ2G11",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Dissertation 1 : Les conflits du Moyen-Orient depuis 1948 remettent-ils en cause le modèle de Clausewitz ?",
+      "Dissertation 2 : La conquête de l’espace de la Guerre froide à nos jours : rivalités et coopérations.",
+      "Étude critique : Étude critique de documents - L’environnement aux États-Unis : entre exploitation et protection Consigne - En analysant les docum ents, en les confrontant et en vous appuyant sur"
+    ],
+    "indexedText": "2026 - Centres étrangers G1 - Sujet - Jour 2 Session 2026 - Épreuves normales Centres étrangers G1 Sujet - Jour 2 26-HGGSPJ2G11 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Dissertation 1 : Les conflits du Moyen-Orient depuis 1948 remettent-ils en cause le modèle de Clausewitz ? Dissertation 2 : La conquête de l’espace de la Guerre froide à nos jours : rivalités et coopérations. Étude critique : Étude critique de documents - L’environnement aux États-Unis : entre exploitation et protection Consigne - En analysant les docum ents, en les confrontant et en vous appuyant sur guerre paix conflit conflits clausewitz moyen-orient environnement exploitation protection",
+    "subjectMarkdown": "# 2026 - Centres étrangers G1 - Sujet - Jour 2\n\n**Code épreuve :** `26-HGGSPJ2G11`\n\n**Session :** Session 2026 - Épreuves normales\n\n**Localisation :** Centres étrangers G1\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Les conflits du Moyen-Orient depuis 1948 remettent-ils en cause le modèle de Clausewitz ?  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - La conquête de l’espace de la Guerre froide à nos jours : rivalités et coopérations.  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Étude critique** - Étude critique de documents - L’environnement aux États-Unis : entre exploitation et protection Consigne - En analysant les docum ents, en les confrontant et en vous appuyant sur  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/26-hggspj2g11-128466.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "guerre",
+      "paix",
+      "conflit",
+      "conflits",
+      "clausewitz",
+      "moyen-orient",
+      "environnement",
+      "exploitation",
+      "protection"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les conflits du Moyen-Orient depuis 1948 remettent-ils en cause le modèle de Clausewitz ?",
+      "Dissertation 2 : La conquête de l’espace de la Guerre froide à nos jours : rivalités et coopérations.",
+      "Étude critique : Étude critique de documents - L’environnement aux États-Unis : entre exploitation et protection Consigne - En analysant les docum ents, en les confrontant et en vous appuyant sur"
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "themeIds": [
+      "T2",
+      "T5"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les conflits du Moyen-Orient depuis 1948 remettent-ils en cause le modèle de Clausewitz ?",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "conflits",
+          "clausewitz",
+          "moyen-orient"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "La conquête de l’espace de la Guerre froide à nos jours : rivalités et coopérations.",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents - L’environnement aux États-Unis : entre exploitation et protection Consigne - En analysant les docum ents, en les confrontant et en vous appuyant sur",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "exploitation",
+          "protection"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2025-nouvelle-caledonie-sujet-jour-1-13",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2025,
+    "session": "Session 2025 - Épreuves normales",
+    "place": "Nouvelle-Calédonie",
+    "title": "2025 - Nouvelle-Calédonie - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "25-HGGSPJ1NC1_V1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1nc1v1-123641.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1nc1v1-123641.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Nouvelle-Calédonie",
+      "Session 2025 - Épreuves normales",
+      "Sujet - Jour 1",
+      "25-HGGSPJ1NC1_V1",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 3 - Histoire et mémoires",
+      "Dissertation 1 : Mers et océans : des espaces d’affrontements et de coopérations",
+      "Dissertation 2 : Pourquoi est-il difficile de conserver le patrimoine ?",
+      "Étude critique : Étude critique de document : L’historien et les mémoires de la guerre d’Algérie Consigne : En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "indexedText": "2025 - Nouvelle-Calédonie - Sujet - Jour 1 Session 2025 - Épreuves normales Nouvelle-Calédonie Sujet - Jour 1 25-HGGSPJ1NC1_V1 Thème 1 - De nouveaux espaces de conquête Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 3 - Histoire et mémoires Dissertation 1 : Mers et océans : des espaces d’affrontements et de coopérations Dissertation 2 : Pourquoi est-il difficile de conserver le patrimoine ? Étude critique : Étude critique de document : L’historien et les mémoires de la guerre d’Algérie Consigne : En analysant le document et en vous appuyant sur vos connaissances, oceans mers patrimoine memoire memoires algerie",
+    "subjectMarkdown": "# 2025 - Nouvelle-Calédonie - Sujet - Jour 1\n\n**Code épreuve :** `25-HGGSPJ1NC1_V1`\n\n**Session :** Session 2025 - Épreuves normales\n\n**Localisation :** Nouvelle-Calédonie\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 3 - Histoire et mémoires\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Mers et océans : des espaces d’affrontements et de coopérations  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - Pourquoi est-il difficile de conserver le patrimoine ?  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Étude critique** - Étude critique de document : L’historien et les mémoires de la guerre d’Algérie Consigne : En analysant le document et en vous appuyant sur vos connaissances,  \n  _Thème 3 - Histoire et mémoires_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1nc1v1-123641.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "oceans",
+      "mers",
+      "patrimoine",
+      "memoire",
+      "memoires",
+      "algerie"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Mers et océans : des espaces d’affrontements et de coopérations",
+      "Dissertation 2 : Pourquoi est-il difficile de conserver le patrimoine ?",
+      "Étude critique : Étude critique de document : L’historien et les mémoires de la guerre d’Algérie Consigne : En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "themeIds": [
+      "T1",
+      "T4",
+      "T3"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Mers et océans : des espaces d’affrontements et de coopérations",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "oceans",
+          "mers"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Pourquoi est-il difficile de conserver le patrimoine ?",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document : L’historien et les mémoires de la guerre d’Algérie Consigne : En analysant le document et en vous appuyant sur vos connaissances,",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "memoires",
+          "algerie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2025-nouvelle-caledonie-sujet-jour-2-14",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 3 - Histoire et mémoires",
+    "chapters": [
+      "Thème 3 - Histoire et mémoires",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2025,
+    "session": "Session 2025 - Épreuves normales",
+    "place": "Nouvelle-Calédonie",
+    "title": "2025 - Nouvelle-Calédonie - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "25-HGGSPJ2NC1_V1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2nc1v1-123638.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2nc1v1-123638.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Nouvelle-Calédonie",
+      "Session 2025 - Épreuves normales",
+      "Sujet - Jour 2",
+      "25-HGGSPJ2NC1_V1",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Dissertation 1 : Juger les crimes de masse depuis 1945",
+      "Dissertation 2 : L’affirmation de la Chine , dans l’espace et sur les océans, lui permet -elle d’être une grande puissance ?",
+      "Étude critique : Étude critique de document : L’ONU au début du XXI e siècle : acteur de la paix en difficulté. Consigne : En analysant le document, et en vous appuyant sur vos connaissances, vous"
+    ],
+    "indexedText": "2025 - Nouvelle-Calédonie - Sujet - Jour 2 Session 2025 - Épreuves normales Nouvelle-Calédonie Sujet - Jour 2 25-HGGSPJ2NC1_V1 Thème 3 - Histoire et mémoires Thème 1 - De nouveaux espaces de conquête Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Dissertation 1 : Juger les crimes de masse depuis 1945 Dissertation 2 : L’affirmation de la Chine , dans l’espace et sur les océans, lui permet -elle d’être une grande puissance ? Étude critique : Étude critique de document : L’ONU au début du XXI e siècle : acteur de la paix en difficulté. Consigne : En analysant le document, et en vous appuyant sur vos connaissances, vous memoire crimes de masse espace puissance oceans guerre paix conflit onu",
+    "subjectMarkdown": "# 2025 - Nouvelle-Calédonie - Sujet - Jour 2\n\n**Code épreuve :** `25-HGGSPJ2NC1_V1`\n\n**Session :** Session 2025 - Épreuves normales\n\n**Localisation :** Nouvelle-Calédonie\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 3 - Histoire et mémoires\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Juger les crimes de masse depuis 1945  \n  _Thème 3 - Histoire et mémoires_\n- **Dissertation 2** - L’affirmation de la Chine , dans l’espace et sur les océans, lui permet -elle d’être une grande puissance ?  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Étude critique** - Étude critique de document : L’ONU au début du XXI e siècle : acteur de la paix en difficulté. Consigne : En analysant le document, et en vous appuyant sur vos connaissances, vous  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2nc1v1-123638.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 3 - Histoire et mémoires",
+    "themeId": "T3",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "memoire",
+      "crimes de masse",
+      "espace",
+      "puissance",
+      "oceans",
+      "guerre",
+      "paix",
+      "conflit",
+      "onu"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Juger les crimes de masse depuis 1945",
+      "Dissertation 2 : L’affirmation de la Chine , dans l’espace et sur les océans, lui permet -elle d’être une grande puissance ?",
+      "Étude critique : Étude critique de document : L’ONU au début du XXI e siècle : acteur de la paix en difficulté. Consigne : En analysant le document, et en vous appuyant sur vos connaissances, vous"
+    ],
+    "themes": [
+      "Thème 3 - Histoire et mémoires",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "themeIds": [
+      "T3",
+      "T1",
+      "T2"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Juger les crimes de masse depuis 1945",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "crimes de masse"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "L’affirmation de la Chine , dans l’espace et sur les océans, lui permet -elle d’être une grande puissance ?",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "espace",
+          "puissance",
+          "oceans"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document : L’ONU au début du XXI e siècle : acteur de la paix en difficulté. Consigne : En analysant le document, et en vous appuyant sur vos connaissances, vous",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "onu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2025-amerique-du-nord-sujet-jour-1-15",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2025,
+    "session": "Session 2025 - Épreuves normales",
+    "place": "Amérique du Nord",
+    "title": "2025 - Amérique du Nord - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "25-HGGSPJ1AN1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1an1v1pdf-113025.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1an1v1pdf-113025.pdf",
+        "kind": "pdf"
+      },
+    ],
+    "keywords": [
+      "Amérique du Nord",
+      "Session 2025 - Épreuves normales",
+      "Sujet - Jour 1",
+      "25-HGGSPJ1AN1",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires",
+      "Dissertation 1 : Les nouveaux espaces de conquête, des espaces de rivalités entre États ?",
+      "Dissertation 2 : La question environnementale aux États-Unis, une préoccupation ancienne et actuelle.",
+      "Étude critique : Étude critique de document – Mémoires et histoire d’un conflit : la guerre d’Algérie Consigne – En analysant le document et en vous appuyant sur vos connaissances, vous"
+    ],
+    "indexedText": "2025 - Amérique du Nord - Sujet - Jour 1 Session 2025 - Épreuves normales Amérique du Nord Sujet - Jour 1 25-HGGSPJ1AN1 Thème 1 - De nouveaux espaces de conquête Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 3 - Histoire et mémoires Dissertation 1 : Les nouveaux espaces de conquête, des espaces de rivalités entre États ? Dissertation 2 : La question environnementale aux États-Unis, une préoccupation ancienne et actuelle. Étude critique : Étude critique de document – Mémoires et histoire d’un conflit : la guerre d’Algérie Consigne – En analysant le document et en vous appuyant sur vos connaissances, vous conquete environnement environnementale memoire memoires histoire algerie",
+    "subjectMarkdown": "# 2025 - Amérique du Nord - Sujet - Jour 1\n\n**Code épreuve :** `25-HGGSPJ1AN1`\n\n**Session :** Session 2025 - Épreuves normales\n\n**Localisation :** Amérique du Nord\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 3 - Histoire et mémoires\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Les nouveaux espaces de conquête, des espaces de rivalités entre États ?  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - La question environnementale aux États-Unis, une préoccupation ancienne et actuelle.  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Étude critique de document – Mémoires et histoire d’un conflit : la guerre d’Algérie Consigne – En analysant le document et en vous appuyant sur vos connaissances, vous  \n  _Thème 3 - Histoire et mémoires_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1an1v1pdf-113025.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "conquete",
+      "environnement",
+      "environnementale",
+      "memoire",
+      "memoires",
+      "histoire",
+      "algerie"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les nouveaux espaces de conquête, des espaces de rivalités entre États ?",
+      "Dissertation 2 : La question environnementale aux États-Unis, une préoccupation ancienne et actuelle.",
+      "Étude critique : Étude critique de document – Mémoires et histoire d’un conflit : la guerre d’Algérie Consigne – En analysant le document et en vous appuyant sur vos connaissances, vous"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "themeIds": [
+      "T1",
+      "T5",
+      "T3"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les nouveaux espaces de conquête, des espaces de rivalités entre États ?",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "conquete"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "La question environnementale aux États-Unis, une préoccupation ancienne et actuelle.",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "environnementale"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document – Mémoires et histoire d’un conflit : la guerre d’Algérie Consigne – En analysant le document et en vous appuyant sur vos connaissances, vous",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "memoires",
+          "histoire",
+          "algerie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2025-amerique-du-nord-sujet-jour-2-16",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 6 - L'enjeu de la connaissance",
+    "chapters": [
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2025,
+    "session": "Session 2025 - Épreuves normales",
+    "place": "Amérique du Nord",
+    "title": "2025 - Amérique du Nord - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "25-HGGSPPE2",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggsppe2v1pdf-113028.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggsppe2v1pdf-113028.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Amérique du Nord",
+      "Session 2025 - Épreuves normales",
+      "Sujet - Jour 2",
+      "25-HGGSPPE2",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Dissertation 1 : Connaissance et puissance des États, un lien fondamental.",
+      "Dissertation 2 : L’affirmation de s mémoires et la construction de l’histoire du génocide des Juifs et des Tsiganes depuis 1945.",
+      "Étude critique : Étude critique de documents : Les menaces sur la préservation du patrimoine. Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos"
+    ],
+    "indexedText": "2025 - Amérique du Nord - Sujet - Jour 2 Session 2025 - Épreuves normales Amérique du Nord Sujet - Jour 2 25-HGGSPPE2 Thème 6 - L'enjeu de la connaissance Thème 3 - Histoire et mémoires Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Dissertation 1 : Connaissance et puissance des États, un lien fondamental. Dissertation 2 : L’affirmation de s mémoires et la construction de l’histoire du génocide des Juifs et des Tsiganes depuis 1945. Étude critique : Étude critique de documents : Les menaces sur la préservation du patrimoine. Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos connaissance memoire memoires histoire genocide patrimoine",
+    "subjectMarkdown": "# 2025 - Amérique du Nord - Sujet - Jour 2\n\n**Code épreuve :** `25-HGGSPPE2`\n\n**Session :** Session 2025 - Épreuves normales\n\n**Localisation :** Amérique du Nord\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 6 - L'enjeu de la connaissance\n- Thème 3 - Histoire et mémoires\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Connaissance et puissance des États, un lien fondamental.  \n  _Thème 6 - L'enjeu de la connaissance_\n- **Dissertation 2** - L’affirmation de s mémoires et la construction de l’histoire du génocide des Juifs et des Tsiganes depuis 1945.  \n  _Thème 3 - Histoire et mémoires_\n- **Étude critique** - Étude critique de documents : Les menaces sur la préservation du patrimoine. Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/25-hggsppe2v1pdf-113028.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 6 - L'enjeu de la connaissance",
+    "themeId": "T6",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "connaissance",
+      "memoire",
+      "memoires",
+      "histoire",
+      "genocide",
+      "patrimoine"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Connaissance et puissance des États, un lien fondamental.",
+      "Dissertation 2 : L’affirmation de s mémoires et la construction de l’histoire du génocide des Juifs et des Tsiganes depuis 1945.",
+      "Étude critique : Étude critique de documents : Les menaces sur la préservation du patrimoine. Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos"
+    ],
+    "themes": [
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques"
+    ],
+    "themeIds": [
+      "T6",
+      "T3",
+      "T4"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Connaissance et puissance des États, un lien fondamental.",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "L’affirmation de s mémoires et la construction de l’histoire du génocide des Juifs et des Tsiganes depuis 1945.",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "memoires",
+          "histoire",
+          "genocide"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : Les menaces sur la préservation du patrimoine. Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2025-amerique-du-sud-sujet-jour-2-17",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+    "chapters": [
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2025,
+    "session": "Session 2025 - Épreuves normales",
+    "place": "Amérique du Sud",
+    "title": "2025 - Amérique du Sud - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "25-HGGSPJ2AS1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2as1-a16pdf-124841.pdf",
+    "links": [
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2as1-a16pdf-124841.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Amérique du Sud",
+      "Session 2025 - Épreuves normales",
+      "Sujet - Jour 2",
+      "25-HGGSPJ2AS1",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Dissertation 1 : Le rapport au patrimoine se limite-t-il à la seule question de sa préservation ?",
+      "Dissertation 2 : La connaissance : un outil de puissance pour les États.",
+      "Étude critique : Étude critique de document – L’évolution de la gestion de la forêt française Consigne – En analysant le document et en vous appuyant sur vos"
+    ],
+    "indexedText": "2025 - Amérique du Sud - Sujet - Jour 2 Session 2025 - Épreuves normales Amérique du Sud Sujet - Jour 2 25-HGGSPJ2AS1 Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 6 - L'enjeu de la connaissance Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Dissertation 1 : Le rapport au patrimoine se limite-t-il à la seule question de sa préservation ? Dissertation 2 : La connaissance : un outil de puissance pour les États. Étude critique : Étude critique de document – L’évolution de la gestion de la forêt française Consigne – En analysant le document et en vous appuyant sur vos patrimoine connaissance environnement foret",
+    "subjectMarkdown": "# 2025 - Amérique du Sud - Sujet - Jour 2\n\n**Code épreuve :** `25-HGGSPJ2AS1`\n\n**Session :** Session 2025 - Épreuves normales\n\n**Localisation :** Amérique du Sud\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 6 - L'enjeu de la connaissance\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Le rapport au patrimoine se limite-t-il à la seule question de sa préservation ?  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Dissertation 2** - La connaissance : un outil de puissance pour les États.  \n  _Thème 6 - L'enjeu de la connaissance_\n- **Étude critique** - Étude critique de document – L’évolution de la gestion de la forêt française Consigne – En analysant le document et en vous appuyant sur vos  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2as1-a16pdf-124841.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+    "themeId": "T4",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "patrimoine",
+      "connaissance",
+      "environnement",
+      "foret"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Le rapport au patrimoine se limite-t-il à la seule question de sa préservation ?",
+      "Dissertation 2 : La connaissance : un outil de puissance pour les États.",
+      "Étude critique : Étude critique de document – L’évolution de la gestion de la forêt française Consigne – En analysant le document et en vous appuyant sur vos"
+    ],
+    "themes": [
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "themeIds": [
+      "T4",
+      "T6",
+      "T5"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Le rapport au patrimoine se limite-t-il à la seule question de sa préservation ?",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "La connaissance : un outil de puissance pour les États.",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document – L’évolution de la gestion de la forêt française Consigne – En analysant le document et en vous appuyant sur vos",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "foret"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2025-asie-sujet-jour-1-18",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2025,
+    "session": "Session 2025 - Épreuves normales",
+    "place": "Asie",
+    "title": "2025 - Asie - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "25-HGGSPJ1JA1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1ja1v1pdf-113085.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1ja1v1pdf-113085.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1ja1-a16pdf-124919.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Asie",
+      "Session 2025 - Épreuves normales",
+      "Sujet - Jour 1",
+      "25-HGGSPJ1JA1",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 3 - Histoire et mémoires",
+      "Dissertation 1 : Les acteurs de la conquête spatiale, entre rivalités et coopérations.",
+      "Dissertation 2 : Le patrimoine, enjeu de tensions entre différents acteurs.",
+      "Étude critique : Étude critique de documents - Histoire et mémoires Consigne - En analysant les documents, en les confrontant et en vous a ppuyant sur"
+    ],
+    "indexedText": "2025 - Asie - Sujet - Jour 1 Session 2025 - Épreuves normales Asie Sujet - Jour 1 25-HGGSPJ1JA1 Thème 1 - De nouveaux espaces de conquête Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 3 - Histoire et mémoires Dissertation 1 : Les acteurs de la conquête spatiale, entre rivalités et coopérations. Dissertation 2 : Le patrimoine, enjeu de tensions entre différents acteurs. Étude critique : Étude critique de documents - Histoire et mémoires Consigne - En analysant les documents, en les confrontant et en vous a ppuyant sur spatiale conquete patrimoine memoire memoires histoire",
+    "subjectMarkdown": "# 2025 - Asie - Sujet - Jour 1\n\n**Code épreuve :** `25-HGGSPJ1JA1`\n\n**Session :** Session 2025 - Épreuves normales\n\n**Localisation :** Asie\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 3 - Histoire et mémoires\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Les acteurs de la conquête spatiale, entre rivalités et coopérations.  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - Le patrimoine, enjeu de tensions entre différents acteurs.  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Étude critique** - Étude critique de documents - Histoire et mémoires Consigne - En analysant les documents, en les confrontant et en vous a ppuyant sur  \n  _Thème 3 - Histoire et mémoires_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1ja1v1pdf-113085.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "spatiale",
+      "conquete",
+      "patrimoine",
+      "memoire",
+      "memoires",
+      "histoire"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les acteurs de la conquête spatiale, entre rivalités et coopérations.",
+      "Dissertation 2 : Le patrimoine, enjeu de tensions entre différents acteurs.",
+      "Étude critique : Étude critique de documents - Histoire et mémoires Consigne - En analysant les documents, en les confrontant et en vous a ppuyant sur"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "themeIds": [
+      "T1",
+      "T4",
+      "T3"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les acteurs de la conquête spatiale, entre rivalités et coopérations.",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "spatiale",
+          "conquete"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Le patrimoine, enjeu de tensions entre différents acteurs.",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents - Histoire et mémoires Consigne - En analysant les documents, en les confrontant et en vous a ppuyant sur",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "memoires",
+          "histoire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2025-asie-sujet-jour-2-19",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "chapters": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2025,
+    "session": "Session 2025 - Épreuves normales",
+    "place": "Asie",
+    "title": "2025 - Asie - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "25-HGGSPJ2JA1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2ja1v1pdf-113088.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2ja1v1pdf-113088.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2ja1-a16pdf-124922.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Asie",
+      "Session 2025 - Épreuves normales",
+      "Sujet - Jour 2",
+      "25-HGGSPJ2JA1",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Dissertation 1 : Les réponses au changement climatique à différentes échelles.",
+      "Dissertation 2 : La connaissance, un enjeu du développement.",
+      "Étude critique : Étude critique de documents - Faire la guerre, faire la paix : formes de conflits et modes de résolution Consigne - En analysant les documents, en les confrontant et en vous appuy ant sur"
+    ],
+    "indexedText": "2025 - Asie - Sujet - Jour 2 Session 2025 - Épreuves normales Asie Sujet - Jour 2 25-HGGSPJ2JA1 Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 6 - L'enjeu de la connaissance Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Dissertation 1 : Les réponses au changement climatique à différentes échelles. Dissertation 2 : La connaissance, un enjeu du développement. Étude critique : Étude critique de documents - Faire la guerre, faire la paix : formes de conflits et modes de résolution Consigne - En analysant les documents, en les confrontant et en vous appuy ant sur climatique connaissance guerre paix conflit conflits",
+    "subjectMarkdown": "# 2025 - Asie - Sujet - Jour 2\n\n**Code épreuve :** `25-HGGSPJ2JA1`\n\n**Session :** Session 2025 - Épreuves normales\n\n**Localisation :** Asie\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 6 - L'enjeu de la connaissance\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Les réponses au changement climatique à différentes échelles.  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Dissertation 2** - La connaissance, un enjeu du développement.  \n  _Thème 6 - L'enjeu de la connaissance_\n- **Étude critique** - Étude critique de documents - Faire la guerre, faire la paix : formes de conflits et modes de résolution Consigne - En analysant les documents, en les confrontant et en vous appuy ant sur  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2ja1v1pdf-113088.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "themeId": "T5",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "climatique",
+      "connaissance",
+      "guerre",
+      "paix",
+      "conflit",
+      "conflits"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les réponses au changement climatique à différentes échelles.",
+      "Dissertation 2 : La connaissance, un enjeu du développement.",
+      "Étude critique : Étude critique de documents - Faire la guerre, faire la paix : formes de conflits et modes de résolution Consigne - En analysant les documents, en les confrontant et en vous appuy ant sur"
+    ],
+    "themes": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "themeIds": [
+      "T5",
+      "T6",
+      "T2"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les réponses au changement climatique à différentes échelles.",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "climatique"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "La connaissance, un enjeu du développement.",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents - Faire la guerre, faire la paix : formes de conflits et modes de résolution Consigne - En analysant les documents, en les confrontant et en vous appuy ant sur",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "conflits"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2025-centres-etrangers-g1-sujet-jour-1-20",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 3 - Histoire et mémoires",
+    "chapters": [
+      "Thème 3 - Histoire et mémoires",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2025,
+    "session": "Session 2025 - Épreuves normales",
+    "place": "Centres étrangers G1",
+    "title": "2025 - Centres étrangers G1 - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "25-HGGSPJ1G11_V1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1g11v1-123749.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1g11v1-123749.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1g11-a16pdf-124964.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 20",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1g11-a20pdf-124967.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Centres étrangers G1",
+      "Session 2025 - Épreuves normales",
+      "Sujet - Jour 1",
+      "25-HGGSPJ1G11_V1",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Dissertation 1 : Acteurs et enjeux de la construction des mémoires du génocide des Juifs et des Tsiganes depuis 1945.",
+      "Dissertation 2 : Guerres régulières et guerres irrégulières après la fin de la Seconde Guerre mondiale.",
+      "Étude critique : Étude critique de document - De nouveaux espaces de conquête Consigne - En analysant le document et en vous appuyant sur vos connaissances, montrez"
+    ],
+    "indexedText": "2025 - Centres étrangers G1 - Sujet - Jour 1 Session 2025 - Épreuves normales Centres étrangers G1 Sujet - Jour 1 25-HGGSPJ1G11_V1 Thème 3 - Histoire et mémoires Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 6 - L'enjeu de la connaissance Dissertation 1 : Acteurs et enjeux de la construction des mémoires du génocide des Juifs et des Tsiganes depuis 1945. Dissertation 2 : Guerres régulières et guerres irrégulières après la fin de la Seconde Guerre mondiale. Étude critique : Étude critique de document - De nouveaux espaces de conquête Consigne - En analysant le document et en vous appuyant sur vos connaissances, montrez memoire memoires genocide guerre guerres paix conflit connaissance connaissances",
+    "subjectMarkdown": "# 2025 - Centres étrangers G1 - Sujet - Jour 1\n\n**Code épreuve :** `25-HGGSPJ1G11_V1`\n\n**Session :** Session 2025 - Épreuves normales\n\n**Localisation :** Centres étrangers G1\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 3 - Histoire et mémoires\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 6 - L'enjeu de la connaissance\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Acteurs et enjeux de la construction des mémoires du génocide des Juifs et des Tsiganes depuis 1945.  \n  _Thème 3 - Histoire et mémoires_\n- **Dissertation 2** - Guerres régulières et guerres irrégulières après la fin de la Seconde Guerre mondiale.  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Étude critique** - Étude critique de document - De nouveaux espaces de conquête Consigne - En analysant le document et en vous appuyant sur vos connaissances, montrez  \n  _Thème 6 - L'enjeu de la connaissance_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1g11v1-123749.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 3 - Histoire et mémoires",
+    "themeId": "T3",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "memoire",
+      "memoires",
+      "genocide",
+      "guerre",
+      "guerres",
+      "paix",
+      "conflit",
+      "connaissance",
+      "connaissances"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Acteurs et enjeux de la construction des mémoires du génocide des Juifs et des Tsiganes depuis 1945.",
+      "Dissertation 2 : Guerres régulières et guerres irrégulières après la fin de la Seconde Guerre mondiale.",
+      "Étude critique : Étude critique de document - De nouveaux espaces de conquête Consigne - En analysant le document et en vous appuyant sur vos connaissances, montrez"
+    ],
+    "themes": [
+      "Thème 3 - Histoire et mémoires",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "themeIds": [
+      "T3",
+      "T2",
+      "T6"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Acteurs et enjeux de la construction des mémoires du génocide des Juifs et des Tsiganes depuis 1945.",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "memoires",
+          "genocide"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Guerres régulières et guerres irrégulières après la fin de la Seconde Guerre mondiale.",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "guerres",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document - De nouveaux espaces de conquête Consigne - En analysant le document et en vous appuyant sur vos connaissances, montrez",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance",
+          "connaissances"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2025-centres-etrangers-g1-sujet-jour-2-21",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 3 - Histoire et mémoires",
+    "chapters": [
+      "Thème 3 - Histoire et mémoires",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2025,
+    "session": "Session 2025 - Épreuves normales",
+    "place": "Centres étrangers G1",
+    "title": "2025 - Centres étrangers G1 - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "25-HGGSPJ2G11_V1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2g11v1-123746.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2g11v1-123746.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2g11-a16pdf-124970.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 20",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2g11-a20pdf-124973.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Centres étrangers G1",
+      "Session 2025 - Épreuves normales",
+      "Sujet - Jour 2",
+      "25-HGGSPJ2G11_V1",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Dissertation 1 : Quelle justice pour les crimes de masse depuis Nuremberg ?",
+      "Dissertation 2 : Le tourisme : un atout pour le patrimoine ?",
+      "Étude critique : Étude critique de document - L’environnement, entre exploitation et protection : un enjeu planétaire Consigne - En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "indexedText": "2025 - Centres étrangers G1 - Sujet - Jour 2 Session 2025 - Épreuves normales Centres étrangers G1 Sujet - Jour 2 25-HGGSPJ2G11_V1 Thème 3 - Histoire et mémoires Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Dissertation 1 : Quelle justice pour les crimes de masse depuis Nuremberg ? Dissertation 2 : Le tourisme : un atout pour le patrimoine ? Étude critique : Étude critique de document - L’environnement, entre exploitation et protection : un enjeu planétaire Consigne - En analysant le document et en vous appuyant sur vos connaissances, memoire crimes de masse justice patrimoine tourisme environnement exploitation protection",
+    "subjectMarkdown": "# 2025 - Centres étrangers G1 - Sujet - Jour 2\n\n**Code épreuve :** `25-HGGSPJ2G11_V1`\n\n**Session :** Session 2025 - Épreuves normales\n\n**Localisation :** Centres étrangers G1\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 3 - Histoire et mémoires\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Quelle justice pour les crimes de masse depuis Nuremberg ?  \n  _Thème 3 - Histoire et mémoires_\n- **Dissertation 2** - Le tourisme : un atout pour le patrimoine ?  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Étude critique** - Étude critique de document - L’environnement, entre exploitation et protection : un enjeu planétaire Consigne - En analysant le document et en vous appuyant sur vos connaissances,  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2g11v1-123746.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 3 - Histoire et mémoires",
+    "themeId": "T3",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "memoire",
+      "crimes de masse",
+      "justice",
+      "patrimoine",
+      "tourisme",
+      "environnement",
+      "exploitation",
+      "protection"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Quelle justice pour les crimes de masse depuis Nuremberg ?",
+      "Dissertation 2 : Le tourisme : un atout pour le patrimoine ?",
+      "Étude critique : Étude critique de document - L’environnement, entre exploitation et protection : un enjeu planétaire Consigne - En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "themes": [
+      "Thème 3 - Histoire et mémoires",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "themeIds": [
+      "T3",
+      "T4",
+      "T5"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Quelle justice pour les crimes de masse depuis Nuremberg ?",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "crimes de masse",
+          "justice"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Le tourisme : un atout pour le patrimoine ?",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine",
+          "tourisme"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document - L’environnement, entre exploitation et protection : un enjeu planétaire Consigne - En analysant le document et en vous appuyant sur vos connaissances,",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "exploitation",
+          "protection"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2025-metropole-sujet-jour-1-22",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+    "chapters": [
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2025,
+    "session": "Session 2025 - Épreuves normales",
+    "place": "Métropole",
+    "title": "2025 - Métropole - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "25-HGGSPJ1ME1_V1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1me1v1pdf-112623.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1me1v1pdf-112623.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1me1-a16pdf-125153.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 20",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1me1-a20pdf-125156.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 24",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1me1-a24pdf-125159.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "braille abrégé",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1me1-bazip-124769.zip",
+        "kind": "zip"
+      },
+      {
+        "label": "braille intégral",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1me1-bizip-124772.zip",
+        "kind": "zip"
+      }
+    ],
+    "keywords": [
+      "Métropole",
+      "Session 2025 - Épreuves normales",
+      "Sujet - Jour 1",
+      "25-HGGSPJ1ME1_V1",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires",
+      "Dissertation 1 : Les usages du patrimoine en France.",
+      "Dissertation 2 : La puissance des États dans les espaces maritimes et extra-atmosphériques.",
+      "Étude critique : Étude critique de documents – Juger les génocides Consigne – En analysant les documents, en le s confrontant et en vous appuyant sur"
+    ],
+    "indexedText": "2025 - Métropole - Sujet - Jour 1 Session 2025 - Épreuves normales Métropole Sujet - Jour 1 25-HGGSPJ1ME1_V1 Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 1 - De nouveaux espaces de conquête Thème 3 - Histoire et mémoires Dissertation 1 : Les usages du patrimoine en France. Dissertation 2 : La puissance des États dans les espaces maritimes et extra-atmosphériques. Étude critique : Étude critique de documents – Juger les génocides Consigne – En analysant les documents, en le s confrontant et en vous appuyant sur patrimoine puissance maritimes genocides",
+    "subjectMarkdown": "# 2025 - Métropole - Sujet - Jour 1\n\n**Code épreuve :** `25-HGGSPJ1ME1_V1`\n\n**Session :** Session 2025 - Épreuves normales\n\n**Localisation :** Métropole\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 3 - Histoire et mémoires\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Les usages du patrimoine en France.  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Dissertation 2** - La puissance des États dans les espaces maritimes et extra-atmosphériques.  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Étude critique** - Étude critique de documents – Juger les génocides Consigne – En analysant les documents, en le s confrontant et en vous appuyant sur  \n  _Thème 3 - Histoire et mémoires_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1me1v1pdf-112623.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+    "themeId": "T4",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "patrimoine",
+      "puissance",
+      "maritimes",
+      "genocides"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les usages du patrimoine en France.",
+      "Dissertation 2 : La puissance des États dans les espaces maritimes et extra-atmosphériques.",
+      "Étude critique : Étude critique de documents – Juger les génocides Consigne – En analysant les documents, en le s confrontant et en vous appuyant sur"
+    ],
+    "themes": [
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "themeIds": [
+      "T4",
+      "T1",
+      "T3"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les usages du patrimoine en France.",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "La puissance des États dans les espaces maritimes et extra-atmosphériques.",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "puissance",
+          "maritimes"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents – Juger les génocides Consigne – En analysant les documents, en le s confrontant et en vous appuyant sur",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "genocides"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2025-metropole-sujet-jour-2-23",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "chapters": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 1 - De nouveaux espaces de conquête"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2025,
+    "session": "Session 2025 - Épreuves normales",
+    "place": "Métropole",
+    "title": "2025 - Métropole - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "25-HGGSPJ2ME1_V1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2me1v1pdf-112626.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2me1v1pdf-112626.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2me1-a16pdf-125162.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 20",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2me1-a20pdf-125165.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 24",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2me1-a24pdf-125168.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "braille abrégé",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2me1-bazip-124775.zip",
+        "kind": "zip"
+      },
+      {
+        "label": "braille intégral",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2me1-bizip-124778.zip",
+        "kind": "zip"
+      }
+    ],
+    "keywords": [
+      "Métropole",
+      "Session 2025 - Épreuves normales",
+      "Sujet - Jour 2",
+      "25-HGGSPJ2ME1_V1",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Dissertation 1 : Le changement climatique, un enjeu géopolitique.",
+      "Dissertation 2 : Construire la paix depuis le XVIIe siècle.",
+      "Étude critique : Étude critique de documents – L’affirmation de la puissance chinoise Consigne – En analysant les documents, en les c onfrontant et en vous appuyant sur"
+    ],
+    "indexedText": "2025 - Métropole - Sujet - Jour 2 Session 2025 - Épreuves normales Métropole Sujet - Jour 2 25-HGGSPJ2ME1_V1 Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 1 - De nouveaux espaces de conquête Dissertation 1 : Le changement climatique, un enjeu géopolitique. Dissertation 2 : Construire la paix depuis le XVIIe siècle. Étude critique : Étude critique de documents – L’affirmation de la puissance chinoise Consigne – En analysant les documents, en les c onfrontant et en vous appuyant sur climatique guerre paix conflit puissance",
+    "subjectMarkdown": "# 2025 - Métropole - Sujet - Jour 2\n\n**Code épreuve :** `25-HGGSPJ2ME1_V1`\n\n**Session :** Session 2025 - Épreuves normales\n\n**Localisation :** Métropole\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 1 - De nouveaux espaces de conquête\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Le changement climatique, un enjeu géopolitique.  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Dissertation 2** - Construire la paix depuis le XVIIe siècle.  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Étude critique** - Étude critique de documents – L’affirmation de la puissance chinoise Consigne – En analysant les documents, en les c onfrontant et en vous appuyant sur  \n  _Thème 1 - De nouveaux espaces de conquête_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2me1v1pdf-112626.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "themeId": "T5",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "climatique",
+      "guerre",
+      "paix",
+      "conflit",
+      "puissance"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Le changement climatique, un enjeu géopolitique.",
+      "Dissertation 2 : Construire la paix depuis le XVIIe siècle.",
+      "Étude critique : Étude critique de documents – L’affirmation de la puissance chinoise Consigne – En analysant les documents, en les c onfrontant et en vous appuyant sur"
+    ],
+    "themes": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 1 - De nouveaux espaces de conquête"
+    ],
+    "themeIds": [
+      "T5",
+      "T2",
+      "T1"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Le changement climatique, un enjeu géopolitique.",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "climatique"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Construire la paix depuis le XVIIe siècle.",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents – L’affirmation de la puissance chinoise Consigne – En analysant les documents, en les c onfrontant et en vous appuyant sur",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "puissance"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2025-polynesie-francaise-sujet-jour-1-24",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+    "chapters": [
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2025,
+    "session": "Session 2025 - Épreuves normales",
+    "place": "Polynésie française",
+    "title": "2025 - Polynésie française - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "25-HGGSPJ1PO1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1po1v1pdf-112938.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1po1v1pdf-112938.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1po1-a16pdf-125378.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Polynésie française",
+      "Session 2025 - Épreuves normales",
+      "Sujet - Jour 1",
+      "25-HGGSPJ1PO1",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Dissertation 1 : Le patrimoine, outil de développement et de rayonnement ?",
+      "Dissertation 2 : La conquête de nouveaux espaces : un moyen d’affirmation pour la Chine depuis les années 1950.",
+      "Étude critique : Étude critique de documents – Le cyberespace, acteurs et enjeux Consigne : en analysant les documents et en vous appuyant sur vos connaissances,"
+    ],
+    "indexedText": "2025 - Polynésie française - Sujet - Jour 1 Session 2025 - Épreuves normales Polynésie française Sujet - Jour 1 25-HGGSPJ1PO1 Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 1 - De nouveaux espaces de conquête Thème 6 - L'enjeu de la connaissance Dissertation 1 : Le patrimoine, outil de développement et de rayonnement ? Dissertation 2 : La conquête de nouveaux espaces : un moyen d’affirmation pour la Chine depuis les années 1950. Étude critique : Étude critique de documents – Le cyberespace, acteurs et enjeux Consigne : en analysant les documents et en vous appuyant sur vos connaissances, patrimoine conquete connaissance connaissances cyberespace",
+    "subjectMarkdown": "# 2025 - Polynésie française - Sujet - Jour 1\n\n**Code épreuve :** `25-HGGSPJ1PO1`\n\n**Session :** Session 2025 - Épreuves normales\n\n**Localisation :** Polynésie française\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 6 - L'enjeu de la connaissance\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Le patrimoine, outil de développement et de rayonnement ?  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Dissertation 2** - La conquête de nouveaux espaces : un moyen d’affirmation pour la Chine depuis les années 1950.  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Étude critique** - Étude critique de documents – Le cyberespace, acteurs et enjeux Consigne : en analysant les documents et en vous appuyant sur vos connaissances,  \n  _Thème 6 - L'enjeu de la connaissance_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1po1v1pdf-112938.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+    "themeId": "T4",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "patrimoine",
+      "conquete",
+      "connaissance",
+      "connaissances",
+      "cyberespace"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Le patrimoine, outil de développement et de rayonnement ?",
+      "Dissertation 2 : La conquête de nouveaux espaces : un moyen d’affirmation pour la Chine depuis les années 1950.",
+      "Étude critique : Étude critique de documents – Le cyberespace, acteurs et enjeux Consigne : en analysant les documents et en vous appuyant sur vos connaissances,"
+    ],
+    "themes": [
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "themeIds": [
+      "T4",
+      "T1",
+      "T6"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Le patrimoine, outil de développement et de rayonnement ?",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "La conquête de nouveaux espaces : un moyen d’affirmation pour la Chine depuis les années 1950.",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "conquete"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents – Le cyberespace, acteurs et enjeux Consigne : en analysant les documents et en vous appuyant sur vos connaissances,",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance",
+          "connaissances",
+          "cyberespace"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2025-polynesie-francaise-sujet-jour-2-25",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "chapters": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2025,
+    "session": "Session 2025 - Épreuves normales",
+    "place": "Polynésie française",
+    "title": "2025 - Polynésie française - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "25-HGGSPJ2PO1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2po1v1pdf-112941.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2po1v1pdf-112941.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 20",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2po1-a20pdf-125381.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Polynésie française",
+      "Session 2025 - Épreuves normales",
+      "Sujet - Jour 2",
+      "25-HGGSPJ2PO1",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires",
+      "Dissertation 1 : Les enjeux de la conquête spatiale depuis le milieu du 20ème siècle.",
+      "Dissertation 2 : Formes et acteurs de la guerre du 18ème siècle à nos jours.",
+      "Étude critique : Étude critique de documents – Juger les crimes nazis Consigne : en analysant les documents, en les confrontant et en vous appuyant sur vos"
+    ],
+    "indexedText": "2025 - Polynésie française - Sujet - Jour 2 Session 2025 - Épreuves normales Polynésie française Sujet - Jour 2 25-HGGSPJ2PO1 Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 3 - Histoire et mémoires Dissertation 1 : Les enjeux de la conquête spatiale depuis le milieu du 20ème siècle. Dissertation 2 : Formes et acteurs de la guerre du 18ème siècle à nos jours. Étude critique : Étude critique de documents – Juger les crimes nazis Consigne : en analysant les documents, en les confrontant et en vous appuyant sur vos environnement milieu guerre paix conflit memoire",
+    "subjectMarkdown": "# 2025 - Polynésie française - Sujet - Jour 2\n\n**Code épreuve :** `25-HGGSPJ2PO1`\n\n**Session :** Session 2025 - Épreuves normales\n\n**Localisation :** Polynésie française\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 3 - Histoire et mémoires\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Les enjeux de la conquête spatiale depuis le milieu du 20ème siècle.  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Dissertation 2** - Formes et acteurs de la guerre du 18ème siècle à nos jours.  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Étude critique** - Étude critique de documents – Juger les crimes nazis Consigne : en analysant les documents, en les confrontant et en vous appuyant sur vos  \n  _Thème 3 - Histoire et mémoires_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2po1v1pdf-112941.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "themeId": "T5",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "environnement",
+      "milieu",
+      "guerre",
+      "paix",
+      "conflit",
+      "memoire"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les enjeux de la conquête spatiale depuis le milieu du 20ème siècle.",
+      "Dissertation 2 : Formes et acteurs de la guerre du 18ème siècle à nos jours.",
+      "Étude critique : Étude critique de documents – Juger les crimes nazis Consigne : en analysant les documents, en les confrontant et en vous appuyant sur vos"
+    ],
+    "themes": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "themeIds": [
+      "T5",
+      "T2",
+      "T3"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les enjeux de la conquête spatiale depuis le milieu du 20ème siècle.",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "milieu"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Formes et acteurs de la guerre du 18ème siècle à nos jours.",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents – Juger les crimes nazis Consigne : en analysant les documents, en les confrontant et en vous appuyant sur vos",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2025-metropole-sujet-jour-1-26",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves de remplacement"
+    ],
+    "year": 2025,
+    "session": "Session 2025 - Épreuves de remplacement",
+    "place": "Métropole",
+    "title": "2025 - Métropole - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "25-HGGSPJ1ME3_V1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1me3v1pdf-120438.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1me3v1pdf-120438.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Métropole",
+      "Session 2025 - Épreuves de remplacement",
+      "Sujet - Jour 1",
+      "25-HGGSPJ1ME3_V1",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires",
+      "Dissertation 1 : L’espace, entre coopérations et rivalités.",
+      "Dissertation 2 : Quels rapports les sociétés entretiennent-elles avec leurs milieux depuis le XIXe",
+      "Étude critique : Étude critique de document – Les enjeux de la mémoire du génocide des Juifs Consigne – En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "indexedText": "2025 - Métropole - Sujet - Jour 1 Session 2025 - Épreuves de remplacement Métropole Sujet - Jour 1 25-HGGSPJ1ME3_V1 Thème 1 - De nouveaux espaces de conquête Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 3 - Histoire et mémoires Dissertation 1 : L’espace, entre coopérations et rivalités. Dissertation 2 : Quels rapports les sociétés entretiennent-elles avec leurs milieux depuis le XIXe Étude critique : Étude critique de document – Les enjeux de la mémoire du génocide des Juifs Consigne – En analysant le document et en vous appuyant sur vos connaissances, espace environnement milieux memoire genocide",
+    "subjectMarkdown": "# 2025 - Métropole - Sujet - Jour 1\n\n**Code épreuve :** `25-HGGSPJ1ME3_V1`\n\n**Session :** Session 2025 - Épreuves de remplacement\n\n**Localisation :** Métropole\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 3 - Histoire et mémoires\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - L’espace, entre coopérations et rivalités.  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - Quels rapports les sociétés entretiennent-elles avec leurs milieux depuis le XIXe  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Étude critique de document – Les enjeux de la mémoire du génocide des Juifs Consigne – En analysant le document et en vous appuyant sur vos connaissances,  \n  _Thème 3 - Histoire et mémoires_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj1me3v1pdf-120438.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "espace",
+      "environnement",
+      "milieux",
+      "memoire",
+      "genocide"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : L’espace, entre coopérations et rivalités.",
+      "Dissertation 2 : Quels rapports les sociétés entretiennent-elles avec leurs milieux depuis le XIXe",
+      "Étude critique : Étude critique de document – Les enjeux de la mémoire du génocide des Juifs Consigne – En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "themeIds": [
+      "T1",
+      "T5",
+      "T3"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "L’espace, entre coopérations et rivalités.",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "espace"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Quels rapports les sociétés entretiennent-elles avec leurs milieux depuis le XIXe",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "milieux"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document – Les enjeux de la mémoire du génocide des Juifs Consigne – En analysant le document et en vous appuyant sur vos connaissances,",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "genocide"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2025-metropole-sujet-jour-2-27",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+    "chapters": [
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves de remplacement"
+    ],
+    "year": 2025,
+    "session": "Session 2025 - Épreuves de remplacement",
+    "place": "Métropole",
+    "title": "2025 - Métropole - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "25-HGGSPJ2ME3_V1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2me3v1pdf-120441.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2me3v1pdf-120441.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Métropole",
+      "Session 2025 - Épreuves de remplacement",
+      "Sujet - Jour 2",
+      "25-HGGSPJ2ME3_V1",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Dissertation 1 : La mise en valeur du patrimoine en France : acteurs et débats.",
+      "Dissertation 2 : Le contrôle de la connaissance des années 1950 à nos jours : un enjeu de puissance.",
+      "Étude critique : Étude critique d’un document – Le tournant du XXIe siècle, un changement dans la manière de faire la guerre et de faire la paix Consigne – En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "indexedText": "2025 - Métropole - Sujet - Jour 2 Session 2025 - Épreuves de remplacement Métropole Sujet - Jour 2 25-HGGSPJ2ME3_V1 Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 6 - L'enjeu de la connaissance Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Dissertation 1 : La mise en valeur du patrimoine en France : acteurs et débats. Dissertation 2 : Le contrôle de la connaissance des années 1950 à nos jours : un enjeu de puissance. Étude critique : Étude critique d’un document – Le tournant du XXIe siècle, un changement dans la manière de faire la guerre et de faire la paix Consigne – En analysant le document et en vous appuyant sur vos connaissances, patrimoine connaissance guerre paix conflit",
+    "subjectMarkdown": "# 2025 - Métropole - Sujet - Jour 2\n\n**Code épreuve :** `25-HGGSPJ2ME3_V1`\n\n**Session :** Session 2025 - Épreuves de remplacement\n\n**Localisation :** Métropole\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 6 - L'enjeu de la connaissance\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - La mise en valeur du patrimoine en France : acteurs et débats.  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Dissertation 2** - Le contrôle de la connaissance des années 1950 à nos jours : un enjeu de puissance.  \n  _Thème 6 - L'enjeu de la connaissance_\n- **Étude critique** - Étude critique d’un document – Le tournant du XXIe siècle, un changement dans la manière de faire la guerre et de faire la paix Consigne – En analysant le document et en vous appuyant sur vos connaissances,  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/25-hggspj2me3v1pdf-120441.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+    "themeId": "T4",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "patrimoine",
+      "connaissance",
+      "guerre",
+      "paix",
+      "conflit"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : La mise en valeur du patrimoine en France : acteurs et débats.",
+      "Dissertation 2 : Le contrôle de la connaissance des années 1950 à nos jours : un enjeu de puissance.",
+      "Étude critique : Étude critique d’un document – Le tournant du XXIe siècle, un changement dans la manière de faire la guerre et de faire la paix Consigne – En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "themes": [
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "themeIds": [
+      "T4",
+      "T6",
+      "T2"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "La mise en valeur du patrimoine en France : acteurs et débats.",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Le contrôle de la connaissance des années 1950 à nos jours : un enjeu de puissance.",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique d’un document – Le tournant du XXIe siècle, un changement dans la manière de faire la guerre et de faire la paix Consigne – En analysant le document et en vous appuyant sur vos connaissances,",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2024-amerique-du-nord-sujet-jour-1-28",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2024,
+    "session": "Session 2024 - Épreuves normales",
+    "place": "Amérique du Nord",
+    "title": "2024 - Amérique du Nord - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "24-HGGSPJ1AN1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1an1v1pdf-106635.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1an1v1pdf-106635.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Amérique du Nord",
+      "Session 2024 - Épreuves normales",
+      "Sujet - Jour 1",
+      "24-HGGSPJ1AN1",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Dissertation 1 : La conquête de l’espace : un enjeu géopolitique majeur ?",
+      "Dissertation 2 : Quelle place pour les armées régulières dans les conflits depuis l’époque de Clausewitz ?",
+      "Étude critique : Étude critique de documents : les frises du Parthénon, un patrimoine au cœur de conflits"
+    ],
+    "indexedText": "2024 - Amérique du Nord - Sujet - Jour 1 Session 2024 - Épreuves normales Amérique du Nord Sujet - Jour 1 24-HGGSPJ1AN1 Thème 1 - De nouveaux espaces de conquête Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Dissertation 1 : La conquête de l’espace : un enjeu géopolitique majeur ? Dissertation 2 : Quelle place pour les armées régulières dans les conflits depuis l’époque de Clausewitz ? Étude critique : Étude critique de documents : les frises du Parthénon, un patrimoine au cœur de conflits espace conquete guerre paix conflit conflits clausewitz",
+    "subjectMarkdown": "# 2024 - Amérique du Nord - Sujet - Jour 1\n\n**Code épreuve :** `24-HGGSPJ1AN1`\n\n**Session :** Session 2024 - Épreuves normales\n\n**Localisation :** Amérique du Nord\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - La conquête de l’espace : un enjeu géopolitique majeur ?  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - Quelle place pour les armées régulières dans les conflits depuis l’époque de Clausewitz ?  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Étude critique** - Étude critique de documents : les frises du Parthénon, un patrimoine au cœur de conflits  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1an1v1pdf-106635.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "espace",
+      "conquete",
+      "guerre",
+      "paix",
+      "conflit",
+      "conflits",
+      "clausewitz"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : La conquête de l’espace : un enjeu géopolitique majeur ?",
+      "Dissertation 2 : Quelle place pour les armées régulières dans les conflits depuis l’époque de Clausewitz ?",
+      "Étude critique : Étude critique de documents : les frises du Parthénon, un patrimoine au cœur de conflits"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "themeIds": [
+      "T1",
+      "T2"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "La conquête de l’espace : un enjeu géopolitique majeur ?",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "espace",
+          "conquete"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Quelle place pour les armées régulières dans les conflits depuis l’époque de Clausewitz ?",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "conflits",
+          "clausewitz"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : les frises du Parthénon, un patrimoine au cœur de conflits",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "conflits"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2024-amerique-du-nord-sujet-jour-2-29",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2024,
+    "session": "Session 2024 - Épreuves normales",
+    "place": "Amérique du Nord",
+    "title": "2024 - Amérique du Nord - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "24-HGGSPJ2AN1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2an1v1pdf-106653.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2an1v1pdf-106653.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2an1-a16pdf-108789.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Amérique du Nord",
+      "Session 2024 - Épreuves normales",
+      "Sujet - Jour 2",
+      "24-HGGSPJ2AN1",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Dissertation 1 : La conquête des territoires maritimes et de l’espace : un outil d’affirmation pour les États.",
+      "Dissertation 2 : La construction des mémoires : acteurs et enjeux.",
+      "Étude critique : Étude critique de documents : enjeux de la valorisation et de la protection du patrimoine vénitien"
+    ],
+    "indexedText": "2024 - Amérique du Nord - Sujet - Jour 2 Session 2024 - Épreuves normales Amérique du Nord Sujet - Jour 2 24-HGGSPJ2AN1 Thème 1 - De nouveaux espaces de conquête Thème 3 - Histoire et mémoires Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Dissertation 1 : La conquête des territoires maritimes et de l’espace : un outil d’affirmation pour les États. Dissertation 2 : La construction des mémoires : acteurs et enjeux. Étude critique : Étude critique de documents : enjeux de la valorisation et de la protection du patrimoine vénitien espace maritimes conquete memoire memoires patrimoine",
+    "subjectMarkdown": "# 2024 - Amérique du Nord - Sujet - Jour 2\n\n**Code épreuve :** `24-HGGSPJ2AN1`\n\n**Session :** Session 2024 - Épreuves normales\n\n**Localisation :** Amérique du Nord\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 3 - Histoire et mémoires\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - La conquête des territoires maritimes et de l’espace : un outil d’affirmation pour les États.  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - La construction des mémoires : acteurs et enjeux.  \n  _Thème 3 - Histoire et mémoires_\n- **Étude critique** - Étude critique de documents : enjeux de la valorisation et de la protection du patrimoine vénitien  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2an1v1pdf-106653.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "espace",
+      "maritimes",
+      "conquete",
+      "memoire",
+      "memoires",
+      "patrimoine"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : La conquête des territoires maritimes et de l’espace : un outil d’affirmation pour les États.",
+      "Dissertation 2 : La construction des mémoires : acteurs et enjeux.",
+      "Étude critique : Étude critique de documents : enjeux de la valorisation et de la protection du patrimoine vénitien"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques"
+    ],
+    "themeIds": [
+      "T1",
+      "T3",
+      "T4"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "La conquête des territoires maritimes et de l’espace : un outil d’affirmation pour les États.",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "espace",
+          "maritimes",
+          "conquete"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "La construction des mémoires : acteurs et enjeux.",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "memoires"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : enjeux de la valorisation et de la protection du patrimoine vénitien",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2024-asie-sujet-jour-1-30",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2024,
+    "session": "Session 2024 - Épreuves normales",
+    "place": "Asie",
+    "title": "2024 - Asie - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "24-HGGSPJ1JA1_SUJ",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1ja1sujv1pdf-106686.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1ja1sujv1pdf-106686.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Asie",
+      "Session 2024 - Épreuves normales",
+      "Sujet - Jour 1",
+      "24-HGGSPJ1JA1_SUJ",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Dissertation 1 : Espace, mers et océans : nouveaux territoires d’affirmation de la puissance chinoise ?",
+      "Dissertation 2 : Les sociétés face au changement climatique depuis le XIX e siècle.",
+      "Étude critique : Étude critique de documents : l’évolution des form es de la guerre dans le monde Consigne - En analysant les documents, en les confr ontant et en vous appuyant sur"
+    ],
+    "indexedText": "2024 - Asie - Sujet - Jour 1 Session 2024 - Épreuves normales Asie Sujet - Jour 1 24-HGGSPJ1JA1_SUJ Thème 1 - De nouveaux espaces de conquête Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Dissertation 1 : Espace, mers et océans : nouveaux territoires d’affirmation de la puissance chinoise ? Dissertation 2 : Les sociétés face au changement climatique depuis le XIX e siècle. Étude critique : Étude critique de documents : l’évolution des form es de la guerre dans le monde Consigne - En analysant les documents, en les confr ontant et en vous appuyant sur espace puissance oceans mers climatique guerre paix conflit",
+    "subjectMarkdown": "# 2024 - Asie - Sujet - Jour 1\n\n**Code épreuve :** `24-HGGSPJ1JA1_SUJ`\n\n**Session :** Session 2024 - Épreuves normales\n\n**Localisation :** Asie\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Espace, mers et océans : nouveaux territoires d’affirmation de la puissance chinoise ?  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - Les sociétés face au changement climatique depuis le XIX e siècle.  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Étude critique de documents : l’évolution des form es de la guerre dans le monde Consigne - En analysant les documents, en les confr ontant et en vous appuyant sur  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1ja1sujv1pdf-106686.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "espace",
+      "puissance",
+      "oceans",
+      "mers",
+      "climatique",
+      "guerre",
+      "paix",
+      "conflit"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Espace, mers et océans : nouveaux territoires d’affirmation de la puissance chinoise ?",
+      "Dissertation 2 : Les sociétés face au changement climatique depuis le XIX e siècle.",
+      "Étude critique : Étude critique de documents : l’évolution des form es de la guerre dans le monde Consigne - En analysant les documents, en les confr ontant et en vous appuyant sur"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "themeIds": [
+      "T1",
+      "T5",
+      "T2"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Espace, mers et océans : nouveaux territoires d’affirmation de la puissance chinoise ?",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "espace",
+          "puissance",
+          "oceans",
+          "mers"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Les sociétés face au changement climatique depuis le XIX e siècle.",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "climatique"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : L’évolution des formes de la guerre dans le monde Consigne - En analysant les documents, en les confr ontant et en vous appuyant sur",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2024-asie-sujet-jour-2-31",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2024,
+    "session": "Session 2024 - Épreuves normales",
+    "place": "Asie",
+    "title": "2024 - Asie - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "24-HGGSPJ2JA1_SUJ",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2ja1sujv1pdf-106689.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2ja1sujv1pdf-106689.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2ja1-a16pdf-108804.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Asie",
+      "Session 2024 - Épreuves normales",
+      "Sujet - Jour 2",
+      "24-HGGSPJ2JA1_SUJ",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Dissertation 1 : Les guerres sont-elles toutes irrégulières depuis 1991 ?",
+      "Dissertation 2 : Juger à différentes échelles depuis 1945 pour recon struire les sociétés après les conflits.",
+      "Étude critique : Étude critique de documents : les États-Unis et la question environnementale Consigne - En analysant les documents, en les confr ontant et en vous appuyant sur"
+    ],
+    "indexedText": "2024 - Asie - Sujet - Jour 2 Session 2024 - Épreuves normales Asie Sujet - Jour 2 24-HGGSPJ2JA1_SUJ Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Dissertation 1 : Les guerres sont-elles toutes irrégulières depuis 1991 ? Dissertation 2 : Juger à différentes échelles depuis 1945 pour recon struire les sociétés après les conflits. Étude critique : Étude critique de documents : les États-Unis et la question environnementale Consigne - En analysant les documents, en les confr ontant et en vous appuyant sur guerres guerre paix conflit conflits environnement environnementale",
+    "subjectMarkdown": "# 2024 - Asie - Sujet - Jour 2\n\n**Code épreuve :** `24-HGGSPJ2JA1_SUJ`\n\n**Session :** Session 2024 - Épreuves normales\n\n**Localisation :** Asie\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Les guerres sont-elles toutes irrégulières depuis 1991 ?  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - Juger à différentes échelles depuis 1945 pour recon struire les sociétés après les conflits.  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Étude critique** - Étude critique de documents : les États-Unis et la question environnementale Consigne - En analysant les documents, en les confr ontant et en vous appuyant sur  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2ja1sujv1pdf-106689.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "guerres",
+      "guerre",
+      "paix",
+      "conflit",
+      "conflits",
+      "environnement",
+      "environnementale"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les guerres sont-elles toutes irrégulières depuis 1991 ?",
+      "Dissertation 2 : Juger à différentes échelles depuis 1945 pour recon struire les sociétés après les conflits.",
+      "Étude critique : Étude critique de documents : les États-Unis et la question environnementale Consigne - En analysant les documents, en les confr ontant et en vous appuyant sur"
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "themeIds": [
+      "T2",
+      "T5"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les guerres sont-elles toutes irrégulières depuis 1991 ?",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "guerres"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Juger à différentes échelles depuis 1945 pour recon struire les sociétés après les conflits.",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "conflits"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : les États-Unis et la question environnementale Consigne - En analysant les documents, en les confr ontant et en vous appuyant sur",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "environnementale"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2024-centres-etrangers-groupe-1-sujet-32",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 3 - Histoire et mémoires",
+    "chapters": [
+      "Thème 3 - Histoire et mémoires",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "type": "Sujet",
+    "types": [
+      "Sujet",
+      "Épreuves normales"
+    ],
+    "year": 2024,
+    "session": "Session 2024 - Épreuves normales",
+    "place": "Centres étrangers - Groupe 1",
+    "title": "2024 - Centres étrangers - Groupe 1 - Sujet",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "24-HGGSPG11BIS",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspg11bisv1pdf-106377.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspg11bisv1pdf-106377.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspg11bis-a16pdf-108834.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Centres étrangers - Groupe 1",
+      "Session 2024 - Épreuves normales",
+      "Sujet",
+      "24-HGGSPG11BIS",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Dissertation 1 : Quels rôles joue la justice dans la construction de l’histoire et de la mémoire ?",
+      "Dissertation 2 : Rivalités dans les nouveaux espaces de conquête au XXIe siècle",
+      "Étude critique : Étude critique de documents – La connaissance, enjeu de puissance Consigne – En analysant les documents, en les confrontant et en vous appuyant sur"
+    ],
+    "indexedText": "2024 - Centres étrangers - Groupe 1 - Sujet Session 2024 - Épreuves normales Centres étrangers - Groupe 1 Sujet 24-HGGSPG11BIS Thème 3 - Histoire et mémoires Thème 1 - De nouveaux espaces de conquête Thème 6 - L'enjeu de la connaissance Dissertation 1 : Quels rôles joue la justice dans la construction de l’histoire et de la mémoire ? Dissertation 2 : Rivalités dans les nouveaux espaces de conquête au XXIe siècle Étude critique : Étude critique de documents – La connaissance, enjeu de puissance Consigne – En analysant les documents, en les confrontant et en vous appuyant sur memoire histoire justice conquete connaissance",
+    "subjectMarkdown": "# 2024 - Centres étrangers - Groupe 1 - Sujet\n\n**Code épreuve :** `24-HGGSPG11BIS`\n\n**Session :** Session 2024 - Épreuves normales\n\n**Localisation :** Centres étrangers - Groupe 1\n\n**Description :** Sujet\n\n## Thèmes associés\n\n- Thème 3 - Histoire et mémoires\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 6 - L'enjeu de la connaissance\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Quels rôles joue la justice dans la construction de l’histoire et de la mémoire ?  \n  _Thème 3 - Histoire et mémoires_\n- **Dissertation 2** - Rivalités dans les nouveaux espaces de conquête au XXIe siècle  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Étude critique** - Étude critique de documents – La connaissance, enjeu de puissance Consigne – En analysant les documents, en les confrontant et en vous appuyant sur  \n  _Thème 6 - L'enjeu de la connaissance_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspg11bisv1pdf-106377.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 3 - Histoire et mémoires",
+    "themeId": "T3",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "memoire",
+      "histoire",
+      "justice",
+      "conquete",
+      "connaissance"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Quels rôles joue la justice dans la construction de l’histoire et de la mémoire ?",
+      "Dissertation 2 : Rivalités dans les nouveaux espaces de conquête au XXIe siècle",
+      "Étude critique : Étude critique de documents – La connaissance, enjeu de puissance Consigne – En analysant les documents, en les confrontant et en vous appuyant sur"
+    ],
+    "themes": [
+      "Thème 3 - Histoire et mémoires",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "themeIds": [
+      "T3",
+      "T1",
+      "T6"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Quels rôles joue la justice dans la construction de l’histoire et de la mémoire ?",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "histoire",
+          "justice"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Rivalités dans les nouveaux espaces de conquête au XXIe siècle",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "conquete"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents – La connaissance, enjeu de puissance Consigne – En analysant les documents, en les confrontant et en vous appuyant sur",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2024-centres-etrangers-groupe-1-sujet-jour-1-33",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 1 - De nouveaux espaces de conquête"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2024,
+    "session": "Session 2024 - Épreuves normales",
+    "place": "Centres étrangers - Groupe 1",
+    "title": "2024 - Centres étrangers - Groupe 1 - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "24-HGGSPJ1G11",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1g11sujv1pdf-106416.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1g11sujv1pdf-106416.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1g11-a16pdf-108837.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 20",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1g11-a20pdf-108840.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Centres étrangers - Groupe 1",
+      "Session 2024 - Épreuves normales",
+      "Sujet - Jour 1",
+      "24-HGGSPJ1G11",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Dissertation 1 : Faire la paix depuis le XVII e siècle : réussites et limites.",
+      "Dissertation 2 : La coopération scientifique depuis la fin du XIX e siècle : acteurs, enjeux, limites.",
+      "Étude critique : Étude critique de documents : la Chine, puissance maritime, puissance spatiale Consigne - En analysant les documents, en les confr ontant et en vous appuyant sur"
+    ],
+    "indexedText": "2024 - Centres étrangers - Groupe 1 - Sujet - Jour 1 Session 2024 - Épreuves normales Centres étrangers - Groupe 1 Sujet - Jour 1 24-HGGSPJ1G11 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 6 - L'enjeu de la connaissance Thème 1 - De nouveaux espaces de conquête Dissertation 1 : Faire la paix depuis le XVII e siècle : réussites et limites. Dissertation 2 : La coopération scientifique depuis la fin du XIX e siècle : acteurs, enjeux, limites. Étude critique : Étude critique de documents : la Chine, puissance maritime, puissance spatiale Consigne - En analysant les documents, en les confr ontant et en vous appuyant sur guerre paix conflit connaissance scientifique cooperation scientifique spatiale puissance maritime",
+    "subjectMarkdown": "# 2024 - Centres étrangers - Groupe 1 - Sujet - Jour 1\n\n**Code épreuve :** `24-HGGSPJ1G11`\n\n**Session :** Session 2024 - Épreuves normales\n\n**Localisation :** Centres étrangers - Groupe 1\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 6 - L'enjeu de la connaissance\n- Thème 1 - De nouveaux espaces de conquête\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Faire la paix depuis le XVII e siècle : réussites et limites.  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - La coopération scientifique depuis la fin du XIX e siècle : acteurs, enjeux, limites.  \n  _Thème 6 - L'enjeu de la connaissance_\n- **Étude critique** - Étude critique de documents : la Chine, puissance maritime, puissance spatiale Consigne - En analysant les documents, en les confr ontant et en vous appuyant sur  \n  _Thème 1 - De nouveaux espaces de conquête_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1g11sujv1pdf-106416.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "guerre",
+      "paix",
+      "conflit",
+      "connaissance",
+      "scientifique",
+      "cooperation scientifique",
+      "spatiale",
+      "puissance",
+      "maritime"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Faire la paix depuis le XVII e siècle : réussites et limites.",
+      "Dissertation 2 : La coopération scientifique depuis la fin du XIX e siècle : acteurs, enjeux, limites.",
+      "Étude critique : Étude critique de documents : la Chine, puissance maritime, puissance spatiale Consigne - En analysant les documents, en les confr ontant et en vous appuyant sur"
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 1 - De nouveaux espaces de conquête"
+    ],
+    "themeIds": [
+      "T2",
+      "T6",
+      "T1"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Faire la paix depuis le XVII e siècle : réussites et limites.",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "La coopération scientifique depuis la fin du XIX e siècle : acteurs, enjeux, limites.",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance",
+          "scientifique",
+          "cooperation scientifique"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : la Chine, puissance maritime, puissance spatiale Consigne - En analysant les documents, en les confr ontant et en vous appuyant sur",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "spatiale",
+          "puissance",
+          "maritime"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2024-centres-etrangers-groupe-1-sujet-jour-2-34",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+    "chapters": [
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2024,
+    "session": "Session 2024 - Épreuves normales",
+    "place": "Centres étrangers - Groupe 1",
+    "title": "2024 - Centres étrangers - Groupe 1 - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "24-HGGSPJ2G11",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2g11sujv1pdf-106455.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2g11sujv1pdf-106455.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2g11-a16pdf-108843.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Centres étrangers - Groupe 1",
+      "Session 2024 - Épreuves normales",
+      "Sujet - Jour 2",
+      "24-HGGSPJ2G11",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Dissertation 1 : La valorisation et la protection du patrimoine en France : acteurs, enjeux, limites.",
+      "Dissertation 2 : Mers et océans : entre affirmation des puissances et coopérations internationales.",
+      "Étude critique : Étude critique de documents : l’environnement, entre exploitation et protection Consigne - En analysant les documents, en les confr ontant et en vous appuyant sur"
+    ],
+    "indexedText": "2024 - Centres étrangers - Groupe 1 - Sujet - Jour 2 Session 2024 - Épreuves normales Centres étrangers - Groupe 1 Sujet - Jour 2 24-HGGSPJ2G11 Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 1 - De nouveaux espaces de conquête Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Dissertation 1 : La valorisation et la protection du patrimoine en France : acteurs, enjeux, limites. Dissertation 2 : Mers et océans : entre affirmation des puissances et coopérations internationales. Étude critique : Étude critique de documents : l’environnement, entre exploitation et protection Consigne - En analysant les documents, en les confr ontant et en vous appuyant sur patrimoine oceans mers environnement exploitation protection",
+    "subjectMarkdown": "# 2024 - Centres étrangers - Groupe 1 - Sujet - Jour 2\n\n**Code épreuve :** `24-HGGSPJ2G11`\n\n**Session :** Session 2024 - Épreuves normales\n\n**Localisation :** Centres étrangers - Groupe 1\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - La valorisation et la protection du patrimoine en France : acteurs, enjeux, limites.  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Dissertation 2** - Mers et océans : entre affirmation des puissances et coopérations internationales.  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Étude critique** - Étude critique de documents : l’environnement, entre exploitation et protection Consigne - En analysant les documents, en les confr ontant et en vous appuyant sur  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2g11sujv1pdf-106455.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+    "themeId": "T4",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "patrimoine",
+      "oceans",
+      "mers",
+      "environnement",
+      "exploitation",
+      "protection"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : La valorisation et la protection du patrimoine en France : acteurs, enjeux, limites.",
+      "Dissertation 2 : Mers et océans : entre affirmation des puissances et coopérations internationales.",
+      "Étude critique : Étude critique de documents : l’environnement, entre exploitation et protection Consigne - En analysant les documents, en les confr ontant et en vous appuyant sur"
+    ],
+    "themes": [
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "themeIds": [
+      "T4",
+      "T1",
+      "T5"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "La valorisation et la protection du patrimoine en France : acteurs, enjeux, limites.",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Mers et océans : entre affirmation des puissances et coopérations internationales.",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "oceans",
+          "mers"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : l’environnement, entre exploitation et protection Consigne - En analysant les documents, en les confr ontant et en vous appuyant sur",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "exploitation",
+          "protection"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2024-metropole-la-reunion-mayotte-sujet-jour-1-35",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "chapters": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2024,
+    "session": "Session 2024 - Épreuves normales",
+    "place": "Métropole, La Réunion, Mayotte",
+    "title": "2024 - Métropole, La Réunion, Mayotte - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "24-HGGSPJ1ME1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1me1v1-0pdf-106215.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1me1v1-0pdf-106215.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1me1-a16pdf-108996.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 20",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1me1-a20pdf-108999.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 24",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1me1-a24pdf-109002.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Braille abrégé",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1me1-bazip-109269.zip",
+        "kind": "zip"
+      },
+      {
+        "label": "Braille intégral",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1me1-bizip-109272.zip",
+        "kind": "zip"
+      }
+    ],
+    "keywords": [
+      "Métropole, La Réunion, Mayotte",
+      "Session 2024 - Épreuves normales",
+      "Sujet - Jour 1",
+      "24-HGGSPJ1ME1",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Dissertation 1 : Les sociétés face aux fluctuations climatiques du Moyen Âge à nos jours",
+      "Dissertation 2 : Juger les crimes de masse et les génocides depuis 1945",
+      "Étude critique : Étude critique de document – Les enjeux liés aux nouveaux espaces de conquête Consigne – En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "indexedText": "2024 - Métropole, La Réunion, Mayotte - Sujet - Jour 1 Session 2024 - Épreuves normales Métropole, La Réunion, Mayotte Sujet - Jour 1 24-HGGSPJ1ME1 Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 3 - Histoire et mémoires Thème 6 - L'enjeu de la connaissance Dissertation 1 : Les sociétés face aux fluctuations climatiques du Moyen Âge à nos jours Dissertation 2 : Juger les crimes de masse et les génocides depuis 1945 Étude critique : Étude critique de document – Les enjeux liés aux nouveaux espaces de conquête Consigne – En analysant le document et en vous appuyant sur vos connaissances, climatiques memoire genocides crimes de masse connaissance connaissances",
+    "subjectMarkdown": "# 2024 - Métropole, La Réunion, Mayotte - Sujet - Jour 1\n\n**Code épreuve :** `24-HGGSPJ1ME1`\n\n**Session :** Session 2024 - Épreuves normales\n\n**Localisation :** Métropole, La Réunion, Mayotte\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 3 - Histoire et mémoires\n- Thème 6 - L'enjeu de la connaissance\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Les sociétés face aux fluctuations climatiques du Moyen Âge à nos jours  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Dissertation 2** - Juger les crimes de masse et les génocides depuis 1945  \n  _Thème 3 - Histoire et mémoires_\n- **Étude critique** - Étude critique de document – Les enjeux liés aux nouveaux espaces de conquête Consigne – En analysant le document et en vous appuyant sur vos connaissances,  \n  _Thème 6 - L'enjeu de la connaissance_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1me1v1-0pdf-106215.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "themeId": "T5",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "climatiques",
+      "memoire",
+      "genocides",
+      "crimes de masse",
+      "connaissance",
+      "connaissances"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les sociétés face aux fluctuations climatiques du Moyen Âge à nos jours",
+      "Dissertation 2 : Juger les crimes de masse et les génocides depuis 1945",
+      "Étude critique : Étude critique de document – Les enjeux liés aux nouveaux espaces de conquête Consigne – En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "themes": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "themeIds": [
+      "T5",
+      "T3",
+      "T6"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les sociétés face aux fluctuations climatiques du Moyen Âge à nos jours",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "climatiques"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Juger les crimes de masse et les génocides depuis 1945",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "genocides",
+          "crimes de masse"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document – Les enjeux liés aux nouveaux espaces de conquête Consigne – En analysant le document et en vous appuyant sur vos connaissances,",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance",
+          "connaissances"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2024-metropole-la-reunion-mayotte-sujet-jour-2-36",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2024,
+    "session": "Session 2024 - Épreuves normales",
+    "place": "Métropole, La Réunion, Mayotte",
+    "title": "2024 - Métropole, La Réunion, Mayotte - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "24-HGGSPJ2ME1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2me1v1-0pdf-106242.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2me1v1-0pdf-106242.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2me1-a16pdf-109005.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 20",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2me1-a20pdf-109008.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 24",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2me1-a24pdf-109011.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Braille abrégé",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2me1-bazip-109275.zip",
+        "kind": "zip"
+      },
+      {
+        "label": "Braille intégral",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2me1-bizip-109278.zip",
+        "kind": "zip"
+      }
+    ],
+    "keywords": [
+      "Métropole, La Réunion, Mayotte",
+      "Session 2024 - Épreuves normales",
+      "Sujet - Jour 2",
+      "24-HGGSPJ2ME1",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Dissertation 1 : Coopérer dans les nouveaux espaces de conquête depuis les années 1970",
+      "Dissertation 2 : Le patrimoine : un enjeu de tensions dans le monde ?",
+      "Étude critique : Étude critique de document – Les di fférents acteurs face au changement climatique Consigne – En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "indexedText": "2024 - Métropole, La Réunion, Mayotte - Sujet - Jour 2 Session 2024 - Épreuves normales Métropole, La Réunion, Mayotte Sujet - Jour 2 24-HGGSPJ2ME1 Thème 1 - De nouveaux espaces de conquête Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 6 - L'enjeu de la connaissance Dissertation 1 : Coopérer dans les nouveaux espaces de conquête depuis les années 1970 Dissertation 2 : Le patrimoine : un enjeu de tensions dans le monde ? Étude critique : Étude critique de document – Les di fférents acteurs face au changement climatique Consigne – En analysant le document et en vous appuyant sur vos connaissances, conquete patrimoine connaissance connaissances",
+    "subjectMarkdown": "# 2024 - Métropole, La Réunion, Mayotte - Sujet - Jour 2\n\n**Code épreuve :** `24-HGGSPJ2ME1`\n\n**Session :** Session 2024 - Épreuves normales\n\n**Localisation :** Métropole, La Réunion, Mayotte\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 6 - L'enjeu de la connaissance\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Coopérer dans les nouveaux espaces de conquête depuis les années 1970  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - Le patrimoine : un enjeu de tensions dans le monde ?  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Étude critique** - Étude critique de document – Les di fférents acteurs face au changement climatique Consigne – En analysant le document et en vous appuyant sur vos connaissances,  \n  _Thème 6 - L'enjeu de la connaissance_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2me1v1-0pdf-106242.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "conquete",
+      "patrimoine",
+      "connaissance",
+      "connaissances"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Coopérer dans les nouveaux espaces de conquête depuis les années 1970",
+      "Dissertation 2 : Le patrimoine : un enjeu de tensions dans le monde ?",
+      "Étude critique : Étude critique de document – Les di fférents acteurs face au changement climatique Consigne – En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "themeIds": [
+      "T1",
+      "T4",
+      "T6"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Coopérer dans les nouveaux espaces de conquête depuis les années 1970",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "conquete"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Le patrimoine : un enjeu de tensions dans le monde ?",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document – Les di fférents acteurs face au changement climatique Consigne – En analysant le document et en vous appuyant sur vos connaissances,",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance",
+          "connaissances"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2024-polynesie-francaise-sujet-jour-1-37",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 1 - De nouveaux espaces de conquête"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2024,
+    "session": "Session 2024 - Épreuves normales",
+    "place": "Polynésie française",
+    "title": "2024 - Polynésie française - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "24-HGGSPJ1PO1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1po1v1pdf-106506.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1po1v1pdf-106506.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Polynésie française",
+      "Session 2024 - Épreuves normales",
+      "Sujet - Jour 1",
+      "24-HGGSPJ1PO1",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Dissertation 1 : Les acteurs régionaux et internationaux au Moyen-Orient (de 1948 à nos jours) favorisent- ils la conflictualité ou l’apaisement ?",
+      "Dissertation 2 : Les enjeux (économiques, politiques, sociaux, géopolitiques) du processus de patrimonialisation depuis le 20e siècle.",
+      "Étude critique : Étude critique de documents : la conquête de l’espace, enjeu idéologique et de puissance depuis les années 1950 Consigne : en analysant les documents, en les confrontant et en vous appuyant sur vos"
+    ],
+    "indexedText": "2024 - Polynésie française - Sujet - Jour 1 Session 2024 - Épreuves normales Polynésie française Sujet - Jour 1 24-HGGSPJ1PO1 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 1 - De nouveaux espaces de conquête Dissertation 1 : Les acteurs régionaux et internationaux au Moyen-Orient (de 1948 à nos jours) favorisent- ils la conflictualité ou l’apaisement ? Dissertation 2 : Les enjeux (économiques, politiques, sociaux, géopolitiques) du processus de patrimonialisation depuis le 20e siècle. Étude critique : Étude critique de documents : la conquête de l’espace, enjeu idéologique et de puissance depuis les années 1950 Consigne : en analysant les documents, en les confrontant et en vous appuyant sur vos moyen-orient patrimoine espace puissance conquete",
+    "subjectMarkdown": "# 2024 - Polynésie française - Sujet - Jour 1\n\n**Code épreuve :** `24-HGGSPJ1PO1`\n\n**Session :** Session 2024 - Épreuves normales\n\n**Localisation :** Polynésie française\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 1 - De nouveaux espaces de conquête\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Les acteurs régionaux et internationaux au Moyen-Orient (de 1948 à nos jours) favorisent- ils la conflictualité ou l’apaisement ?  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - Les enjeux (économiques, politiques, sociaux, géopolitiques) du processus de patrimonialisation depuis le 20e siècle.  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Étude critique** - Étude critique de documents : la conquête de l’espace, enjeu idéologique et de puissance depuis les années 1950 Consigne : en analysant les documents, en les confrontant et en vous appuyant sur vos  \n  _Thème 1 - De nouveaux espaces de conquête_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1po1v1pdf-106506.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "moyen-orient",
+      "patrimoine",
+      "espace",
+      "puissance",
+      "conquete"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les acteurs régionaux et internationaux au Moyen-Orient (de 1948 à nos jours) favorisent- ils la conflictualité ou l’apaisement ?",
+      "Dissertation 2 : Les enjeux (économiques, politiques, sociaux, géopolitiques) du processus de patrimonialisation depuis le 20e siècle.",
+      "Étude critique : Étude critique de documents : la conquête de l’espace, enjeu idéologique et de puissance depuis les années 1950 Consigne : en analysant les documents, en les confrontant et en vous appuyant sur vos"
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 1 - De nouveaux espaces de conquête"
+    ],
+    "themeIds": [
+      "T2",
+      "T4",
+      "T1"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les acteurs régionaux et internationaux au Moyen-Orient (de 1948 à nos jours) favorisent- ils la conflictualité ou l’apaisement ?",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "moyen-orient"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Les enjeux (économiques, politiques, sociaux, géopolitiques) du processus de patrimonialisation depuis le 20e siècle.",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : la conquête de l’espace, enjeu idéologique et de puissance depuis les années 1950 Consigne : en analysant les documents, en les confrontant et en vous appuyant sur vos",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "espace",
+          "puissance",
+          "conquete"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2024-polynesie-francaise-sujet-jour-2-38",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2024,
+    "session": "Session 2024 - Épreuves normales",
+    "place": "Polynésie française",
+    "title": "2024 - Polynésie française - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "24-HGGSPJ2PO1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2po1v1pdf-106527.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2po1v1pdf-106527.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Polynésie française",
+      "Session 2024 - Épreuves normales",
+      "Sujet - Jour 2",
+      "24-HGGSPJ2PO1",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires",
+      "Dissertation 1 : Les mers et les océans : un enjeu des relations internationales.",
+      "Dissertation 2 : Crises climatiques et sociétés humaines du Moyen Âge à nos jours.",
+      "Étude critique : Étude critique de documents : histoire et mémoires du génocide des Juifs et des Tsiganes Consigne : en analysant les documents, en les confrontant et en vous appuyant sur vos"
+    ],
+    "indexedText": "2024 - Polynésie française - Sujet - Jour 2 Session 2024 - Épreuves normales Polynésie française Sujet - Jour 2 24-HGGSPJ2PO1 Thème 1 - De nouveaux espaces de conquête Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 3 - Histoire et mémoires Dissertation 1 : Les mers et les océans : un enjeu des relations internationales. Dissertation 2 : Crises climatiques et sociétés humaines du Moyen Âge à nos jours. Étude critique : Étude critique de documents : histoire et mémoires du génocide des Juifs et des Tsiganes Consigne : en analysant les documents, en les confrontant et en vous appuyant sur vos oceans mers climatiques memoire memoires histoire genocide",
+    "subjectMarkdown": "# 2024 - Polynésie française - Sujet - Jour 2\n\n**Code épreuve :** `24-HGGSPJ2PO1`\n\n**Session :** Session 2024 - Épreuves normales\n\n**Localisation :** Polynésie française\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 3 - Histoire et mémoires\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Les mers et les océans : un enjeu des relations internationales.  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - Crises climatiques et sociétés humaines du Moyen Âge à nos jours.  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Étude critique de documents : histoire et mémoires du génocide des Juifs et des Tsiganes Consigne : en analysant les documents, en les confrontant et en vous appuyant sur vos  \n  _Thème 3 - Histoire et mémoires_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2po1v1pdf-106527.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "oceans",
+      "mers",
+      "climatiques",
+      "memoire",
+      "memoires",
+      "histoire",
+      "genocide"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les mers et les océans : un enjeu des relations internationales.",
+      "Dissertation 2 : Crises climatiques et sociétés humaines du Moyen Âge à nos jours.",
+      "Étude critique : Étude critique de documents : histoire et mémoires du génocide des Juifs et des Tsiganes Consigne : en analysant les documents, en les confrontant et en vous appuyant sur vos"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "themeIds": [
+      "T1",
+      "T5",
+      "T3"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les mers et les océans : un enjeu des relations internationales.",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "oceans",
+          "mers"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Crises climatiques et sociétés humaines du Moyen Âge à nos jours.",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "climatiques"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : histoire et mémoires du génocide des Juifs et des Tsiganes Consigne : en analysant les documents, en les confrontant et en vous appuyant sur vos",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "memoires",
+          "histoire",
+          "genocide"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2024-metropole-sujet-jour-1-39",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves de remplacement"
+    ],
+    "year": 2024,
+    "session": "Session 2024 - Épreuves de remplacement",
+    "place": "Métropole",
+    "title": "2024 - Métropole - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "24-HGGSPJ1ME3",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1me3pdf-110589.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1me3pdf-110589.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Métropole",
+      "Session 2024 - Épreuves de remplacement",
+      "Sujet - Jour 1",
+      "24-HGGSPJ1ME3",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Dissertation 1 : Les acteurs de la puissance dans les espaces de conquête",
+      "Dissertation 2 : Le patrimoine, un objet de tensions géopolitiques",
+      "Étude critique : Étude critique de document – Le changement climatique, au cœur des préoccupations politiques et géopolitiques Consigne – En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "indexedText": "2024 - Métropole - Sujet - Jour 1 Session 2024 - Épreuves de remplacement Métropole Sujet - Jour 1 24-HGGSPJ1ME3 Thème 1 - De nouveaux espaces de conquête Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 6 - L'enjeu de la connaissance Dissertation 1 : Les acteurs de la puissance dans les espaces de conquête Dissertation 2 : Le patrimoine, un objet de tensions géopolitiques Étude critique : Étude critique de document – Le changement climatique, au cœur des préoccupations politiques et géopolitiques Consigne – En analysant le document et en vous appuyant sur vos connaissances, puissance conquete patrimoine connaissance connaissances",
+    "subjectMarkdown": "# 2024 - Métropole - Sujet - Jour 1\n\n**Code épreuve :** `24-HGGSPJ1ME3`\n\n**Session :** Session 2024 - Épreuves de remplacement\n\n**Localisation :** Métropole\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 6 - L'enjeu de la connaissance\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Les acteurs de la puissance dans les espaces de conquête  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - Le patrimoine, un objet de tensions géopolitiques  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Étude critique** - Étude critique de document – Le changement climatique, au cœur des préoccupations politiques et géopolitiques Consigne – En analysant le document et en vous appuyant sur vos connaissances,  \n  _Thème 6 - L'enjeu de la connaissance_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj1me3pdf-110589.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "puissance",
+      "conquete",
+      "patrimoine",
+      "connaissance",
+      "connaissances"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les acteurs de la puissance dans les espaces de conquête",
+      "Dissertation 2 : Le patrimoine, un objet de tensions géopolitiques",
+      "Étude critique : Étude critique de document – Le changement climatique, au cœur des préoccupations politiques et géopolitiques Consigne – En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "themeIds": [
+      "T1",
+      "T4",
+      "T6"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les acteurs de la puissance dans les espaces de conquête",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "puissance",
+          "conquete"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Le patrimoine, un objet de tensions géopolitiques",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document – Le changement climatique, au cœur des préoccupations politiques et géopolitiques Consigne – En analysant le document et en vous appuyant sur vos connaissances,",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance",
+          "connaissances"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2024-metropole-sujet-jour-2-40",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "chapters": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves de remplacement"
+    ],
+    "year": 2024,
+    "session": "Session 2024 - Épreuves de remplacement",
+    "place": "Métropole",
+    "title": "2024 - Métropole - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "24-HGGSPJ2ME3",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2me3pdf-110592.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2me3pdf-110592.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Métropole",
+      "Session 2024 - Épreuves de remplacement",
+      "Sujet - Jour 2",
+      "24-HGGSPJ2ME3",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires",
+      "Dissertation 1 : Les États-Unis et la protection de l’environnement depuis le XIXe siècle",
+      "Dissertation 2 : Les difficultés de la construction de la paix depuis 1945",
+      "Étude critique : Étude critique de document – Le travail de l’historien face à la diversité des mémoires Consigne – En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "indexedText": "2024 - Métropole - Sujet - Jour 2 Session 2024 - Épreuves de remplacement Métropole Sujet - Jour 2 24-HGGSPJ2ME3 Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 3 - Histoire et mémoires Dissertation 1 : Les États-Unis et la protection de l’environnement depuis le XIXe siècle Dissertation 2 : Les difficultés de la construction de la paix depuis 1945 Étude critique : Étude critique de document – Le travail de l’historien face à la diversité des mémoires Consigne – En analysant le document et en vous appuyant sur vos connaissances, environnement protection guerre paix conflit memoire memoires",
+    "subjectMarkdown": "# 2024 - Métropole - Sujet - Jour 2\n\n**Code épreuve :** `24-HGGSPJ2ME3`\n\n**Session :** Session 2024 - Épreuves de remplacement\n\n**Localisation :** Métropole\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 3 - Histoire et mémoires\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Les États-Unis et la protection de l’environnement depuis le XIXe siècle  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Dissertation 2** - Les difficultés de la construction de la paix depuis 1945  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Étude critique** - Étude critique de document – Le travail de l’historien face à la diversité des mémoires Consigne – En analysant le document et en vous appuyant sur vos connaissances,  \n  _Thème 3 - Histoire et mémoires_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/24-hggspj2me3pdf-110592.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "themeId": "T5",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "environnement",
+      "protection",
+      "guerre",
+      "paix",
+      "conflit",
+      "memoire",
+      "memoires"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les États-Unis et la protection de l’environnement depuis le XIXe siècle",
+      "Dissertation 2 : Les difficultés de la construction de la paix depuis 1945",
+      "Étude critique : Étude critique de document – Le travail de l’historien face à la diversité des mémoires Consigne – En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "themes": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "themeIds": [
+      "T5",
+      "T2",
+      "T3"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les États-Unis et la protection de l’environnement depuis le XIXe siècle",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "protection"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Les difficultés de la construction de la paix depuis 1945",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document – Le travail de l’historien face à la diversité des mémoires Consigne – En analysant le document et en vous appuyant sur vos connaissances,",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "memoires"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2023-amerique-du-nord-sujet-jour-1-41",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+    "chapters": [
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2023,
+    "session": "Session 2023 - Épreuves normales",
+    "place": "Amérique du Nord",
+    "title": "2023 - Amérique du Nord - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "23-HGGSPJ1AN1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj1an1pdf-105984.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj1an1pdf-105984.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj1an1-a16pdf-103932.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Amérique du Nord",
+      "Session 2023 - Épreuves normales",
+      "Sujet - Jour 1",
+      "23-HGGSPJ1AN1",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Dissertation 1 : Comment protéger et valoriser le patrimoine en France ?",
+      "Dissertation 2 : La paix est-elle toujours un objectif atteignable ? Vous appuierez votre dissertation sur des exemples étudiés durant l’année.",
+      "Étude critique : Etude critique de documents : acteurs et usages de la forêt en France au XXe-XXIe siècle"
+    ],
+    "indexedText": "2023 - Amérique du Nord - Sujet - Jour 1 Session 2023 - Épreuves normales Amérique du Nord Sujet - Jour 1 23-HGGSPJ1AN1 Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Dissertation 1 : Comment protéger et valoriser le patrimoine en France ? Dissertation 2 : La paix est-elle toujours un objectif atteignable ? Vous appuierez votre dissertation sur des exemples étudiés durant l’année. Étude critique : Etude critique de documents : acteurs et usages de la forêt en France au XXe-XXIe siècle patrimoine guerre paix conflit environnement foret",
+    "subjectMarkdown": "# 2023 - Amérique du Nord - Sujet - Jour 1\n\n**Code épreuve :** `23-HGGSPJ1AN1`\n\n**Session :** Session 2023 - Épreuves normales\n\n**Localisation :** Amérique du Nord\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Comment protéger et valoriser le patrimoine en France ?  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Dissertation 2** - La paix est-elle toujours un objectif atteignable ? Vous appuierez votre dissertation sur des exemples étudiés durant l’année.  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Étude critique** - Etude critique de documents : acteurs et usages de la forêt en France au XXe-XXIe siècle  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj1an1pdf-105984.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+    "themeId": "T4",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "patrimoine",
+      "guerre",
+      "paix",
+      "conflit",
+      "environnement",
+      "foret"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Comment protéger et valoriser le patrimoine en France ?",
+      "Dissertation 2 : La paix est-elle toujours un objectif atteignable ? Vous appuierez votre dissertation sur des exemples étudiés durant l’année.",
+      "Étude critique : Etude critique de documents : acteurs et usages de la forêt en France au XXe-XXIe siècle"
+    ],
+    "themes": [
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "themeIds": [
+      "T4",
+      "T2",
+      "T5"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Comment protéger et valoriser le patrimoine en France ?",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "La paix est-elle toujours un objectif atteignable ? Vous appuierez votre dissertation sur des exemples étudiés durant l’année.",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Etude critique de documents : acteurs et usages de la forêt en France au XXe-XXIe siècle",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "foret"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2023-amerique-du-nord-sujet-jour-2-42",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 6 - L'enjeu de la connaissance",
+    "chapters": [
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2023,
+    "session": "Session 2023 - Épreuves normales",
+    "place": "Amérique du Nord",
+    "title": "2023 - Amérique du Nord - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "23-HGGSPJ2AN1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj2an1pdf-105978.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj2an1pdf-105978.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj2an1-a16pdf-103935.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Amérique du Nord",
+      "Session 2023 - Épreuves normales",
+      "Sujet - Jour 2",
+      "23-HGGSPJ2AN1",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Dissertation 1 : La connaissance : un enjeu majeur des relations internationales.",
+      "Dissertation 2 : L’évolution des acteurs et des formes de la guerre depuis l’époque de Clausewitz.",
+      "Étude critique : Etude critique de documents : la France et le patrimoine, des actions majeures de valorisation : le bassin minier du Nord-Pas-de-Calais"
+    ],
+    "indexedText": "2023 - Amérique du Nord - Sujet - Jour 2 Session 2023 - Épreuves normales Amérique du Nord Sujet - Jour 2 23-HGGSPJ2AN1 Thème 6 - L'enjeu de la connaissance Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Dissertation 1 : La connaissance : un enjeu majeur des relations internationales. Dissertation 2 : L’évolution des acteurs et des formes de la guerre depuis l’époque de Clausewitz. Étude critique : Etude critique de documents : la France et le patrimoine, des actions majeures de valorisation : le bassin minier du Nord-Pas-de-Calais connaissance guerre paix conflit clausewitz patrimoine",
+    "subjectMarkdown": "# 2023 - Amérique du Nord - Sujet - Jour 2\n\n**Code épreuve :** `23-HGGSPJ2AN1`\n\n**Session :** Session 2023 - Épreuves normales\n\n**Localisation :** Amérique du Nord\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 6 - L'enjeu de la connaissance\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - La connaissance : un enjeu majeur des relations internationales.  \n  _Thème 6 - L'enjeu de la connaissance_\n- **Dissertation 2** - L’évolution des acteurs et des formes de la guerre depuis l’époque de Clausewitz.  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Étude critique** - Etude critique de documents : la France et le patrimoine, des actions majeures de valorisation : le bassin minier du Nord-Pas-de-Calais  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj2an1pdf-105978.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 6 - L'enjeu de la connaissance",
+    "themeId": "T6",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "connaissance",
+      "guerre",
+      "paix",
+      "conflit",
+      "clausewitz",
+      "patrimoine"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : La connaissance : un enjeu majeur des relations internationales.",
+      "Dissertation 2 : L’évolution des acteurs et des formes de la guerre depuis l’époque de Clausewitz.",
+      "Étude critique : Etude critique de documents : la France et le patrimoine, des actions majeures de valorisation : le bassin minier du Nord-Pas-de-Calais"
+    ],
+    "themes": [
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques"
+    ],
+    "themeIds": [
+      "T6",
+      "T2",
+      "T4"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "La connaissance : un enjeu majeur des relations internationales.",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "L’évolution des acteurs et des formes de la guerre depuis l’époque de Clausewitz.",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "clausewitz"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Etude critique de documents : la France et le patrimoine, des actions majeures de valorisation : le bassin minier du Nord-Pas-de-Calais",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2023-asie-sujet-jour-1-43",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2023,
+    "session": "Session 2023 - Épreuves normales",
+    "place": "Asie",
+    "title": "2023 - Asie - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "23-HGGSPJ1JA1",
+    "primaryPdf": "https://www.sujetdebac.fr/annales-pdf/2023/spe-hg-geopolitique-sciences-po-2023-asie-1-sujet-officiel.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://www.sujetdebac.fr/annales-pdf/2023/spe-hg-geopolitique-sciences-po-2023-asie-1-sujet-officiel.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Asie",
+      "Session 2023 - Épreuves normales",
+      "Sujet - Jour 1",
+      "23-HGGSPJ1JA1",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Dissertation 1 : Le Moyen-Orient depuis 1948 : formes de conflits et tentatives de résolution.",
+      "Dissertation 2 : Développement économique et protection du patrimoine dans le monde.",
+      "Étude critique : Les acteurs de la préservation de la forêt."
+    ],
+    "indexedText": "2023 - Asie - Sujet - Jour 1 Session 2023 - Épreuves normales Asie Sujet - Jour 1 23-HGGSPJ1JA1 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Dissertation 1 : Le Moyen-Orient depuis 1948 : formes de conflits et tentatives de résolution. Dissertation 2 : Développement économique et protection du patrimoine dans le monde. Étude critique : Les acteurs de la préservation de la forêt. Montrer l'évolution de la forêt depuis le Néolithique et le rôle des États et des sociétés dans cette évolution, à partir de l'exemple de la France. guerre paix conflit conflits moyen-orient patrimoine environnement foret",
+    "subjectMarkdown": "# 2023 - Asie - Sujet - Jour 1\n\n**Code épreuve :** `23-HGGSPJ1JA1`\n\n**Session :** Session 2023 - Épreuves normales\n\n**Localisation :** Asie\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Le Moyen-Orient depuis 1948 : formes de conflits et tentatives de résolution.  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - Développement économique et protection du patrimoine dans le monde.  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Étude critique** - Les acteurs de la préservation de la forêt. Montrer l'évolution de la forêt depuis le Néolithique et le rôle des États et des sociétés dans cette évolution, à partir de l'exemple de la France.  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p class=\"cleaned-note\"><strong>PDF officiel non disponible depuis la ligne Eduscol.</strong> Les intitulés ont été vérifiés à partir du repère d'épreuve.</p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "guerre",
+      "paix",
+      "conflit",
+      "conflits",
+      "moyen-orient",
+      "patrimoine",
+      "environnement",
+      "foret"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Le Moyen-Orient depuis 1948 : formes de conflits et tentatives de résolution.",
+      "Dissertation 2 : Développement économique et protection du patrimoine dans le monde.",
+      "Étude critique : Les acteurs de la préservation de la forêt."
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "themeIds": [
+      "T2",
+      "T4",
+      "T5"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Le Moyen-Orient depuis 1948 : formes de conflits et tentatives de résolution.",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "conflits",
+          "moyen-orient"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Développement économique et protection du patrimoine dans le monde.",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Les acteurs de la préservation de la forêt.",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "foret"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2023-centres-etrangers-groupe-1-sujet-jour-1-44",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+    "chapters": [
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2023,
+    "session": "Session 2023 - Épreuves normales",
+    "place": "Centres étrangers - Groupe 1",
+    "title": "2023 - Centres étrangers - Groupe 1 - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "23-HGGSPJ1G11",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-133565pdf-98847.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-133565pdf-98847.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Centres étrangers - Groupe 1",
+      "Session 2023 - Épreuves normales",
+      "Sujet - Jour 1",
+      "23-HGGSPJ1G11",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Dissertation 1 : Pourquoi protéger le patrimoine dans le monde ?",
+      "Dissertation 2 : La guerre du XVIII e siècle à nos jours : diversification des acteurs et de leurs motivations",
+      "Étude critique : Étude critique de documents : L’environnement, entre exploitation et protection"
+    ],
+    "indexedText": "2023 - Centres étrangers - Groupe 1 - Sujet - Jour 1 Session 2023 - Épreuves normales Centres étrangers - Groupe 1 Sujet - Jour 1 23-HGGSPJ1G11 Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Dissertation 1 : Pourquoi protéger le patrimoine dans le monde ? Dissertation 2 : La guerre du XVIII e siècle à nos jours : diversification des acteurs et de leurs motivations Étude critique : Étude critique de documents : L’environnement, entre exploitation et protection patrimoine guerre paix conflit environnement exploitation protection",
+    "subjectMarkdown": "# 2023 - Centres étrangers - Groupe 1 - Sujet - Jour 1\n\n**Code épreuve :** `23-HGGSPJ1G11`\n\n**Session :** Session 2023 - Épreuves normales\n\n**Localisation :** Centres étrangers - Groupe 1\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Pourquoi protéger le patrimoine dans le monde ?  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Dissertation 2** - La guerre du XVIII e siècle à nos jours : diversification des acteurs et de leurs motivations  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Étude critique** - Étude critique de documents : L’environnement, entre exploitation et protection  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-133565pdf-98847.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+    "themeId": "T4",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "patrimoine",
+      "guerre",
+      "paix",
+      "conflit",
+      "environnement",
+      "exploitation",
+      "protection"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Pourquoi protéger le patrimoine dans le monde ?",
+      "Dissertation 2 : La guerre du XVIII e siècle à nos jours : diversification des acteurs et de leurs motivations",
+      "Étude critique : Étude critique de documents : L’environnement, entre exploitation et protection"
+    ],
+    "themes": [
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "themeIds": [
+      "T4",
+      "T2",
+      "T5"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Pourquoi protéger le patrimoine dans le monde ?",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "La guerre du XVIII e siècle à nos jours : diversification des acteurs et de leurs motivations",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : L’environnement, entre exploitation et protection",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "exploitation",
+          "protection"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2023-centres-etrangers-groupe-1-sujet-jour-2-45",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "chapters": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2023,
+    "session": "Session 2023 - Épreuves normales",
+    "place": "Centres étrangers - Groupe 1",
+    "title": "2023 - Centres étrangers - Groupe 1 - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "23-HGGSPJ2G11",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-133598pdf-98919.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-133598pdf-98919.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Centres étrangers - Groupe 1",
+      "Session 2023 - Épreuves normales",
+      "Sujet - Jour 2",
+      "23-HGGSPJ2G11",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Dissertation 1 : La question environnementale aux États-Unis : acteurs et tensions",
+      "Dissertation 2 : Les États et le contrôle de la connaissance depuis la deuxième partie du XXe siècle",
+      "Étude critique : Étude critique de documents : la guerre et ses évolutions"
+    ],
+    "indexedText": "2023 - Centres étrangers - Groupe 1 - Sujet - Jour 2 Session 2023 - Épreuves normales Centres étrangers - Groupe 1 Sujet - Jour 2 23-HGGSPJ2G11 Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 6 - L'enjeu de la connaissance Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Dissertation 1 : La question environnementale aux États-Unis : acteurs et tensions Dissertation 2 : Les États et le contrôle de la connaissance depuis la deuxième partie du XXe siècle Étude critique : Étude critique de documents : la guerre et ses évolutions environnement environnementale connaissance guerre paix conflit",
+    "subjectMarkdown": "# 2023 - Centres étrangers - Groupe 1 - Sujet - Jour 2\n\n**Code épreuve :** `23-HGGSPJ2G11`\n\n**Session :** Session 2023 - Épreuves normales\n\n**Localisation :** Centres étrangers - Groupe 1\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 6 - L'enjeu de la connaissance\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - La question environnementale aux États-Unis : acteurs et tensions  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Dissertation 2** - Les États et le contrôle de la connaissance depuis la deuxième partie du XXe siècle  \n  _Thème 6 - L'enjeu de la connaissance_\n- **Étude critique** - Étude critique de documents : la guerre et ses évolutions  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-133598pdf-98919.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "themeId": "T5",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "environnement",
+      "environnementale",
+      "connaissance",
+      "guerre",
+      "paix",
+      "conflit"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : La question environnementale aux États-Unis : acteurs et tensions",
+      "Dissertation 2 : Les États et le contrôle de la connaissance depuis la deuxième partie du XXe siècle",
+      "Étude critique : Étude critique de documents : la guerre et ses évolutions"
+    ],
+    "themes": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "themeIds": [
+      "T5",
+      "T6",
+      "T2"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "La question environnementale aux États-Unis : acteurs et tensions",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "environnementale"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Les États et le contrôle de la connaissance depuis la deuxième partie du XXe siècle",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : la guerre et ses évolutions",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2023-centres-etrangers-groupe-1-sujet-jour-3-46",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "chapters": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2023,
+    "session": "Session 2023 - Épreuves normales",
+    "place": "Centres étrangers - Groupe 1",
+    "title": "2023 - Centres étrangers - Groupe 1 - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "23HGGSPJ1LI1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-133991pdf-98928.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-133991pdf-98928.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Centres étrangers - Groupe 1",
+      "Session 2023 - Épreuves normales",
+      "Sujet - Jour 1",
+      "23HGGSPJ1LI1",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Dissertation 1 : Le changement climatique : d’une urgence globale aux réponses locales.",
+      "Dissertation 2 : La connaissance, un enjeu politique, social et géopolitique pour les États.",
+      "Étude critique : Étude critique de document : Le patrimoine face au tourisme de masse. Consigne :"
+    ],
+    "indexedText": "2023 - Centres étrangers - Groupe 1 - Sujet - Jour 1 Session 2023 - Épreuves normales Centres étrangers - Groupe 1 Sujet - Jour 1 23HGGSPJ1LI1 Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 6 - L'enjeu de la connaissance Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Dissertation 1 : Le changement climatique : d’une urgence globale aux réponses locales. Dissertation 2 : La connaissance, un enjeu politique, social et géopolitique pour les États. Étude critique : Étude critique de document : Le patrimoine face au tourisme de masse. Consigne : climatique connaissance patrimoine tourisme",
+    "subjectMarkdown": "# 2023 - Centres étrangers - Groupe 1 - Sujet - Jour 1\n\n**Code épreuve :** `23HGGSPJ1LI1`\n\n**Session :** Session 2023 - Épreuves normales\n\n**Localisation :** Centres étrangers - Groupe 1\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 6 - L'enjeu de la connaissance\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Le changement climatique : d’une urgence globale aux réponses locales.  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Dissertation 2** - La connaissance, un enjeu politique, social et géopolitique pour les États.  \n  _Thème 6 - L'enjeu de la connaissance_\n- **Étude critique** - Étude critique de document : Le patrimoine face au tourisme de masse. Consigne :  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-133991pdf-98928.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "themeId": "T5",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "climatique",
+      "connaissance",
+      "patrimoine",
+      "tourisme"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Le changement climatique : d’une urgence globale aux réponses locales.",
+      "Dissertation 2 : La connaissance, un enjeu politique, social et géopolitique pour les États.",
+      "Étude critique : Étude critique de document : Le patrimoine face au tourisme de masse. Consigne :"
+    ],
+    "themes": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques"
+    ],
+    "themeIds": [
+      "T5",
+      "T6",
+      "T4"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Le changement climatique : d’une urgence globale aux réponses locales.",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "climatique"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "La connaissance, un enjeu politique, social et géopolitique pour les États.",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document : Le patrimoine face au tourisme de masse. Consigne :",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine",
+          "tourisme"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2023-centres-etrangers-groupe-1-sujet-jour-4-47",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "chapters": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "type": "Sujet - Jour 4",
+    "types": [
+      "Sujet - Jour 4",
+      "Épreuves normales"
+    ],
+    "year": 2023,
+    "session": "Session 2023 - Épreuves normales",
+    "place": "Centres étrangers - Groupe 1",
+    "title": "2023 - Centres étrangers - Groupe 1 - Sujet - Jour 4",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "23HGGSPJ2LI1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-134039pdf-98988.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-134039pdf-98988.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Centres étrangers - Groupe 1",
+      "Session 2023 - Épreuves normales",
+      "Sujet - Jour 4",
+      "23HGGSPJ2LI1",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Dissertation 1 : Comment les sociétés se sont-elles adaptées au changement climatique depuis le Moyen Âge ?",
+      "Dissertation 2 : Comment le patrimoine contribue-t-il au rayonnement mondial de la France ?",
+      "Étude critique : La France face aux dangers du cyberespace : conflictualités et stratégie de cyberdéfense."
+    ],
+    "indexedText": "2023 - Centres étrangers - Groupe 1 - Sujet - Jour 4 Session 2023 - Épreuves normales Centres étrangers - Groupe 1 Sujet - Jour 4 23HGGSPJ2LI1 Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 6 - L'enjeu de la connaissance Dissertation 1 : Comment les sociétés se sont-elles adaptées au changement climatique depuis le Moyen Âge ? Dissertation 2 : Comment le patrimoine contribue-t-il au rayonnement mondial de la France ? Étude critique : La France face aux dangers du cyberespace : conflictualités et stratégie de cyberdéfense. climatique patrimoine connaissance cyberespace cyberdefense",
+    "subjectMarkdown": "# 2023 - Centres étrangers - Groupe 1 - Sujet - Jour 4\n\n**Code épreuve :** `23HGGSPJ2LI1`\n\n**Session :** Session 2023 - Épreuves normales\n\n**Localisation :** Centres étrangers - Groupe 1\n\n**Description :** Sujet - Jour 4\n\n## Thèmes associés\n\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 6 - L'enjeu de la connaissance\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Comment les sociétés se sont-elles adaptées au changement climatique depuis le Moyen Âge ?  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Dissertation 2** - Comment le patrimoine contribue-t-il au rayonnement mondial de la France ?  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Étude critique** - La France face aux dangers du cyberespace : conflictualités et stratégie de cyberdéfense.  \n  _Thème 6 - L'enjeu de la connaissance_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-134039pdf-98988.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "themeId": "T5",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "climatique",
+      "patrimoine",
+      "connaissance",
+      "cyberespace",
+      "cyberdefense"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Comment les sociétés se sont-elles adaptées au changement climatique depuis le Moyen Âge ?",
+      "Dissertation 2 : Comment le patrimoine contribue-t-il au rayonnement mondial de la France ?",
+      "Étude critique : La France face aux dangers du cyberespace : conflictualités et stratégie de cyberdéfense."
+    ],
+    "themes": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "themeIds": [
+      "T5",
+      "T4",
+      "T6"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Comment les sociétés se sont-elles adaptées au changement climatique depuis le Moyen Âge ?",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "climatique"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Comment le patrimoine contribue-t-il au rayonnement mondial de la France ?",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "La France face aux dangers du cyberespace : conflictualités et stratégie de cyberdéfense.",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance",
+          "cyberespace",
+          "cyberdefense"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2023-la-reunion-sujet-jour-1-48",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2023,
+    "session": "Session 2023 - Épreuves normales",
+    "place": "La Réunion",
+    "title": "2023 - La Réunion - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "23-HGGSPJ1LR1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj1lr1pdf-105981.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj1lr1pdf-105981.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Braille intégral",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj1lr1-bizip-103800.zip",
+        "kind": "zip"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj1lr1-a16pdf-104082.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 20",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj1lr1-a20pdf-104085.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "La Réunion",
+      "Session 2023 - Épreuves normales",
+      "Sujet - Jour 1",
+      "23-HGGSPJ1LR1",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Dissertation 1 : Le modèle de Clausewitz et les conflits du XXIe siècle.",
+      "Dissertation 2 : La valorisation du patrimoine dans le monde : atout ou menace pour sa préservation ?",
+      "Étude critique : Étude critique de documents : Le changement climatique et ses enjeux mondiaux"
+    ],
+    "indexedText": "2023 - La Réunion - Sujet - Jour 1 Session 2023 - Épreuves normales La Réunion Sujet - Jour 1 23-HGGSPJ1LR1 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Dissertation 1 : Le modèle de Clausewitz et les conflits du XXIe siècle. Dissertation 2 : La valorisation du patrimoine dans le monde : atout ou menace pour sa préservation ? Étude critique : Étude critique de documents : Le changement climatique et ses enjeux mondiaux guerre paix conflit conflits clausewitz patrimoine climatique",
+    "subjectMarkdown": "# 2023 - La Réunion - Sujet - Jour 1\n\n**Code épreuve :** `23-HGGSPJ1LR1`\n\n**Session :** Session 2023 - Épreuves normales\n\n**Localisation :** La Réunion\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Le modèle de Clausewitz et les conflits du XXIe siècle.  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - La valorisation du patrimoine dans le monde : atout ou menace pour sa préservation ?  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Étude critique** - Étude critique de documents : Le changement climatique et ses enjeux mondiaux  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj1lr1pdf-105981.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "guerre",
+      "paix",
+      "conflit",
+      "conflits",
+      "clausewitz",
+      "patrimoine",
+      "climatique"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Le modèle de Clausewitz et les conflits du XXIe siècle.",
+      "Dissertation 2 : La valorisation du patrimoine dans le monde : atout ou menace pour sa préservation ?",
+      "Étude critique : Étude critique de documents : Le changement climatique et ses enjeux mondiaux"
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "themeIds": [
+      "T2",
+      "T4",
+      "T5"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Le modèle de Clausewitz et les conflits du XXIe siècle.",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "conflits",
+          "clausewitz"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "La valorisation du patrimoine dans le monde : atout ou menace pour sa préservation ?",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : Le changement climatique et ses enjeux mondiaux",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "climatique"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2023-la-reunion-sujet-jour-2-49",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "chapters": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2023,
+    "session": "Session 2023 - Épreuves normales",
+    "place": "La Réunion",
+    "title": "2023 - La Réunion - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "23-HGGSPJ2LR1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj2lr1pdf-105975.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj2lr1pdf-105975.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj2lr1-a16pdf-104088.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 20",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj2lr1-a20pdf-104091.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "La Réunion",
+      "Session 2023 - Épreuves normales",
+      "Sujet - Jour 2",
+      "23-HGGSPJ2LR1",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Dissertation 1 : Le changement climatique : responsabilité mondiale, solution collective ?",
+      "Dissertation 2 : Le patrimoine en France entre valorisation et protection.",
+      "Étude critique : Étude critique de documents : Permanences et mutations des guerres contemporaines."
+    ],
+    "indexedText": "2023 - La Réunion - Sujet - Jour 2 Session 2023 - Épreuves normales La Réunion Sujet - Jour 2 23-HGGSPJ2LR1 Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Dissertation 1 : Le changement climatique : responsabilité mondiale, solution collective ? Dissertation 2 : Le patrimoine en France entre valorisation et protection. Étude critique : Étude critique de documents : Permanences et mutations des guerres contemporaines. climatique patrimoine guerres",
+    "subjectMarkdown": "# 2023 - La Réunion - Sujet - Jour 2\n\n**Code épreuve :** `23-HGGSPJ2LR1`\n\n**Session :** Session 2023 - Épreuves normales\n\n**Localisation :** La Réunion\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Le changement climatique : responsabilité mondiale, solution collective ?  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Dissertation 2** - Le patrimoine en France entre valorisation et protection.  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Étude critique** - Étude critique de documents : Permanences et mutations des guerres contemporaines.  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj2lr1pdf-105975.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "themeId": "T5",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "climatique",
+      "patrimoine",
+      "guerres"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Le changement climatique : responsabilité mondiale, solution collective ?",
+      "Dissertation 2 : Le patrimoine en France entre valorisation et protection.",
+      "Étude critique : Étude critique de documents : Permanences et mutations des guerres contemporaines."
+    ],
+    "themes": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "themeIds": [
+      "T5",
+      "T4",
+      "T2"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Le changement climatique : responsabilité mondiale, solution collective ?",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "climatique"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Le patrimoine en France entre valorisation et protection.",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : Permanences et mutations des guerres contemporaines.",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "guerres"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2023-metropole-mayotte-antilles-guyane-sujet-jour-1-50",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 6 - L'enjeu de la connaissance",
+    "chapters": [
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2023,
+    "session": "Session 2023 - Épreuves normales",
+    "place": "Métropole, Mayotte, Antilles Guyane",
+    "title": "2023 - Métropole, Mayotte, Antilles Guyane - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "23-HGGSPJ1ME1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-1338440pdf-98598.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-1338440pdf-98598.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj1me1-a16pdf-104253.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 20",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj1me1-a20pdf-104256.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 24",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj1me1-a24pdf-104259.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Métropole, Mayotte, Antilles Guyane",
+      "Session 2023 - Épreuves normales",
+      "Sujet - Jour 1",
+      "23-HGGSPJ1ME1",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Dissertation 1 : La production et la circulation de la connaissance connaissent-elles des frontières ?",
+      "Dissertation 2 : Ruptures et continuités des formes de la guerre depuis la fin du XXe siècle",
+      "Étude critique : Étude critique de documents : le patrimoine, facteur de puissance de la France Consigne – En analysant les docum ents, en les confrontant et en vous appuyant sur"
+    ],
+    "indexedText": "2023 - Métropole, Mayotte, Antilles Guyane - Sujet - Jour 1 Session 2023 - Épreuves normales Métropole, Mayotte, Antilles Guyane Sujet - Jour 1 23-HGGSPJ1ME1 Thème 6 - L'enjeu de la connaissance Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Dissertation 1 : La production et la circulation de la connaissance connaissent-elles des frontières ? Dissertation 2 : Ruptures et continuités des formes de la guerre depuis la fin du XXe siècle Étude critique : Étude critique de documents : le patrimoine, facteur de puissance de la France Consigne – En analysant les docum ents, en les confrontant et en vous appuyant sur connaissance guerre paix conflit patrimoine",
+    "subjectMarkdown": "# 2023 - Métropole, Mayotte, Antilles Guyane - Sujet - Jour 1\n\n**Code épreuve :** `23-HGGSPJ1ME1`\n\n**Session :** Session 2023 - Épreuves normales\n\n**Localisation :** Métropole, Mayotte, Antilles Guyane\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 6 - L'enjeu de la connaissance\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - La production et la circulation de la connaissance connaissent-elles des frontières ?  \n  _Thème 6 - L'enjeu de la connaissance_\n- **Dissertation 2** - Ruptures et continuités des formes de la guerre depuis la fin du XXe siècle  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Étude critique** - Étude critique de documents : le patrimoine, facteur de puissance de la France Consigne – En analysant les docum ents, en les confrontant et en vous appuyant sur  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-1338440pdf-98598.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 6 - L'enjeu de la connaissance",
+    "themeId": "T6",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "connaissance",
+      "guerre",
+      "paix",
+      "conflit",
+      "patrimoine"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : La production et la circulation de la connaissance connaissent-elles des frontières ?",
+      "Dissertation 2 : Ruptures et continuités des formes de la guerre depuis la fin du XXe siècle",
+      "Étude critique : Étude critique de documents : le patrimoine, facteur de puissance de la France Consigne – En analysant les docum ents, en les confrontant et en vous appuyant sur"
+    ],
+    "themes": [
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques"
+    ],
+    "themeIds": [
+      "T6",
+      "T2",
+      "T4"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "La production et la circulation de la connaissance connaissent-elles des frontières ?",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Ruptures et continuités des formes de la guerre depuis la fin du XXe siècle",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : le patrimoine, facteur de puissance de la France Consigne – En analysant les docum ents, en les confrontant et en vous appuyant sur",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2023-metropole-mayotte-antilles-guyane-sujet-jour-2-51",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 6 - L'enjeu de la connaissance",
+    "chapters": [
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2023,
+    "session": "Session 2023 - Épreuves normales",
+    "place": "Métropole, Mayotte, Antilles Guyane",
+    "title": "2023 - Métropole, Mayotte, Antilles Guyane - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "23-HGGSPJ2ME2",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-133901pdf-98640.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-133901pdf-98640.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Braille abrégé",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj2me1-bazip-103803.zip",
+        "kind": "zip"
+      },
+      {
+        "label": "Braille intégral",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj2me1-bizip-103806.zip",
+        "kind": "zip"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj2me2-a16pdf-104262.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 20",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj2me2-a20pdf-104265.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 24",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj2me2-a24pdf-104268.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Métropole, Mayotte, Antilles Guyane",
+      "Session 2023 - Épreuves normales",
+      "Sujet - Jour 2",
+      "23-HGGSPJ2ME2",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Dissertation 1 : La circulation de la connaissance : un enjeu géopolitique",
+      "Dissertation 2 : Protection et valorisation du patrimoine en France",
+      "Étude critique : Étude critique de documents : les sociétés face au changement climatique"
+    ],
+    "indexedText": "2023 - Métropole, Mayotte, Antilles Guyane - Sujet - Jour 2 Session 2023 - Épreuves normales Métropole, Mayotte, Antilles Guyane Sujet - Jour 2 23-HGGSPJ2ME2 Thème 6 - L'enjeu de la connaissance Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Dissertation 1 : La circulation de la connaissance : un enjeu géopolitique Dissertation 2 : Protection et valorisation du patrimoine en France Étude critique : Étude critique de documents : les sociétés face au changement climatique connaissance patrimoine climatique",
+    "subjectMarkdown": "# 2023 - Métropole, Mayotte, Antilles Guyane - Sujet - Jour 2\n\n**Code épreuve :** `23-HGGSPJ2ME2`\n\n**Session :** Session 2023 - Épreuves normales\n\n**Localisation :** Métropole, Mayotte, Antilles Guyane\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 6 - L'enjeu de la connaissance\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - La circulation de la connaissance : un enjeu géopolitique  \n  _Thème 6 - L'enjeu de la connaissance_\n- **Dissertation 2** - Protection et valorisation du patrimoine en France  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Étude critique** - Étude critique de documents : les sociétés face au changement climatique  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-133901pdf-98640.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 6 - L'enjeu de la connaissance",
+    "themeId": "T6",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "connaissance",
+      "patrimoine",
+      "climatique"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : La circulation de la connaissance : un enjeu géopolitique",
+      "Dissertation 2 : Protection et valorisation du patrimoine en France",
+      "Étude critique : Étude critique de documents : les sociétés face au changement climatique"
+    ],
+    "themes": [
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "themeIds": [
+      "T6",
+      "T4",
+      "T5"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "La circulation de la connaissance : un enjeu géopolitique",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Protection et valorisation du patrimoine en France",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : les sociétés face au changement climatique",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "climatique"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2023-nouvelle-caledonie-sujet-jour-1-52",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "chapters": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2023,
+    "session": "Session 2023 - Épreuves normales",
+    "place": "Nouvelle-Calédonie",
+    "title": "2023 - Nouvelle-Calédonie - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "23-HGGSPJ1NC1-1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj1nc1-1pdf-105222.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj1nc1-1pdf-105222.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Nouvelle-Calédonie",
+      "Session 2023 - Épreuves normales",
+      "Sujet - Jour 1",
+      "23-HGGSPJ1NC1-1",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Dissertation 1 : Question climatique et coopération internationale",
+      "Dissertation 2 : Négocier la paix depuis 1648 : permanences et mutations",
+      "Étude critique : Étude critique de document : Le cyberespace et la souveraineté des États Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos"
+    ],
+    "indexedText": "2023 - Nouvelle-Calédonie - Sujet - Jour 1 Session 2023 - Épreuves normales Nouvelle-Calédonie Sujet - Jour 1 23-HGGSPJ1NC1-1 Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 6 - L'enjeu de la connaissance Dissertation 1 : Question climatique et coopération internationale Dissertation 2 : Négocier la paix depuis 1648 : permanences et mutations Étude critique : Étude critique de document : Le cyberespace et la souveraineté des États Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos climatique guerre paix conflit connaissance cyberespace",
+    "subjectMarkdown": "# 2023 - Nouvelle-Calédonie - Sujet - Jour 1\n\n**Code épreuve :** `23-HGGSPJ1NC1-1`\n\n**Session :** Session 2023 - Épreuves normales\n\n**Localisation :** Nouvelle-Calédonie\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 6 - L'enjeu de la connaissance\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Question climatique et coopération internationale  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Dissertation 2** - Négocier la paix depuis 1648 : permanences et mutations  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Étude critique** - Étude critique de document : Le cyberespace et la souveraineté des États Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos  \n  _Thème 6 - L'enjeu de la connaissance_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj1nc1-1pdf-105222.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "themeId": "T5",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "climatique",
+      "guerre",
+      "paix",
+      "conflit",
+      "connaissance",
+      "cyberespace"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Question climatique et coopération internationale",
+      "Dissertation 2 : Négocier la paix depuis 1648 : permanences et mutations",
+      "Étude critique : Étude critique de document : Le cyberespace et la souveraineté des États Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos"
+    ],
+    "themes": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "themeIds": [
+      "T5",
+      "T2",
+      "T6"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Question climatique et coopération internationale",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "climatique"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Négocier la paix depuis 1648 : permanences et mutations",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document : Le cyberespace et la souveraineté des États Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance",
+          "cyberespace"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2023-nouvelle-caledonie-sujet-jour-2-53",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2023,
+    "session": "Session 2023 - Épreuves normales",
+    "place": "Nouvelle-Calédonie",
+    "title": "2023 - Nouvelle-Calédonie - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "23-HGGSPJ2NC1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj2nc1pdf-105225.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj2nc1pdf-105225.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Nouvelle-Calédonie",
+      "Session 2023 - Épreuves normales",
+      "Sujet - Jour 2",
+      "23-HGGSPJ2NC1",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Dissertation 1 : Le patrimoine, un objet de conflits",
+      "Dissertation 2 : Les défis de la construction de la paix",
+      "Étude critique : Étude critique de document : Le contrôle du cyberespace Consigne : En analysant les documents, en les confrontant et en vous appuyant sur"
+    ],
+    "indexedText": "2023 - Nouvelle-Calédonie - Sujet - Jour 2 Session 2023 - Épreuves normales Nouvelle-Calédonie Sujet - Jour 2 23-HGGSPJ2NC1 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 6 - L'enjeu de la connaissance Dissertation 1 : Le patrimoine, un objet de conflits Dissertation 2 : Les défis de la construction de la paix Étude critique : Étude critique de document : Le contrôle du cyberespace Consigne : En analysant les documents, en les confrontant et en vous appuyant sur guerre paix conflit conflits connaissance cyberespace",
+    "subjectMarkdown": "# 2023 - Nouvelle-Calédonie - Sujet - Jour 2\n\n**Code épreuve :** `23-HGGSPJ2NC1`\n\n**Session :** Session 2023 - Épreuves normales\n\n**Localisation :** Nouvelle-Calédonie\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 6 - L'enjeu de la connaissance\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Le patrimoine, un objet de conflits  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - Les défis de la construction de la paix  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Étude critique** - Étude critique de document : Le contrôle du cyberespace Consigne : En analysant les documents, en les confrontant et en vous appuyant sur  \n  _Thème 6 - L'enjeu de la connaissance_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj2nc1pdf-105225.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "guerre",
+      "paix",
+      "conflit",
+      "conflits",
+      "connaissance",
+      "cyberespace"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Le patrimoine, un objet de conflits",
+      "Dissertation 2 : Les défis de la construction de la paix",
+      "Étude critique : Étude critique de document : Le contrôle du cyberespace Consigne : En analysant les documents, en les confrontant et en vous appuyant sur"
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "themeIds": [
+      "T2",
+      "T6"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Le patrimoine, un objet de conflits",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "conflits"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Les défis de la construction de la paix",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document : Le contrôle du cyberespace Consigne : En analysant les documents, en les confrontant et en vous appuyant sur",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance",
+          "cyberespace"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2023-polynesie-francaise-sujet-jour-1-54",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 6 - L'enjeu de la connaissance",
+    "chapters": [
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2023,
+    "session": "Session 2023 - Épreuves normales",
+    "place": "Polynésie française",
+    "title": "2023 - Polynésie française - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "23-HGGSPJ1PO1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-133673pdf-98760.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-133673pdf-98760.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj1po1-a16pdf-103878.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Polynésie française",
+      "Session 2023 - Épreuves normales",
+      "Sujet - Jour 1",
+      "23-HGGSPJ1PO1",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Dissertation 1 : L’accès à la connaissance, un enjeu pour les sociétés et les États à partir du XXe siècle.",
+      "Dissertation 2 : La pensée clausewitzienne permet-elle de comprendre les conflits contemporains (à partir des années 1990) ?",
+      "Étude critique : Étude critique de documents : Le patrimoine, une question stratégique pour la France."
+    ],
+    "indexedText": "2023 - Polynésie française - Sujet - Jour 1 Session 2023 - Épreuves normales Polynésie française Sujet - Jour 1 23-HGGSPJ1PO1 Thème 6 - L'enjeu de la connaissance Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Dissertation 1 : L’accès à la connaissance, un enjeu pour les sociétés et les États à partir du XXe siècle. Dissertation 2 : La pensée clausewitzienne permet-elle de comprendre les conflits contemporains (à partir des années 1990) ? Étude critique : Étude critique de documents : Le patrimoine, une question stratégique pour la France. connaissance guerre paix conflit conflits patrimoine",
+    "subjectMarkdown": "# 2023 - Polynésie française - Sujet - Jour 1\n\n**Code épreuve :** `23-HGGSPJ1PO1`\n\n**Session :** Session 2023 - Épreuves normales\n\n**Localisation :** Polynésie française\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 6 - L'enjeu de la connaissance\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - L’accès à la connaissance, un enjeu pour les sociétés et les États à partir du XXe siècle.  \n  _Thème 6 - L'enjeu de la connaissance_\n- **Dissertation 2** - La pensée clausewitzienne permet-elle de comprendre les conflits contemporains (à partir des années 1990) ?  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Étude critique** - Étude critique de documents : Le patrimoine, une question stratégique pour la France.  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-133673pdf-98760.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 6 - L'enjeu de la connaissance",
+    "themeId": "T6",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "connaissance",
+      "guerre",
+      "paix",
+      "conflit",
+      "conflits",
+      "patrimoine"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : L’accès à la connaissance, un enjeu pour les sociétés et les États à partir du XXe siècle.",
+      "Dissertation 2 : La pensée clausewitzienne permet-elle de comprendre les conflits contemporains (à partir des années 1990) ?",
+      "Étude critique : Étude critique de documents : Le patrimoine, une question stratégique pour la France."
+    ],
+    "themes": [
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques"
+    ],
+    "themeIds": [
+      "T6",
+      "T2",
+      "T4"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "L’accès à la connaissance, un enjeu pour les sociétés et les États à partir du XXe siècle.",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "La pensée clausewitzienne permet-elle de comprendre les conflits contemporains (à partir des années 1990) ?",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "conflits"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : Le patrimoine, une question stratégique pour la France.",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2023-polynesie-francaise-sujet-jour-2-55",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "chapters": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2023,
+    "session": "Session 2023 - Épreuves normales",
+    "place": "Polynésie française",
+    "title": "2023 - Polynésie française - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "23-HGGSPJ2PO1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-133679pdf-98835.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-133679pdf-98835.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/23-hggspj2po1-a16pdf-103881.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Polynésie française",
+      "Session 2023 - Épreuves normales",
+      "Sujet - Jour 2",
+      "23-HGGSPJ2PO1",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Dissertation 1 : Changement climatique et sociétés, depuis le Moyen Âge.",
+      "Dissertation 2 : Existe-t-il, depuis le XIXe siècle, une politique française de préservation et de valorisation du patrimoine ?",
+      "Étude critique : Étude critique de documents : Les défis de la construction de la paix."
+    ],
+    "indexedText": "2023 - Polynésie française - Sujet - Jour 2 Session 2023 - Épreuves normales Polynésie française Sujet - Jour 2 23-HGGSPJ2PO1 Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Dissertation 1 : Changement climatique et sociétés, depuis le Moyen Âge. Dissertation 2 : Existe-t-il, depuis le XIXe siècle, une politique française de préservation et de valorisation du patrimoine ? Étude critique : Étude critique de documents : Les défis de la construction de la paix. climatique patrimoine guerre paix conflit",
+    "subjectMarkdown": "# 2023 - Polynésie française - Sujet - Jour 2\n\n**Code épreuve :** `23-HGGSPJ2PO1`\n\n**Session :** Session 2023 - Épreuves normales\n\n**Localisation :** Polynésie française\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Changement climatique et sociétés, depuis le Moyen Âge.  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Dissertation 2** - Existe-t-il, depuis le XIXe siècle, une politique française de préservation et de valorisation du patrimoine ?  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Étude critique** - Étude critique de documents : Les défis de la construction de la paix.  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2023-histoire-g-ographie-g-opolitique-et-sciences-politiques-133679pdf-98835.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "themeId": "T5",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "climatique",
+      "patrimoine",
+      "guerre",
+      "paix",
+      "conflit"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Changement climatique et sociétés, depuis le Moyen Âge.",
+      "Dissertation 2 : Existe-t-il, depuis le XIXe siècle, une politique française de préservation et de valorisation du patrimoine ?",
+      "Étude critique : Étude critique de documents : Les défis de la construction de la paix."
+    ],
+    "themes": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "themeIds": [
+      "T5",
+      "T4",
+      "T2"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Changement climatique et sociétés, depuis le Moyen Âge.",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "climatique"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Existe-t-il, depuis le XIXe siècle, une politique française de préservation et de valorisation du patrimoine ?",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : Les défis de la construction de la paix.",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2022-amerique-du-nord-sujet-jour-1-56",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 3 - Histoire et mémoires",
+    "chapters": [
+      "Thème 3 - Histoire et mémoires",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2022,
+    "session": "Session 2022 - Épreuves normales",
+    "place": "Amérique du Nord",
+    "title": "2022 - Amérique du Nord - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "22-HGGSPJ1AN1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/sujet-22-hggsp-j1-an1pdf-96873.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/sujet-22-hggsp-j1-an1pdf-96873.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggsp-j1-an1-a16pdf-99432.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Amérique du Nord",
+      "Session 2022 - Épreuves normales",
+      "Sujet - Jour 1",
+      "22-HGGSPJ1AN1",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Dissertation 1 : Juger les génocides et crimes de masse, une justice uniquement internationale ?",
+      "Dissertation 2 : La question environnementale aux États-Unis, un objet de tensions entre différents acteurs ?",
+      "Étude critique : Étude critique de document(s) : La dimension politique de la guerre"
+    ],
+    "indexedText": "2022 - Amérique du Nord - Sujet - Jour 1 Session 2022 - Épreuves normales Amérique du Nord Sujet - Jour 1 22-HGGSPJ1AN1 Thème 3 - Histoire et mémoires Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Dissertation 1 : Juger les génocides et crimes de masse, une justice uniquement internationale ? Dissertation 2 : La question environnementale aux États-Unis, un objet de tensions entre différents acteurs ? Étude critique : Étude critique de document(s) : La dimension politique de la guerre memoire genocides crimes de masse justice environnement environnementale guerre paix conflit",
+    "subjectMarkdown": "# 2022 - Amérique du Nord - Sujet - Jour 1\n\n**Code épreuve :** `22-HGGSPJ1AN1`\n\n**Session :** Session 2022 - Épreuves normales\n\n**Localisation :** Amérique du Nord\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 3 - Histoire et mémoires\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Juger les génocides et crimes de masse, une justice uniquement internationale ?  \n  _Thème 3 - Histoire et mémoires_\n- **Dissertation 2** - La question environnementale aux États-Unis, un objet de tensions entre différents acteurs ?  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Étude critique de document(s) : La dimension politique de la guerre  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/sujet-22-hggsp-j1-an1pdf-96873.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 3 - Histoire et mémoires",
+    "themeId": "T3",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "memoire",
+      "genocides",
+      "crimes de masse",
+      "justice",
+      "environnement",
+      "environnementale",
+      "guerre",
+      "paix",
+      "conflit"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Juger les génocides et crimes de masse, une justice uniquement internationale ?",
+      "Dissertation 2 : La question environnementale aux États-Unis, un objet de tensions entre différents acteurs ?",
+      "Étude critique : Étude critique de document(s) : La dimension politique de la guerre"
+    ],
+    "themes": [
+      "Thème 3 - Histoire et mémoires",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "themeIds": [
+      "T3",
+      "T5",
+      "T2"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Juger les génocides et crimes de masse, une justice uniquement internationale ?",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "genocides",
+          "crimes de masse",
+          "justice"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "La question environnementale aux États-Unis, un objet de tensions entre différents acteurs ?",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "environnementale"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document(s) : La dimension politique de la guerre",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2022-amerique-du-nord-sujet-jour-2-57",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2022,
+    "session": "Session 2022 - Épreuves normales",
+    "place": "Amérique du Nord",
+    "title": "2022 - Amérique du Nord - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "22-HGGSPJ2AN1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggsp-j2-an1pdf-96894.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggsp-j2-an1pdf-96894.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggsp-j2-an1-a16pdf-99435.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Amérique du Nord",
+      "Session 2022 - Épreuves normales",
+      "Sujet - Jour 2",
+      "22-HGGSPJ2AN1",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires",
+      "Dissertation 1 : Mers et océans, des espaces de l’exercice de la puissance au XXIe siècle.",
+      "Dissertation 2 : « Notre maison brûle et nous regardons ailleurs » : pourquoi le président Chirac lance-t-il cet avertissement sur le changement climatique dans le cadre du sommet de la Terre de 2002 et a-t-il été pris en compte ?",
+      "Étude critique : Étude critique de document(s) : La justice à l’échelle locale : les tribunaux gacaca face au génocide des Tutsis."
+    ],
+    "indexedText": "2022 - Amérique du Nord - Sujet - Jour 2 Session 2022 - Épreuves normales Amérique du Nord Sujet - Jour 2 22-HGGSPJ2AN1 Thème 1 - De nouveaux espaces de conquête Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 3 - Histoire et mémoires Dissertation 1 : Mers et océans, des espaces de l’exercice de la puissance au XXIe siècle. Dissertation 2 : « Notre maison brûle et nous regardons ailleurs » : pourquoi le président Chirac lance-t-il cet avertissement sur le changement climatique dans le cadre du sommet de la Terre de 2002 et a-t-il été pris en compte ? Étude critique : Étude critique de document(s) : La justice à l’échelle locale : les tribunaux gacaca face au génocide des Tutsis. puissance oceans mers climatique memoire genocide tribunaux justice",
+    "subjectMarkdown": "# 2022 - Amérique du Nord - Sujet - Jour 2\n\n**Code épreuve :** `22-HGGSPJ2AN1`\n\n**Session :** Session 2022 - Épreuves normales\n\n**Localisation :** Amérique du Nord\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 3 - Histoire et mémoires\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Mers et océans, des espaces de l’exercice de la puissance au XXIe siècle.  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - « Notre maison brûle et nous regardons ailleurs » : pourquoi le président Chirac lance-t-il cet avertissement sur le changement climatique dans le cadre du sommet de la Terre de 2002 et a-t-il été pris en compte ?  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Étude critique de document(s) : La justice à l’échelle locale : les tribunaux gacaca face au génocide des Tutsis.  \n  _Thème 3 - Histoire et mémoires_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/22-hggsp-j2-an1pdf-96894.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "puissance",
+      "oceans",
+      "mers",
+      "climatique",
+      "memoire",
+      "genocide",
+      "tribunaux",
+      "justice"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Mers et océans, des espaces de l’exercice de la puissance au XXIe siècle.",
+      "Dissertation 2 : « Notre maison brûle et nous regardons ailleurs » : pourquoi le président Chirac lance-t-il cet avertissement sur le changement climatique dans le cadre du sommet de la Terre de 2002 et a-t-il été pris en compte ?",
+      "Étude critique : Étude critique de document(s) : La justice à l’échelle locale : les tribunaux gacaca face au génocide des Tutsis."
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "themeIds": [
+      "T1",
+      "T5",
+      "T3"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Mers et océans, des espaces de l’exercice de la puissance au XXIe siècle.",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "puissance",
+          "oceans",
+          "mers"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "« Notre maison brûle et nous regardons ailleurs » : pourquoi le président Chirac lance-t-il cet avertissement sur le changement climatique dans le cadre du sommet de la Terre de 2002 et a-t-il été pris en compte ?",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "climatique"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document(s) : La justice à l’échelle locale : les tribunaux gacaca face au génocide des Tutsis.",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "genocide",
+          "tribunaux",
+          "justice"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2022-asie-sujet-jour-1-58",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "chapters": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2022,
+    "session": "Session 2022 - Épreuves normales",
+    "place": "Asie",
+    "title": "2022 - Asie - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "22-HGGSPJ1JA1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/bg-asiehggspjour-1sujet-22-hggspj1ja1pdf-96783.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/bg-asiehggspjour-1sujet-22-hggspj1ja1pdf-96783.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj1ja1-a16pdf-99441.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 20",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj1ja1-a20pdf-99444.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Asie",
+      "Session 2022 - Épreuves normales",
+      "Sujet - Jour 1",
+      "22-HGGSPJ1JA1",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Dissertation 1 : Les sociétés et leur environnement : des relations anciennes et complexes.",
+      "Dissertation 2 : Les océans et l’espace : quelles coopérations internationales ?",
+      "Étude critique : Etude critique de document(s) : « Violence et diversité des acteurs au Moyen-Orient » Consigne :"
+    ],
+    "indexedText": "2022 - Asie - Sujet - Jour 1 Session 2022 - Épreuves normales Asie Sujet - Jour 1 22-HGGSPJ1JA1 Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 1 - De nouveaux espaces de conquête Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Dissertation 1 : Les sociétés et leur environnement : des relations anciennes et complexes. Dissertation 2 : Les océans et l’espace : quelles coopérations internationales ? Étude critique : Etude critique de document(s) : « Violence et diversité des acteurs au Moyen-Orient » Consigne : environnement espace oceans violence moyen-orient",
+    "subjectMarkdown": "# 2022 - Asie - Sujet - Jour 1\n\n**Code épreuve :** `22-HGGSPJ1JA1`\n\n**Session :** Session 2022 - Épreuves normales\n\n**Localisation :** Asie\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Les sociétés et leur environnement : des relations anciennes et complexes.  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Dissertation 2** - Les océans et l’espace : quelles coopérations internationales ?  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Étude critique** - Etude critique de document(s) : « Violence et diversité des acteurs au Moyen-Orient » Consigne :  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/bg-asiehggspjour-1sujet-22-hggspj1ja1pdf-96783.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "themeId": "T5",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "environnement",
+      "espace",
+      "oceans",
+      "violence",
+      "moyen-orient"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les sociétés et leur environnement : des relations anciennes et complexes.",
+      "Dissertation 2 : Les océans et l’espace : quelles coopérations internationales ?",
+      "Étude critique : Etude critique de document(s) : « Violence et diversité des acteurs au Moyen-Orient » Consigne :"
+    ],
+    "themes": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "themeIds": [
+      "T5",
+      "T1",
+      "T2"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les sociétés et leur environnement : des relations anciennes et complexes.",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Les océans et l’espace : quelles coopérations internationales ?",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "espace",
+          "oceans"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Etude critique de document(s) : « Violence et diversité des acteurs au Moyen-Orient » Consigne :",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "violence",
+          "moyen-orient"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2022-asie-sujet-jour-2-59",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2022,
+    "session": "Session 2022 - Épreuves normales",
+    "place": "Asie",
+    "title": "2022 - Asie - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "22-HGGSPJ2JA1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/bg-asiehggspjour-2sujet-22-hggspj2ja1pdf-96831.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/bg-asiehggspjour-2sujet-22-hggspj2ja1pdf-96831.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj2ja1-a16pdf-99465.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 20",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj2ja1-a20pdf-99468.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Asie",
+      "Session 2022 - Épreuves normales",
+      "Sujet - Jour 2",
+      "22-HGGSPJ2JA1",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Dissertation 1 : Les guerres irrégulières : de la guérilla au terrorisme.",
+      "Dissertation 2 : Histoire et mémoires : quels débats ?",
+      "Étude critique : Etude critique de document(s) : « L’évolution du climat et son impact sur les sociétés » Consigne :"
+    ],
+    "indexedText": "2022 - Asie - Sujet - Jour 2 Session 2022 - Épreuves normales Asie Sujet - Jour 2 22-HGGSPJ2JA1 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 3 - Histoire et mémoires Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Dissertation 1 : Les guerres irrégulières : de la guérilla au terrorisme. Dissertation 2 : Histoire et mémoires : quels débats ? Étude critique : Etude critique de document(s) : « L’évolution du climat et son impact sur les sociétés » Consigne : guerres terrorisme memoire memoires histoire climat",
+    "subjectMarkdown": "# 2022 - Asie - Sujet - Jour 2\n\n**Code épreuve :** `22-HGGSPJ2JA1`\n\n**Session :** Session 2022 - Épreuves normales\n\n**Localisation :** Asie\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 3 - Histoire et mémoires\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Les guerres irrégulières : de la guérilla au terrorisme.  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - Histoire et mémoires : quels débats ?  \n  _Thème 3 - Histoire et mémoires_\n- **Étude critique** - Etude critique de document(s) : « L’évolution du climat et son impact sur les sociétés » Consigne :  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/bg-asiehggspjour-2sujet-22-hggspj2ja1pdf-96831.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "guerres",
+      "terrorisme",
+      "memoire",
+      "memoires",
+      "histoire",
+      "climat"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les guerres irrégulières : de la guérilla au terrorisme.",
+      "Dissertation 2 : Histoire et mémoires : quels débats ?",
+      "Étude critique : Etude critique de document(s) : « L’évolution du climat et son impact sur les sociétés » Consigne :"
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "themeIds": [
+      "T2",
+      "T3",
+      "T5"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les guerres irrégulières : de la guérilla au terrorisme.",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "guerres",
+          "terrorisme"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Histoire et mémoires : quels débats ?",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "memoires",
+          "histoire"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Etude critique de document(s) : « L’évolution du climat et son impact sur les sociétés » Consigne :",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "climat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2022-centres-etrangers-groupe-1-sujet-jour-1-60",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 3 - Histoire et mémoires",
+    "chapters": [
+      "Thème 3 - Histoire et mémoires",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2022,
+    "session": "Session 2022 - Épreuves normales",
+    "place": "Centres étrangers - Groupe 1",
+    "title": "2022 - Centres étrangers - Groupe 1 - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "22-HGGSPJ1G11",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj1g11pdf-100071.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj1g11pdf-100071.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj1g11-a16pdf-99438.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Centres étrangers - Groupe 1",
+      "Session 2022 - Épreuves normales",
+      "Sujet - Jour 1",
+      "22-HGGSPJ1G11",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Dissertation 1 : Réparer les sociétés après un génocide : moyens et enjeux",
+      "Dissertation 2 : Les enjeux de la question climatique",
+      "Étude critique : Étude critique de documents : les représentations et les défis de la guerre"
+    ],
+    "indexedText": "2022 - Centres étrangers - Groupe 1 - Sujet - Jour 1 Session 2022 - Épreuves normales Centres étrangers - Groupe 1 Sujet - Jour 1 22-HGGSPJ1G11 Thème 3 - Histoire et mémoires Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Dissertation 1 : Réparer les sociétés après un génocide : moyens et enjeux Dissertation 2 : Les enjeux de la question climatique Étude critique : Étude critique de documents : les représentations et les défis de la guerre genocide climatique guerre paix conflit",
+    "subjectMarkdown": "# 2022 - Centres étrangers - Groupe 1 - Sujet - Jour 1\n\n**Code épreuve :** `22-HGGSPJ1G11`\n\n**Session :** Session 2022 - Épreuves normales\n\n**Localisation :** Centres étrangers - Groupe 1\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 3 - Histoire et mémoires\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Réparer les sociétés après un génocide : moyens et enjeux  \n  _Thème 3 - Histoire et mémoires_\n- **Dissertation 2** - Les enjeux de la question climatique  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Étude critique de documents : les représentations et les défis de la guerre  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj1g11pdf-100071.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 3 - Histoire et mémoires",
+    "themeId": "T3",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "genocide",
+      "climatique",
+      "guerre",
+      "paix",
+      "conflit"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Réparer les sociétés après un génocide : moyens et enjeux",
+      "Dissertation 2 : Les enjeux de la question climatique",
+      "Étude critique : Étude critique de documents : les représentations et les défis de la guerre"
+    ],
+    "themes": [
+      "Thème 3 - Histoire et mémoires",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "themeIds": [
+      "T3",
+      "T5",
+      "T2"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Réparer les sociétés après un génocide : moyens et enjeux",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "genocide"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Les enjeux de la question climatique",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "climatique"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : les représentations et les défis de la guerre",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2022-centres-etrangers-groupe-1-sujet-jour-2-61",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2022,
+    "session": "Session 2022 - Épreuves normales",
+    "place": "Centres étrangers - Groupe 1",
+    "title": "2022 - Centres étrangers - Groupe 1 - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "22-HGGSPJ2G11",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj2g11pdf-100074.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj2g11pdf-100074.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj2g11-a16pdf-99462.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Centres étrangers - Groupe 1",
+      "Session 2022 - Épreuves normales",
+      "Sujet - Jour 2",
+      "22-HGGSPJ2G11",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires",
+      "Dissertation 1 : Les enjeux de la conquête des mers et des océans",
+      "Dissertation 2 : Justifiez et nuancez l’affirmation suivante : « les guerres sont la continuation de la politique par d’autres moyens ».",
+      "Étude critique : Étude critique de documents : Juger les génocides"
+    ],
+    "indexedText": "2022 - Centres étrangers - Groupe 1 - Sujet - Jour 2 Session 2022 - Épreuves normales Centres étrangers - Groupe 1 Sujet - Jour 2 22-HGGSPJ2G11 Thème 1 - De nouveaux espaces de conquête Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 3 - Histoire et mémoires Dissertation 1 : Les enjeux de la conquête des mers et des océans Dissertation 2 : Justifiez et nuancez l’affirmation suivante : « les guerres sont la continuation de la politique par d’autres moyens ». Étude critique : Étude critique de documents : Juger les génocides oceans mers conquete guerres genocides",
+    "subjectMarkdown": "# 2022 - Centres étrangers - Groupe 1 - Sujet - Jour 2\n\n**Code épreuve :** `22-HGGSPJ2G11`\n\n**Session :** Session 2022 - Épreuves normales\n\n**Localisation :** Centres étrangers - Groupe 1\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 3 - Histoire et mémoires\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Les enjeux de la conquête des mers et des océans  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - Justifiez et nuancez l’affirmation suivante : « les guerres sont la continuation de la politique par d’autres moyens ».  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Étude critique** - Étude critique de documents : juger les génocides  \n  _Thème 3 - Histoire et mémoires_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj2g11pdf-100074.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "oceans",
+      "mers",
+      "conquete",
+      "guerres",
+      "genocides"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les enjeux de la conquête des mers et des océans",
+      "Dissertation 2 : Justifiez et nuancez l’affirmation suivante : « les guerres sont la continuation de la politique par d’autres moyens ».",
+      "Étude critique : Étude critique de documents : Juger les génocides"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "themeIds": [
+      "T1",
+      "T2",
+      "T3"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les enjeux de la conquête des mers et des océans",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "oceans",
+          "mers",
+          "conquete"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Justifiez et nuancez l’affirmation suivante : « les guerres sont la continuation de la politique par d’autres moyens ».",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "guerres"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : Juger les génocides",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "genocides"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2022-mayotte-sujet-jour-1-62",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "chapters": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2022,
+    "session": "Session 2022 - Épreuves normales",
+    "place": "Mayotte",
+    "title": "2022 - Mayotte - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "22-HGGSPJ1LR1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2022-histoire-g-ographie-g-opolitique-et-sciences-politiques-mayotte-jour-1-114629pdf-96030.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2022-histoire-g-ographie-g-opolitique-et-sciences-politiques-mayotte-jour-1-114629pdf-96030.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj1lr1-a16pdf-99447.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 20",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj1lr1-a20pdf-99450.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Mayotte",
+      "Session 2022 - Épreuves normales",
+      "Sujet - Jour 1",
+      "22-HGGSPJ1LR1",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Dissertation 1 : L’environnement aux États-Unis : usages, tensions et acteurs",
+      "Dissertation 2 : Reconnaître la mémoire du génocide des Juifs et des Tsiganes : moyens et acteurs",
+      "Étude critique : Étude critique de documents (10 points) : Les deux guerres du Golfe (1991 et 2003) et leurs prolongements Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos"
+    ],
+    "indexedText": "2022 - Mayotte - Sujet - Jour 1 Session 2022 - Épreuves normales Mayotte Sujet - Jour 1 22-HGGSPJ1LR1 Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 3 - Histoire et mémoires Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Dissertation 1 : L’environnement aux États-Unis : usages, tensions et acteurs Dissertation 2 : Reconnaître la mémoire du génocide des Juifs et des Tsiganes : moyens et acteurs Étude critique : Étude critique de documents (10 points) : Les deux guerres du Golfe (1991 et 2003) et leurs prolongements Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos environnement memoire genocide guerres",
+    "subjectMarkdown": "# 2022 - Mayotte - Sujet - Jour 1\n\n**Code épreuve :** `22-HGGSPJ1LR1`\n\n**Session :** Session 2022 - Épreuves normales\n\n**Localisation :** Mayotte\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 3 - Histoire et mémoires\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - L’environnement aux États-Unis : usages, tensions et acteurs  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Dissertation 2** - Reconnaître la mémoire du génocide des Juifs et des Tsiganes : moyens et acteurs  \n  _Thème 3 - Histoire et mémoires_\n- **Étude critique** - Étude critique de documents (10 points) : Les deux guerres du Golfe (1991 et 2003) et leurs prolongements Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2022-histoire-g-ographie-g-opolitique-et-sciences-politiques-mayotte-jour-1-114629pdf-96030.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "themeId": "T5",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "environnement",
+      "memoire",
+      "genocide",
+      "guerres"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : L’environnement aux États-Unis : usages, tensions et acteurs",
+      "Dissertation 2 : Reconnaître la mémoire du génocide des Juifs et des Tsiganes : moyens et acteurs",
+      "Étude critique : Étude critique de documents (10 points) : Les deux guerres du Golfe (1991 et 2003) et leurs prolongements Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos"
+    ],
+    "themes": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "themeIds": [
+      "T5",
+      "T3",
+      "T2"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "L’environnement aux États-Unis : usages, tensions et acteurs",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Reconnaître la mémoire du génocide des Juifs et des Tsiganes : moyens et acteurs",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "genocide"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents (10 points) : Les deux guerres du Golfe (1991 et 2003) et leurs prolongements Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "guerres"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2022-mayotte-sujet-jour-2-63",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2022,
+    "session": "Session 2022 - Épreuves normales",
+    "place": "Mayotte",
+    "title": "2022 - Mayotte - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "22-HGGSPJ2LR1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2022-histoire-g-ographie-g-opolitique-et-sciences-politiques-mayotte-jour-2-114632pdf-96033.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2022-histoire-g-ographie-g-opolitique-et-sciences-politiques-mayotte-jour-2-114632pdf-96033.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj2lr1-a16pdf-99471.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 20",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj2lr1-a20pdf-99474.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Mayotte",
+      "Session 2022 - Épreuves normales",
+      "Sujet - Jour 2",
+      "22-HGGSPJ2LR1",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Dissertation 1 : Le Moyen-Orient depuis 1948 : une paix impossible ?",
+      "Dissertation 2 : Juger les crimes de masse et les génocides après 1946",
+      "Étude critique : Étude critique de documents : « La question environnementale aux États-Unis » Consigne : En analysant les documents, en les confrontant e t en vous appuyant sur"
+    ],
+    "indexedText": "2022 - Mayotte - Sujet - Jour 2 Session 2022 - Épreuves normales Mayotte Sujet - Jour 2 22-HGGSPJ2LR1 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 3 - Histoire et mémoires Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Dissertation 1 : Le Moyen-Orient depuis 1948 : une paix impossible ? Dissertation 2 : Juger les crimes de masse et les génocides après 1946 Étude critique : Étude critique de documents : « La question environnementale aux États-Unis » Consigne : En analysant les documents, en les confrontant e t en vous appuyant sur guerre paix conflit moyen-orient memoire genocides crimes de masse environnement environnementale",
+    "subjectMarkdown": "# 2022 - Mayotte - Sujet - Jour 2\n\n**Code épreuve :** `22-HGGSPJ2LR1`\n\n**Session :** Session 2022 - Épreuves normales\n\n**Localisation :** Mayotte\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 3 - Histoire et mémoires\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Le Moyen-Orient depuis 1948 : une paix impossible ?  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - Juger les crimes de masse et les génocides après 1946  \n  _Thème 3 - Histoire et mémoires_\n- **Étude critique** - Étude critique de documents : « La question environnementale aux États-Unis » Consigne : En analysant les documents, en les confrontant e t en vous appuyant sur  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2022-histoire-g-ographie-g-opolitique-et-sciences-politiques-mayotte-jour-2-114632pdf-96033.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "guerre",
+      "paix",
+      "conflit",
+      "moyen-orient",
+      "memoire",
+      "genocides",
+      "crimes de masse",
+      "environnement",
+      "environnementale"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Le Moyen-Orient depuis 1948 : une paix impossible ?",
+      "Dissertation 2 : Juger les crimes de masse et les génocides après 1946",
+      "Étude critique : Étude critique de documents : « La question environnementale aux États-Unis » Consigne : En analysant les documents, en les confrontant e t en vous appuyant sur"
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "themeIds": [
+      "T2",
+      "T3",
+      "T5"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Le Moyen-Orient depuis 1948 : une paix impossible ?",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "moyen-orient"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Juger les crimes de masse et les génocides après 1946",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "genocides",
+          "crimes de masse"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : « La question environnementale aux États-Unis » Consigne : En analysant les documents, en les confrontant e t en vous appuyant sur",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "environnementale"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2022-metropole-la-reunion-antilles-guyane-sujet-jour-1-64",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2022,
+    "session": "Session 2022 - Épreuves normales",
+    "place": "Métropole, La Réunion, Antilles Guyane",
+    "title": "2022 - Métropole, La Réunion, Antilles Guyane - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "22-HGGSPJ1ME1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2022-histoire-g-ographie-g-opolitique-et-sciences-politiques-1142300pdf-96333.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2022-histoire-g-ographie-g-opolitique-et-sciences-politiques-1142300pdf-96333.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj1me1-a16pdf-99453.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 20",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj1me1-a20pdf-99456.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Métropole, La Réunion, Antilles Guyane",
+      "Session 2022 - Épreuves normales",
+      "Sujet - Jour 1",
+      "22-HGGSPJ1ME1",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Dissertation 1 : La conquête de l’espace de 1957 à nos jours : rivalités et coopérations",
+      "Dissertation 2 : Les États-Unis et l’environnement à différentes échelles",
+      "Étude critique : Étude critique de documents : l’évolution des formes de la guerre"
+    ],
+    "indexedText": "2022 - Métropole, La Réunion, Antilles Guyane - Sujet - Jour 1 Session 2022 - Épreuves normales Métropole, La Réunion, Antilles Guyane Sujet - Jour 1 22-HGGSPJ1ME1 Thème 1 - De nouveaux espaces de conquête Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Dissertation 1 : La conquête de l’espace de 1957 à nos jours : rivalités et coopérations Dissertation 2 : Les États-Unis et l’environnement à différentes échelles Étude critique : Étude critique de documents : l’évolution des formes de la guerre espace conquete environnement guerre paix conflit",
+    "subjectMarkdown": "# 2022 - Métropole, La Réunion, Antilles Guyane - Sujet - Jour 1\n\n**Code épreuve :** `22-HGGSPJ1ME1`\n\n**Session :** Session 2022 - Épreuves normales\n\n**Localisation :** Métropole, La Réunion, Antilles Guyane\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - La conquête de l’espace de 1957 à nos jours : rivalités et coopérations  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - Les États-Unis et l’environnement à différentes échelles  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Étude critique de documents : l’évolution des formes de la guerre  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2022-histoire-g-ographie-g-opolitique-et-sciences-politiques-1142300pdf-96333.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "espace",
+      "conquete",
+      "environnement",
+      "guerre",
+      "paix",
+      "conflit"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : La conquête de l’espace de 1957 à nos jours : rivalités et coopérations",
+      "Dissertation 2 : Les États-Unis et l’environnement à différentes échelles",
+      "Étude critique : Étude critique de documents : l’évolution des formes de la guerre"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "themeIds": [
+      "T1",
+      "T5",
+      "T2"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "La conquête de l’espace de 1957 à nos jours : rivalités et coopérations",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "espace",
+          "conquete"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Les États-Unis et l’environnement à différentes échelles",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : l’évolution des formes de la guerre",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2022-metropole-la-reunion-antilles-guyane-sujet-jour-2-65",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2022,
+    "session": "Session 2022 - Épreuves normales",
+    "place": "Métropole, La Réunion, Antilles Guyane",
+    "title": "2022 - Métropole, La Réunion, Antilles Guyane - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "22-HGGSPJ2ME1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2022-histoire-g-ographie-g-opolitique-et-sciences-politiques-preuve-du-12-mai-2022-114311pdf-96336.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2022-histoire-g-ographie-g-opolitique-et-sciences-politiques-preuve-du-12-mai-2022-114311pdf-96336.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj2me1-a16pdf-99477.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 20",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj2me1-a20pdf-99480.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Métropole, La Réunion, Antilles Guyane",
+      "Session 2022 - Épreuves normales",
+      "Sujet - Jour 2",
+      "22-HGGSPJ2ME1",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Dissertation 1 : Les espaces maritimes, objet de rivalités et de coopérations",
+      "Dissertation 2 : Les nouvelles formes et logiques de la guerre au XXIe siècle",
+      "Étude critique : Étude critique de documents : Usage et représentations de l’environnement"
+    ],
+    "indexedText": "2022 - Métropole, La Réunion, Antilles Guyane - Sujet - Jour 2 Session 2022 - Épreuves normales Métropole, La Réunion, Antilles Guyane Sujet - Jour 2 22-HGGSPJ2ME1 Thème 1 - De nouveaux espaces de conquête Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Dissertation 1 : Les espaces maritimes, objet de rivalités et de coopérations Dissertation 2 : Les nouvelles formes et logiques de la guerre au XXIe siècle Étude critique : Étude critique de documents : Usage et représentations de l’environnement maritimes guerre paix conflit environnement",
+    "subjectMarkdown": "# 2022 - Métropole, La Réunion, Antilles Guyane - Sujet - Jour 2\n\n**Code épreuve :** `22-HGGSPJ2ME1`\n\n**Session :** Session 2022 - Épreuves normales\n\n**Localisation :** Métropole, La Réunion, Antilles Guyane\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Les espaces maritimes, objet de rivalités et de coopérations  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - Les nouvelles formes et logiques de la guerre au XXIe siècle  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Étude critique** - Étude critique de documents : Usage et représentations de l’environnement  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2022-histoire-g-ographie-g-opolitique-et-sciences-politiques-preuve-du-12-mai-2022-114311pdf-96336.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "maritimes",
+      "guerre",
+      "paix",
+      "conflit",
+      "environnement"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les espaces maritimes, objet de rivalités et de coopérations",
+      "Dissertation 2 : Les nouvelles formes et logiques de la guerre au XXIe siècle",
+      "Étude critique : Étude critique de documents : Usage et représentations de l’environnement"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "themeIds": [
+      "T1",
+      "T2",
+      "T5"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les espaces maritimes, objet de rivalités et de coopérations",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "maritimes"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Les nouvelles formes et logiques de la guerre au XXIe siècle",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : Usage et représentations de l’environnement",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2022-nouvelle-caledonie-sujet-jour-2-66",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2022,
+    "session": "Session 2022 - Épreuves normales",
+    "place": "Nouvelle-Calédonie",
+    "title": "2022 - Nouvelle-Calédonie - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "22-HGGSPJ2NC1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj2nc1pdf-96771.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj2nc1pdf-96771.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Nouvelle-Calédonie",
+      "Session 2022 - Épreuves normales",
+      "Sujet - Jour 2",
+      "22-HGGSPJ2NC1",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires",
+      "Dissertation 1 : La Chine, acteur majeur des nouveaux espaces de conquête ?",
+      "Dissertation 2 : Les États-Unis, protecteurs de l’environnement ?",
+      "Étude critique : Étude critique de documents : Juger les crimes de masse. Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos"
+    ],
+    "indexedText": "2022 - Nouvelle-Calédonie - Sujet - Jour 2 Session 2022 - Épreuves normales Nouvelle-Calédonie Sujet - Jour 2 22-HGGSPJ2NC1 Thème 1 - De nouveaux espaces de conquête Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 3 - Histoire et mémoires Dissertation 1 : La Chine, acteur majeur des nouveaux espaces de conquête ? Dissertation 2 : Les États-Unis, protecteurs de l’environnement ? Étude critique : Étude critique de documents : Juger les crimes de masse. Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos conquete environnement memoire crimes de masse",
+    "subjectMarkdown": "# 2022 - Nouvelle-Calédonie - Sujet - Jour 2\n\n**Code épreuve :** `22-HGGSPJ2NC1`\n\n**Session :** Session 2022 - Épreuves normales\n\n**Localisation :** Nouvelle-Calédonie\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 3 - Histoire et mémoires\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - La Chine, acteur majeur des nouveaux espaces de conquête ?  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - Les États-Unis, protecteurs de l’environnement ?  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Étude critique de documents : Juger les crimes de masse. Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos  \n  _Thème 3 - Histoire et mémoires_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj2nc1pdf-96771.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "conquete",
+      "environnement",
+      "memoire",
+      "crimes de masse"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : La Chine, acteur majeur des nouveaux espaces de conquête ?",
+      "Dissertation 2 : Les États-Unis, protecteurs de l’environnement ?",
+      "Étude critique : Étude critique de documents : Juger les crimes de masse. Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "themeIds": [
+      "T1",
+      "T5",
+      "T3"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "La Chine, acteur majeur des nouveaux espaces de conquête ?",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "conquete"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Les États-Unis, protecteurs de l’environnement ?",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : Juger les crimes de masse. Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "crimes de masse"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2022-nouvelle-caledonie-sujet-jour-1-67",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2022,
+    "session": "Session 2022 - Épreuves normales",
+    "place": "Nouvelle-Calédonie",
+    "title": "2022 - Nouvelle-Calédonie - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "22-HGGSPJ1NC1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj1nc1pdf-96723.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj1nc1pdf-96723.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Nouvelle-Calédonie",
+      "Session 2022 - Épreuves normales",
+      "Sujet - Jour 1",
+      "22-HGGSPJ1NC1",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Dissertation 1 : Les océans, un espace de conquête.",
+      "Dissertation 2 : Juger les génocides et les crimes contre l’humanité : quels objectifs ?",
+      "Étude critique : Étude critique de document : La question climatique. Consigne : En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "indexedText": "2022 - Nouvelle-Calédonie - Sujet - Jour 1 Session 2022 - Épreuves normales Nouvelle-Calédonie Sujet - Jour 1 22-HGGSPJ1NC1 Thème 1 - De nouveaux espaces de conquête Thème 3 - Histoire et mémoires Thème 6 - L'enjeu de la connaissance Dissertation 1 : Les océans, un espace de conquête. Dissertation 2 : Juger les génocides et les crimes contre l’humanité : quels objectifs ? Étude critique : Étude critique de document : La question climatique. Consigne : En analysant le document et en vous appuyant sur vos connaissances, espace oceans conquete memoire genocides connaissance connaissances",
+    "subjectMarkdown": "# 2022 - Nouvelle-Calédonie - Sujet - Jour 1\n\n**Code épreuve :** `22-HGGSPJ1NC1`\n\n**Session :** Session 2022 - Épreuves normales\n\n**Localisation :** Nouvelle-Calédonie\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 3 - Histoire et mémoires\n- Thème 6 - L'enjeu de la connaissance\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Les océans, un espace de conquête.  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - Juger les génocides et les crimes contre l’humanité : quels objectifs ?  \n  _Thème 3 - Histoire et mémoires_\n- **Étude critique** - Étude critique de document : La question climatique. Consigne : En analysant le document et en vous appuyant sur vos connaissances,  \n  _Thème 6 - L'enjeu de la connaissance_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj1nc1pdf-96723.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "espace",
+      "oceans",
+      "conquete",
+      "memoire",
+      "genocides",
+      "connaissance",
+      "connaissances"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les océans, un espace de conquête.",
+      "Dissertation 2 : Juger les génocides et les crimes contre l’humanité : quels objectifs ?",
+      "Étude critique : Étude critique de document : La question climatique. Consigne : En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "themeIds": [
+      "T1",
+      "T3",
+      "T6"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les océans, un espace de conquête.",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "espace",
+          "oceans",
+          "conquete"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Juger les génocides et les crimes contre l’humanité : quels objectifs ?",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "genocides"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document : La question climatique. Consigne : En analysant le document et en vous appuyant sur vos connaissances,",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance",
+          "connaissances"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2022-polynesie-francaise-sujet-jour-1-68",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2022,
+    "session": "Session 2022 - Épreuves normales",
+    "place": "Polynésie française",
+    "title": "2022 - Polynésie française - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "22-HGGSPJ1PO1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2022-histoire-g-ographie-g-opolitique-et-sciences-politiques-pf-jour-1-114728pdf-96252.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2022-histoire-g-ographie-g-opolitique-et-sciences-politiques-pf-jour-1-114728pdf-96252.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj1po1-a16pdf-99459.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Polynésie française",
+      "Session 2022 - Épreuves normales",
+      "Sujet - Jour 1",
+      "22-HGGSPJ1PO1",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Dissertation 1 : Les États et la maîtrise des mers et des océans : enjeux, compétition et coopération.",
+      "Dissertation 2 : Les politiques étatsuniennes à différentes échelles, depuis le XIXe siècle, reflètent-elles les grands enjeux environnementaux ?"
+    ],
+    "indexedText": "2022 - Polynésie française - Sujet - Jour 1 Session 2022 - Épreuves normales Polynésie française Sujet - Jour 1 22-HGGSPJ1PO1 Thème 1 - De nouveaux espaces de conquête Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Dissertation 1 : Les États et la maîtrise des mers et des océans : enjeux, compétition et coopération. Dissertation 2 : Les politiques étatsuniennes à différentes échelles, depuis le XIXe siècle, reflètent-elles les grands enjeux environnementaux ? oceans mers environnement",
+    "subjectMarkdown": "# 2022 - Polynésie française - Sujet - Jour 1\n\n**Code épreuve :** `22-HGGSPJ1PO1`\n\n**Session :** Session 2022 - Épreuves normales\n\n**Localisation :** Polynésie française\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Les États et la maîtrise des mers et des océans : enjeux, compétition et coopération.  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - Les politiques étatsuniennes à différentes échelles, depuis le XIXe siècle, reflètent-elles les grands enjeux environnementaux ?  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2022-histoire-g-ographie-g-opolitique-et-sciences-politiques-pf-jour-1-114728pdf-96252.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "oceans",
+      "mers",
+      "environnement"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les États et la maîtrise des mers et des océans : enjeux, compétition et coopération.",
+      "Dissertation 2 : Les politiques étatsuniennes à différentes échelles, depuis le XIXe siècle, reflètent-elles les grands enjeux environnementaux ?"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "themeIds": [
+      "T1",
+      "T5"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les États et la maîtrise des mers et des océans : enjeux, compétition et coopération.",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "oceans",
+          "mers"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Les politiques étatsuniennes à différentes échelles, depuis le XIXe siècle, reflètent-elles les grands enjeux environnementaux ?",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2022-polynesie-francaise-sujet-jour-2-69",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 3 - Histoire et mémoires",
+    "chapters": [
+      "Thème 3 - Histoire et mémoires",
+      "Thème 1 - De nouveaux espaces de conquête"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2022,
+    "session": "Session 2022 - Épreuves normales",
+    "place": "Polynésie française",
+    "title": "2022 - Polynésie française - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "22-HGGSPJ2PO1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2022-histoire-g-ographie-g-opolitique-et-sciences-politiques-pf-jour-2-114731pdf-96255.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2022-histoire-g-ographie-g-opolitique-et-sciences-politiques-pf-jour-2-114731pdf-96255.pdf",
+        "kind": "pdf"
+      },
+      {
+        "label": "Arial 16",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj2po1-a16pdf-99483.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Polynésie française",
+      "Session 2022 - Épreuves normales",
+      "Sujet - Jour 2",
+      "22-HGGSPJ2PO1",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Dissertation 1 : Juger les génocides et les crimes de masse depuis 1945.",
+      "Dissertation 2 : La conquête spatiale : un enjeu idéologique et de puissance."
+    ],
+    "indexedText": "2022 - Polynésie française - Sujet - Jour 2 Session 2022 - Épreuves normales Polynésie française Sujet - Jour 2 22-HGGSPJ2PO1 Thème 3 - Histoire et mémoires Thème 1 - De nouveaux espaces de conquête Dissertation 1 : Juger les génocides et les crimes de masse depuis 1945. Dissertation 2 : La conquête spatiale : un enjeu idéologique et de puissance. memoire genocides crimes de masse spatiale puissance conquete",
+    "subjectMarkdown": "# 2022 - Polynésie française - Sujet - Jour 2\n\n**Code épreuve :** `22-HGGSPJ2PO1`\n\n**Session :** Session 2022 - Épreuves normales\n\n**Localisation :** Polynésie française\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 3 - Histoire et mémoires\n- Thème 1 - De nouveaux espaces de conquête\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Juger les génocides et les crimes de masse depuis 1945.  \n  _Thème 3 - Histoire et mémoires_\n- **Dissertation 2** - La conquête spatiale : un enjeu idéologique et de puissance.  \n  _Thème 1 - De nouveaux espaces de conquête_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/baccalaur-g-n-ral-2022-histoire-g-ographie-g-opolitique-et-sciences-politiques-pf-jour-2-114731pdf-96255.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 3 - Histoire et mémoires",
+    "themeId": "T3",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "memoire",
+      "genocides",
+      "crimes de masse",
+      "spatiale",
+      "puissance",
+      "conquete"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Juger les génocides et les crimes de masse depuis 1945.",
+      "Dissertation 2 : La conquête spatiale : un enjeu idéologique et de puissance."
+    ],
+    "themes": [
+      "Thème 3 - Histoire et mémoires",
+      "Thème 1 - De nouveaux espaces de conquête"
+    ],
+    "themeIds": [
+      "T3",
+      "T1"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Juger les génocides et les crimes de masse depuis 1945.",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "genocides",
+          "crimes de masse"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "La conquête spatiale : un enjeu idéologique et de puissance.",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "spatiale",
+          "puissance",
+          "conquete"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2022-amerique-du-sud-sujet-jour-2-70",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves de remplacement"
+    ],
+    "year": 2022,
+    "session": "Session 2022 - Épreuves de remplacement",
+    "place": "Amérique du Sud",
+    "title": "2022 - Amérique du Sud - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "22-HGGSPJ2AS1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggsp-j2-as1pdf-97167.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggsp-j2-as1pdf-97167.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Amérique du Sud",
+      "Session 2022 - Épreuves de remplacement",
+      "Sujet - Jour 2",
+      "22-HGGSPJ2AS1",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires",
+      "Dissertation 1 : La guerre : un affrontement armé entre États ?",
+      "Dissertation 2 : La question environnementale, un enjeu de mobilisation internationale.",
+      "Étude critique : Etude critique de document(s) : Mémoires et histoire d’un conflit : la guerre d’Algérie"
+    ],
+    "indexedText": "2022 - Amérique du Sud - Sujet - Jour 2 Session 2022 - Épreuves de remplacement Amérique du Sud Sujet - Jour 2 22-HGGSPJ2AS1 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 3 - Histoire et mémoires Dissertation 1 : La guerre : un affrontement armé entre États ? Dissertation 2 : La question environnementale, un enjeu de mobilisation internationale. Étude critique : Etude critique de document(s) : Mémoires et histoire d’un conflit : la guerre d’Algérie guerre paix conflit environnement environnementale memoire memoires histoire algerie",
+    "subjectMarkdown": "# 2022 - Amérique du Sud - Sujet - Jour 2\n\n**Code épreuve :** `22-HGGSPJ2AS1`\n\n**Session :** Session 2022 - Épreuves de remplacement\n\n**Localisation :** Amérique du Sud\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 3 - Histoire et mémoires\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - La guerre : un affrontement armé entre États ?  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - La question environnementale, un enjeu de mobilisation internationale.  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Etude critique de document(s) : Mémoires et histoire d’un conflit : la guerre d’Algérie  \n  _Thème 3 - Histoire et mémoires_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/22-hggsp-j2-as1pdf-97167.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "guerre",
+      "paix",
+      "conflit",
+      "environnement",
+      "environnementale",
+      "memoire",
+      "memoires",
+      "histoire",
+      "algerie"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : La guerre : un affrontement armé entre États ?",
+      "Dissertation 2 : La question environnementale, un enjeu de mobilisation internationale.",
+      "Étude critique : Etude critique de document(s) : Mémoires et histoire d’un conflit : la guerre d’Algérie"
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "themeIds": [
+      "T2",
+      "T5",
+      "T3"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "La guerre : un affrontement armé entre États ?",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "La question environnementale, un enjeu de mobilisation internationale.",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "environnementale"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Etude critique de document(s) : Mémoires et histoire d’un conflit : la guerre d’Algérie",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "memoires",
+          "histoire",
+          "algerie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2022-amerique-du-sud-sujet-jour-1-71",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves de remplacement"
+    ],
+    "year": 2022,
+    "session": "Session 2022 - Épreuves de remplacement",
+    "place": "Amérique du Sud",
+    "title": "2022 - Amérique du Sud - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "22-HGGSPJ1AS1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggsp-j1-as1pdf-97164.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggsp-j1-as1pdf-97164.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Amérique du Sud",
+      "Session 2022 - Épreuves de remplacement",
+      "Sujet - Jour 1",
+      "22-HGGSPJ1AS1",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Dissertation 1 : Existe-t-il toujours un schéma « classique » de la guerre, tel que l’avait pensé Clausewitz ?",
+      "Dissertation 2 : La conquête de l’espace, des mers et des océans : un outil de l’affirmation de la puissance chinoise face au reste du monde ?",
+      "Étude critique : Étude critique de document(s) : Exploiter et protéger la forêt française"
+    ],
+    "indexedText": "2022 - Amérique du Sud - Sujet - Jour 1 Session 2022 - Épreuves de remplacement Amérique du Sud Sujet - Jour 1 22-HGGSPJ1AS1 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 1 - De nouveaux espaces de conquête Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Dissertation 1 : Existe-t-il toujours un schéma « classique » de la guerre, tel que l’avait pensé Clausewitz ? Dissertation 2 : La conquête de l’espace, des mers et des océans : un outil de l’affirmation de la puissance chinoise face au reste du monde ? Étude critique : Étude critique de document(s) : Exploiter et protéger la forêt française guerre paix conflit clausewitz espace puissance oceans mers conquete environnement",
+    "subjectMarkdown": "# 2022 - Amérique du Sud - Sujet - Jour 1\n\n**Code épreuve :** `22-HGGSPJ1AS1`\n\n**Session :** Session 2022 - Épreuves de remplacement\n\n**Localisation :** Amérique du Sud\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Existe-t-il toujours un schéma « classique » de la guerre, tel que l’avait pensé Clausewitz ?  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - La conquête de l’espace, des mers et des océans : un outil de l’affirmation de la puissance chinoise face au reste du monde ?  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Étude critique** - Étude critique de document(s) : Exploiter et protéger la forêt française  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/22-hggsp-j1-as1pdf-97164.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "guerre",
+      "paix",
+      "conflit",
+      "clausewitz",
+      "espace",
+      "puissance",
+      "oceans",
+      "mers",
+      "conquete",
+      "environnement"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Existe-t-il toujours un schéma « classique » de la guerre, tel que l’avait pensé Clausewitz ?",
+      "Dissertation 2 : La conquête de l’espace, des mers et des océans : un outil de l’affirmation de la puissance chinoise face au reste du monde ?",
+      "Étude critique : Étude critique de document(s) : Exploiter et protéger la forêt française"
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "themeIds": [
+      "T2",
+      "T1",
+      "T5"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Existe-t-il toujours un schéma « classique » de la guerre, tel que l’avait pensé Clausewitz ?",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "clausewitz"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "La conquête de l’espace, des mers et des océans : un outil de l’affirmation de la puissance chinoise face au reste du monde ?",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "espace",
+          "puissance",
+          "oceans",
+          "mers",
+          "conquete"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document(s) : Exploiter et protéger la forêt française",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "foret"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2022-metropole-mayotte-la-reunion-antilles-guyane-sujet-jour-2-72",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 1 - De nouveaux espaces de conquête"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves de remplacement"
+    ],
+    "year": 2022,
+    "session": "Session 2022 - Épreuves de remplacement",
+    "place": "Métropole, Mayotte, La Réunion, Antilles Guyane",
+    "title": "2022 - Métropole, Mayotte, La Réunion, Antilles Guyane - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "22-HGGSPJ2ME3",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj2me3-arpdf-97065.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj2me3-arpdf-97065.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Métropole, Mayotte, La Réunion, Antilles Guyane",
+      "Session 2022 - Épreuves de remplacement",
+      "Sujet - Jour 2",
+      "22-HGGSPJ2ME3",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Dissertation 1 : Les remises en cause des formes traditionnelles de la guerre depuis les années 1990",
+      "Dissertation 2 : Expliquez la citation de l’hist orien Pierre Nora : « Si la mémoire divise, l’Histoire réunit ».",
+      "Étude critique : Étude critique de documents : les États-Unis, affirmation de puissance et rivalités dans les nouveaux espaces de conquête"
+    ],
+    "indexedText": "2022 - Métropole, Mayotte, La Réunion, Antilles Guyane - Sujet - Jour 2 Session 2022 - Épreuves de remplacement Métropole, Mayotte, La Réunion, Antilles Guyane Sujet - Jour 2 22-HGGSPJ2ME3 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 3 - Histoire et mémoires Thème 1 - De nouveaux espaces de conquête Dissertation 1 : Les remises en cause des formes traditionnelles de la guerre depuis les années 1990 Dissertation 2 : Expliquez la citation de l’hist orien Pierre Nora : « Si la mémoire divise, l’Histoire réunit ». Étude critique : Étude critique de documents : les États-Unis, affirmation de puissance et rivalités dans les nouveaux espaces de conquête guerre paix conflit memoire histoire puissance conquete",
+    "subjectMarkdown": "# 2022 - Métropole, Mayotte, La Réunion, Antilles Guyane - Sujet - Jour 2\n\n**Code épreuve :** `22-HGGSPJ2ME3`\n\n**Session :** Session 2022 - Épreuves de remplacement\n\n**Localisation :** Métropole, Mayotte, La Réunion, Antilles Guyane\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 3 - Histoire et mémoires\n- Thème 1 - De nouveaux espaces de conquête\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Les remises en cause des formes traditionnelles de la guerre depuis les années 1990  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - Expliquez la citation de l’hist orien Pierre Nora : « Si la mémoire divise, l’Histoire réunit ».  \n  _Thème 3 - Histoire et mémoires_\n- **Étude critique** - Étude critique de documents : les États-Unis, affirmation de puissance et rivalités dans les nouveaux espaces de conquête  \n  _Thème 1 - De nouveaux espaces de conquête_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj2me3-arpdf-97065.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "guerre",
+      "paix",
+      "conflit",
+      "memoire",
+      "histoire",
+      "puissance",
+      "conquete"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les remises en cause des formes traditionnelles de la guerre depuis les années 1990",
+      "Dissertation 2 : Expliquez la citation de l’hist orien Pierre Nora : « Si la mémoire divise, l’Histoire réunit ».",
+      "Étude critique : Étude critique de documents : les États-Unis, affirmation de puissance et rivalités dans les nouveaux espaces de conquête"
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 1 - De nouveaux espaces de conquête"
+    ],
+    "themeIds": [
+      "T2",
+      "T3",
+      "T1"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les remises en cause des formes traditionnelles de la guerre depuis les années 1990",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Expliquez la citation de l’hist orien Pierre Nora : « Si la mémoire divise, l’Histoire réunit ».",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "histoire"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : les États-Unis, affirmation de puissance et rivalités dans les nouveaux espaces de conquête",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "puissance",
+          "conquete"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2022-metropole-mayotte-la-reunion-antilles-guyane-sujet-jour-1-73",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "chapters": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves de remplacement"
+    ],
+    "year": 2022,
+    "session": "Session 2022 - Épreuves de remplacement",
+    "place": "Métropole, Mayotte, La Réunion, Antilles Guyane",
+    "title": "2022 - Métropole, Mayotte, La Réunion, Antilles Guyane - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "22-HGGSPJ1ME3",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj1me3-arpdf-97041.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj1me3-arpdf-97041.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Métropole, Mayotte, La Réunion, Antilles Guyane",
+      "Session 2022 - Épreuves de remplacement",
+      "Sujet - Jour 1",
+      "22-HGGSPJ1ME3",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Dissertation 1 : La protection de l’environnement aux États-Unis : objet de tensions et de coopérations entre différents acteurs et à toutes les échelles",
+      "Dissertation 2 : L’État, seul acteur de la construction des mémoires ?",
+      "Étude critique : Étude critique de documents : conflits et tentatives de paix au Moyen-Orient depuis les années 1960"
+    ],
+    "indexedText": "2022 - Métropole, Mayotte, La Réunion, Antilles Guyane - Sujet - Jour 1 Session 2022 - Épreuves de remplacement Métropole, Mayotte, La Réunion, Antilles Guyane Sujet - Jour 1 22-HGGSPJ1ME3 Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 3 - Histoire et mémoires Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Dissertation 1 : La protection de l’environnement aux États-Unis : objet de tensions et de coopérations entre différents acteurs et à toutes les échelles Dissertation 2 : L’État, seul acteur de la construction des mémoires ? Étude critique : Étude critique de documents : conflits et tentatives de paix au Moyen-Orient depuis les années 1960 environnement protection memoire memoires guerre paix conflit conflits moyen-orient",
+    "subjectMarkdown": "# 2022 - Métropole, Mayotte, La Réunion, Antilles Guyane - Sujet - Jour 1\n\n**Code épreuve :** `22-HGGSPJ1ME3`\n\n**Session :** Session 2022 - Épreuves de remplacement\n\n**Localisation :** Métropole, Mayotte, La Réunion, Antilles Guyane\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 3 - Histoire et mémoires\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - La protection de l’environnement aux États-Unis : objet de tensions et de coopérations entre différents acteurs et à toutes les échelles  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Dissertation 2** - L’État, seul acteur de la construction des mémoires ?  \n  _Thème 3 - Histoire et mémoires_\n- **Étude critique** - Étude critique de documents : conflits et tentatives de paix au Moyen-Orient depuis les années 1960  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj1me3-arpdf-97041.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "themeId": "T5",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "environnement",
+      "protection",
+      "memoire",
+      "memoires",
+      "guerre",
+      "paix",
+      "conflit",
+      "conflits",
+      "moyen-orient"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : La protection de l’environnement aux États-Unis : objet de tensions et de coopérations entre différents acteurs et à toutes les échelles",
+      "Dissertation 2 : L’État, seul acteur de la construction des mémoires ?",
+      "Étude critique : Étude critique de documents : conflits et tentatives de paix au Moyen-Orient depuis les années 1960"
+    ],
+    "themes": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "themeIds": [
+      "T5",
+      "T3",
+      "T2"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "La protection de l’environnement aux États-Unis : objet de tensions et de coopérations entre différents acteurs et à toutes les échelles",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "protection"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "L’État, seul acteur de la construction des mémoires ?",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "memoires"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : conflits et tentatives de paix au Moyen-Orient depuis les années 1960",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "conflits",
+          "moyen-orient"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2022-nouvelle-caledonie-sujet-jour-2-74",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves de remplacement"
+    ],
+    "year": 2022,
+    "session": "Session 2022 - Épreuves de remplacement",
+    "place": "Nouvelle-Calédonie",
+    "title": "2022 - Nouvelle-Calédonie - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "22-HGGSPJ2NC1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj2nc1pdf-97386.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj2nc1pdf-97386.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Nouvelle-Calédonie",
+      "Session 2022 - Épreuves de remplacement",
+      "Sujet - Jour 2",
+      "22-HGGSPJ2NC1",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires",
+      "Dissertation 1 : La Chine, acteur majeur des nouveaux espaces de conquête ?",
+      "Dissertation 2 : Les États-Unis, protecteurs de l’environnement ?",
+      "Étude critique : Étude critique de documents : Juger les crimes de masse. Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos"
+    ],
+    "indexedText": "2022 - Nouvelle-Calédonie - Sujet - Jour 2 Session 2022 - Épreuves de remplacement Nouvelle-Calédonie Sujet - Jour 2 22-HGGSPJ2NC1 Thème 1 - De nouveaux espaces de conquête Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 3 - Histoire et mémoires Dissertation 1 : La Chine, acteur majeur des nouveaux espaces de conquête ? Dissertation 2 : Les États-Unis, protecteurs de l’environnement ? Étude critique : Étude critique de documents : Juger les crimes de masse. Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos conquete environnement memoire crimes de masse",
+    "subjectMarkdown": "# 2022 - Nouvelle-Calédonie - Sujet - Jour 2\n\n**Code épreuve :** `22-HGGSPJ2NC1`\n\n**Session :** Session 2022 - Épreuves de remplacement\n\n**Localisation :** Nouvelle-Calédonie\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 3 - Histoire et mémoires\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - La Chine, acteur majeur des nouveaux espaces de conquête ?  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - Les États-Unis, protecteurs de l’environnement ?  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Étude critique de documents : Juger les crimes de masse. Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos  \n  _Thème 3 - Histoire et mémoires_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj2nc1pdf-97386.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "conquete",
+      "environnement",
+      "memoire",
+      "crimes de masse"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : La Chine, acteur majeur des nouveaux espaces de conquête ?",
+      "Dissertation 2 : Les États-Unis, protecteurs de l’environnement ?",
+      "Étude critique : Étude critique de documents : Juger les crimes de masse. Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 3 - Histoire et mémoires"
+    ],
+    "themeIds": [
+      "T1",
+      "T5",
+      "T3"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "La Chine, acteur majeur des nouveaux espaces de conquête ?",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "conquete"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Les États-Unis, protecteurs de l’environnement ?",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents : Juger les crimes de masse. Consigne : En analysant les documents, en les confrontant et en vous appuyant sur vos",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "crimes de masse"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2022-nouvelle-caledonie-sujet-jour-1-75",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 1 - De nouveaux espaces de conquête",
+    "chapters": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves de remplacement"
+    ],
+    "year": 2022,
+    "session": "Session 2022 - Épreuves de remplacement",
+    "place": "Nouvelle-Calédonie",
+    "title": "2022 - Nouvelle-Calédonie - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "22-HGGSPJ1NC1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj1nc1pdf-97362.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj1nc1pdf-97362.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Nouvelle-Calédonie",
+      "Session 2022 - Épreuves de remplacement",
+      "Sujet - Jour 1",
+      "22-HGGSPJ1NC1",
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Dissertation 1 : Les océans, un espace de conquête.",
+      "Dissertation 2 : Juger les génocides et les crimes contre l’humanité : quels objectifs ?",
+      "Étude critique : Étude critique de document : La question climatique. Consigne : En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "indexedText": "2022 - Nouvelle-Calédonie - Sujet - Jour 1 Session 2022 - Épreuves de remplacement Nouvelle-Calédonie Sujet - Jour 1 22-HGGSPJ1NC1 Thème 1 - De nouveaux espaces de conquête Thème 3 - Histoire et mémoires Thème 6 - L'enjeu de la connaissance Dissertation 1 : Les océans, un espace de conquête. Dissertation 2 : Juger les génocides et les crimes contre l’humanité : quels objectifs ? Étude critique : Étude critique de document : La question climatique. Consigne : En analysant le document et en vous appuyant sur vos connaissances, espace oceans conquete memoire genocides connaissance connaissances",
+    "subjectMarkdown": "# 2022 - Nouvelle-Calédonie - Sujet - Jour 1\n\n**Code épreuve :** `22-HGGSPJ1NC1`\n\n**Session :** Session 2022 - Épreuves de remplacement\n\n**Localisation :** Nouvelle-Calédonie\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 1 - De nouveaux espaces de conquête\n- Thème 3 - Histoire et mémoires\n- Thème 6 - L'enjeu de la connaissance\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Les océans, un espace de conquête.  \n  _Thème 1 - De nouveaux espaces de conquête_\n- **Dissertation 2** - Juger les génocides et les crimes contre l’humanité : quels objectifs ?  \n  _Thème 3 - Histoire et mémoires_\n- **Étude critique** - Étude critique de document : La question climatique. Consigne : En analysant le document et en vous appuyant sur vos connaissances,  \n  _Thème 6 - L'enjeu de la connaissance_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/22-hggspj1nc1pdf-97362.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 1 - De nouveaux espaces de conquête",
+    "themeId": "T1",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "espace",
+      "oceans",
+      "conquete",
+      "memoire",
+      "genocides",
+      "connaissance",
+      "connaissances"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les océans, un espace de conquête.",
+      "Dissertation 2 : Juger les génocides et les crimes contre l’humanité : quels objectifs ?",
+      "Étude critique : Étude critique de document : La question climatique. Consigne : En analysant le document et en vous appuyant sur vos connaissances,"
+    ],
+    "themes": [
+      "Thème 1 - De nouveaux espaces de conquête",
+      "Thème 3 - Histoire et mémoires",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "themeIds": [
+      "T1",
+      "T3",
+      "T6"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les océans, un espace de conquête.",
+        "theme": "Thème 1 - De nouveaux espaces de conquête",
+        "themeId": "T1",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "espace",
+          "oceans",
+          "conquete"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Juger les génocides et les crimes contre l’humanité : quels objectifs ?",
+        "theme": "Thème 3 - Histoire et mémoires",
+        "themeId": "T3",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "memoire",
+          "genocides"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document : La question climatique. Consigne : En analysant le document et en vous appuyant sur vos connaissances,",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance",
+          "connaissances"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2021-amerique-du-nord-sujet-76",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "type": "Sujet",
+    "types": [
+      "Sujet",
+      "Épreuves de remplacement"
+    ],
+    "year": 2021,
+    "session": "Session 2021 - Épreuves normales / Session 2021 - Épreuves de remplacement",
+    "place": "Amérique du Nord",
+    "title": "2021 - Amérique du Nord - Sujet",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "21-HGGSPJ1AN1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/21hggspj1an1pdf-91440.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/21hggspj1an1pdf-91440.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Amérique du Nord",
+      "Session 2021 - Épreuves normales / Session 2021 - Épreuves de remplacement",
+      "Sujet",
+      "21-HGGSPJ1AN1",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Dissertation 1 : Pourquoi la construction de la paix constitue-t-elle un défi et se confronte-t-elle à de multiples difficultés depuis la signature des traités de Westphalie ?",
+      "Dissertation 2 : L'action des sociétés sur l'environnement n'est-elle tournée que vers l'exploitation ?",
+      "Étude critique : Protéger le patrimoine africain : destruction, protection et restauration du patrimoine comme enjeux géopolitiques impliquant de multiples acteurs."
+    ],
+    "indexedText": "2021 - Amérique du Nord - Sujet Session 2021 - Épreuves normales / Session 2021 - Épreuves de remplacement Amérique du Nord Sujet 21-HGGSPJ1AN1 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 6 - L'enjeu de la connaissance Dissertation 1 : Pourquoi la construction de la paix constitue-t-elle un défi et se confronte-t-elle à de multiples difficultés depuis la signature des traités de Westphalie ? Dissertation 2 : L'action des sociétés sur l'environnement n'est-elle tournée que vers l'exploitation ? Étude critique : Protéger le patrimoine africain : destruction, protection et restauration du patrimoine comme enjeux géopolitiques impliquant de multiples acteurs. Étude critique : La France et sa cyberdéfense : acteurs, menaces et stratégie de cybersécurité. guerre paix conflit environnement exploitation patrimoine connaissance cybersecurite cyberdefense",
+    "subjectMarkdown": "# 2021 - Amérique du Nord - Sujet\n\n**Code épreuve :** `21-HGGSPJ1AN1`\n\n**Session :** Session 2021 - Épreuves normales / Session 2021 - Épreuves de remplacement\n\n**Localisation :** Amérique du Nord\n\n**Description :** Sujet\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 6 - L'enjeu de la connaissance\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Pourquoi la construction de la paix constitue-t-elle un défi et se confronte-t-elle à de multiples difficultés depuis la signature des traités de Westphalie ?  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - L'action des sociétés sur l'environnement n'est-elle tournée que vers l'exploitation ?  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Protéger le patrimoine africain : destruction, protection et restauration du patrimoine comme enjeux géopolitiques impliquant de multiples acteurs.  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Étude critique** - La France et sa cyberdéfense : acteurs, menaces et stratégie de cybersécurité.  \n  _Thème 6 - L'enjeu de la connaissance_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/21hggspj1an1pdf-91440.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "guerre",
+      "paix",
+      "conflit",
+      "environnement",
+      "exploitation",
+      "patrimoine",
+      "connaissance",
+      "cybersecurite",
+      "cyberdefense"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Pourquoi la construction de la paix constitue-t-elle un défi et se confronte-t-elle à de multiples difficultés depuis la signature des traités de Westphalie ?",
+      "Dissertation 2 : L'action des sociétés sur l'environnement n'est-elle tournée que vers l'exploitation ?",
+      "Étude critique : Protéger le patrimoine africain : destruction, protection et restauration du patrimoine comme enjeux géopolitiques impliquant de multiples acteurs.",
+      "Étude critique : La France et sa cyberdéfense : acteurs, menaces et stratégie de cybersécurité."
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "themeIds": [
+      "T2",
+      "T5",
+      "T4",
+      "T6"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Pourquoi la construction de la paix constitue-t-elle un défi et se confronte-t-elle à de multiples difficultés depuis la signature des traités de Westphalie ?",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "L'action des sociétés sur l'environnement n'est-elle tournée que vers l'exploitation ?",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "exploitation"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Protéger le patrimoine africain : destruction, protection et restauration du patrimoine comme enjeux géopolitiques impliquant de multiples acteurs.",
+        "documentKey": "hggsp-2021-amerique-du-nord-sujet-76 proteger le patrimoine africain destruction protection et restauration du patrimoine comme enjeux geopolitiques impliquant de multiples acteurs",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "La France et sa cyberdéfense : acteurs, menaces et stratégie de cybersécurité.",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance",
+          "cybersecurite",
+          "cyberdefense"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2021-asie-sujet-77",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "type": "Sujet",
+    "types": [
+      "Sujet",
+      "Épreuves de remplacement"
+    ],
+    "year": 2021,
+    "session": "Session 2021 - Épreuves normales / Session 2021 - Épreuves de remplacement",
+    "place": "Asie",
+    "title": "2021 - Asie - Sujet",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "21-HGGSPJ2JA1",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/21hggspj2ja1pdf-91479.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/21hggspj2ja1pdf-91479.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Asie",
+      "Session 2021 - Épreuves normales / Session 2021 - Épreuves de remplacement",
+      "Sujet",
+      "21-HGGSPJ2JA1",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Dissertation 1 : La dimension politique de la guerre, évolutions et ruptures du XVIII e à nos jours.",
+      "Dissertation 2 : Développement urbain et patrimoine sont-ils conciliables ? (Votre réflexion s’appuiera sur l’exemple de la France).",
+      "Étude critique : Étude critique de documents 1 : Protection de la nature et transformations des milieux. Consigne"
+    ],
+    "indexedText": "2021 - Asie - Sujet Session 2021 - Épreuves normales / Session 2021 - Épreuves de remplacement Asie Sujet 21-HGGSPJ2JA1 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 6 - L'enjeu de la connaissance Dissertation 1 : La dimension politique de la guerre, évolutions et ruptures du XVIII e à nos jours. Dissertation 2 : Développement urbain et patrimoine sont-ils conciliables ? (Votre réflexion s’appuiera sur l’exemple de la France). Étude critique : Étude critique de documents 1 : Protection de la nature et transformations des milieux. Consigne Étude critique : Étude critique de document 2 : la circulation de la connaissance scientifique Consigne guerre paix conflit patrimoine environnement milieux protection connaissance scientifique",
+    "subjectMarkdown": "# 2021 - Asie - Sujet\n\n**Code épreuve :** `21-HGGSPJ2JA1`\n\n**Session :** Session 2021 - Épreuves normales / Session 2021 - Épreuves de remplacement\n\n**Localisation :** Asie\n\n**Description :** Sujet\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 6 - L'enjeu de la connaissance\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - La dimension politique de la guerre, évolutions et ruptures du XVIII e à nos jours.  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - Développement urbain et patrimoine sont-ils conciliables ? (Votre réflexion s’appuiera sur l’exemple de la France).  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Étude critique** - Étude critique de documents 1 : Protection de la nature et transformations des milieux. Consigne  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Étude critique de document 2 : la circulation de la connaissance scientifique Consigne  \n  _Thème 6 - L'enjeu de la connaissance_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/21hggspj2ja1pdf-91479.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "guerre",
+      "paix",
+      "conflit",
+      "patrimoine",
+      "environnement",
+      "milieux",
+      "protection",
+      "connaissance",
+      "scientifique"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : La dimension politique de la guerre, évolutions et ruptures du XVIII e à nos jours.",
+      "Dissertation 2 : Développement urbain et patrimoine sont-ils conciliables ? (Votre réflexion s’appuiera sur l’exemple de la France).",
+      "Étude critique : Étude critique de documents 1 : Protection de la nature et transformations des milieux. Consigne",
+      "Étude critique : Étude critique de document 2 : la circulation de la connaissance scientifique Consigne"
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "themeIds": [
+      "T2",
+      "T4",
+      "T5",
+      "T6"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "La dimension politique de la guerre, évolutions et ruptures du XVIII e à nos jours.",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Développement urbain et patrimoine sont-ils conciliables ? (Votre réflexion s’appuiera sur l’exemple de la France).",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents 1 : Protection de la nature et transformations des milieux. Consigne",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "milieux",
+          "protection"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document 2 : la circulation de la connaissance scientifique Consigne",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance",
+          "scientifique"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2021-centres-etrangers-groupe-1-sujet-jour-1-78",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves de remplacement"
+    ],
+    "year": 2021,
+    "session": "Session 2021 - Épreuves normales / Session 2021 - Épreuves de remplacement",
+    "place": "Centres étrangers - Groupe 1",
+    "title": "2021 - Centres étrangers - Groupe 1 - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "21-HGGSPJ1G11",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/21-hggspj1g1pdf-91377.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/21-hggspj1g1pdf-91377.pdf",
+        "kind": "pdf"
+      },
+    ],
+    "keywords": [
+      "Centres étrangers - Groupe 1",
+      "Session 2021 - Épreuves normales / Session 2021 - Épreuves de remplacement",
+      "Sujet - Jour 1",
+      "21-HGGSPJ1G11",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Dissertation 1 : Quels rôles jouent les acteurs internationaux (étatiques ou non) dans les conflits et les tentatives d’établir la paix au Moyen-Orient ?",
+      "Dissertation 2 : Quels sont les enjeux de la protection de l’environnement ?",
+      "Étude critique : Étude critique de document(s) 1 : Les enjeux du patrimoine"
+    ],
+    "indexedText": "2021 - Centres étrangers - Groupe 1 - Sujet - Jour 1 Session 2021 - Épreuves normales / Session 2021 - Épreuves de remplacement Centres étrangers - Groupe 1 Sujet - Jour 1 21-HGGSPJ1G11 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 6 - L'enjeu de la connaissance Dissertation 1 : Quels rôles jouent les acteurs internationaux (étatiques ou non) dans les conflits et les tentatives d’établir la paix au Moyen-Orient ? Dissertation 2 : Quels sont les enjeux de la protection de l’environnement ? Étude critique : Étude critique de document(s) 1 : Les enjeux du patrimoine Étude critique : Étude critique de document(s) 2 : La doctrine militaire française concernant le cyberespace guerre paix conflit conflits moyen-orient environnement protection patrimoine connaissance cyberespace",
+    "subjectMarkdown": "# 2021 - Centres étrangers - Groupe 1 - Sujet - Jour 1\n\n**Code épreuve :** `21-HGGSPJ1G11`\n\n**Session :** Session 2021 - Épreuves normales / Session 2021 - Épreuves de remplacement\n\n**Localisation :** Centres étrangers - Groupe 1\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 6 - L'enjeu de la connaissance\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Quels rôles jouent les acteurs internationaux (étatiques ou non) dans les conflits et les tentatives d’établir la paix au Moyen-Orient ?  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - Quels sont les enjeux de la protection de l’environnement ?  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Étude critique de document(s) 1 : Les enjeux du patrimoine  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Étude critique** - Étude critique de document(s) 2 : La doctrine militaire française concernant le cyberespace  \n  _Thème 6 - L'enjeu de la connaissance_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/21-hggspj1g1pdf-91377.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "guerre",
+      "paix",
+      "conflit",
+      "conflits",
+      "moyen-orient",
+      "environnement",
+      "protection",
+      "patrimoine",
+      "connaissance",
+      "cyberespace"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Quels rôles jouent les acteurs internationaux (étatiques ou non) dans les conflits et les tentatives d’établir la paix au Moyen-Orient ?",
+      "Dissertation 2 : Quels sont les enjeux de la protection de l’environnement ?",
+      "Étude critique : Étude critique de document(s) 1 : Les enjeux du patrimoine",
+      "Étude critique : Étude critique de document(s) 2 : La doctrine militaire française concernant le cyberespace"
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "themeIds": [
+      "T2",
+      "T5",
+      "T4",
+      "T6"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Quels rôles jouent les acteurs internationaux (étatiques ou non) dans les conflits et les tentatives d’établir la paix au Moyen-Orient ?",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "conflits",
+          "moyen-orient"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Quels sont les enjeux de la protection de l’environnement ?",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "protection"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document(s) 1 : Les enjeux du patrimoine",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document(s) 2 : La doctrine militaire française concernant le cyberespace",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance",
+          "cyberespace"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2021-centres-etrangers-groupe-1-sujet-jour-2-79",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+    "chapters": [
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves de remplacement"
+    ],
+    "year": 2021,
+    "session": "Session 2021 - Épreuves normales / Session 2021 - Épreuves de remplacement",
+    "place": "Centres étrangers - Groupe 1",
+    "title": "2021 - Centres étrangers - Groupe 1 - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "21-HGGSPJ2G11",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/21-hggspj2g1pdf-91380.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/21-hggspj2g1pdf-91380.pdf",
+        "kind": "pdf"
+      },
+    ],
+    "keywords": [
+      "Centres étrangers - Groupe 1",
+      "Session 2021 - Épreuves normales / Session 2021 - Épreuves de remplacement",
+      "Sujet - Jour 2",
+      "21-HGGSPJ2G11",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Dissertation 1 : Le patrimoine : un objet politique et géopolitique (vous envisagerez le sujet à différentes échelles)",
+      "Dissertation 2 : Les États face à l’enjeu de la connaissance depuis la deuxième partie du XXe siècle",
+      "Étude critique : Étude critique de document(s) 1 : Entre atteinte à l’environnement et protection"
+    ],
+    "indexedText": "2021 - Centres étrangers - Groupe 1 - Sujet - Jour 2 Session 2021 - Épreuves normales / Session 2021 - Épreuves de remplacement Centres étrangers - Groupe 1 Sujet - Jour 2 21-HGGSPJ2G11 Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 6 - L'enjeu de la connaissance Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Dissertation 1 : Le patrimoine : un objet politique et géopolitique (vous envisagerez le sujet à différentes échelles) Dissertation 2 : Les États face à l’enjeu de la connaissance depuis la deuxième partie du XXe siècle Étude critique : Étude critique de document(s) 1 : Entre atteinte à l’environnement et protection Étude critique : Étude critique de document(s) 2 : Différents modes de résolution des conflits patrimoine connaissance environnement protection guerre paix conflit conflits",
+    "subjectMarkdown": "# 2021 - Centres étrangers - Groupe 1 - Sujet - Jour 2\n\n**Code épreuve :** `21-HGGSPJ2G11`\n\n**Session :** Session 2021 - Épreuves normales / Session 2021 - Épreuves de remplacement\n\n**Localisation :** Centres étrangers - Groupe 1\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 6 - L'enjeu de la connaissance\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Le patrimoine : un objet politique et géopolitique (vous envisagerez le sujet à différentes échelles)  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Dissertation 2** - Les États face à l’enjeu de la connaissance depuis la deuxième partie du XXe siècle  \n  _Thème 6 - L'enjeu de la connaissance_\n- **Étude critique** - Étude critique de document(s) 1 : Entre atteinte à l’environnement et protection  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Étude critique de document(s) 2 : Différents modes de résolution des conflits  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/21-hggspj2g1pdf-91380.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+    "themeId": "T4",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "patrimoine",
+      "connaissance",
+      "environnement",
+      "protection",
+      "guerre",
+      "paix",
+      "conflit",
+      "conflits"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Le patrimoine : un objet politique et géopolitique (vous envisagerez le sujet à différentes échelles)",
+      "Dissertation 2 : Les États face à l’enjeu de la connaissance depuis la deuxième partie du XXe siècle",
+      "Étude critique : Étude critique de document(s) 1 : Entre atteinte à l’environnement et protection",
+      "Étude critique : Étude critique de document(s) 2 : Différents modes de résolution des conflits"
+    ],
+    "themes": [
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    ],
+    "themeIds": [
+      "T4",
+      "T6",
+      "T5",
+      "T2"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Le patrimoine : un objet politique et géopolitique (vous envisagerez le sujet à différentes échelles)",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Les États face à l’enjeu de la connaissance depuis la deuxième partie du XXe siècle",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document(s) 1 : Entre atteinte à l’environnement et protection",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "protection"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document(s) 2 : Différents modes de résolution des conflits",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "conflits"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2021-metropole-mayotte-la-reunion-antilles-guyane-sujet-jour-1-80",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves normales"
+    ],
+    "year": 2021,
+    "session": "Session 2021 - Épreuves normales",
+    "place": "Métropole, Mayotte, La Réunion, Antilles Guyane",
+    "title": "2021 - Métropole, Mayotte, La Réunion, Antilles Guyane - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "21-HGGSPJ1ME2",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/21-hggspj1mepdf-91197.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/21-hggspj1mepdf-91197.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Métropole, Mayotte, La Réunion, Antilles Guyane",
+      "Session 2021 - Épreuves normales",
+      "Sujet - Jour 1",
+      "21-HGGSPJ1ME2",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Dissertation 1 : Quels sont les moyens pour construire la paix depuis 1648 ?",
+      "Dissertation 2 : Les acteurs états-uniens face aux enjeux environnementaux",
+      "Étude critique : Étude critique de document(s) 1 : Les conflits patrimoniaux"
+    ],
+    "indexedText": "2021 - Métropole, Mayotte, La Réunion, Antilles Guyane - Sujet - Jour 1 Session 2021 - Épreuves normales Métropole, Mayotte, La Réunion, Antilles Guyane Sujet - Jour 1 21-HGGSPJ1ME2 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 6 - L'enjeu de la connaissance Dissertation 1 : Quels sont les moyens pour construire la paix depuis 1648 ? Dissertation 2 : Les acteurs états-uniens face aux enjeux environnementaux Étude critique : Étude critique de document(s) 1 : Les conflits patrimoniaux Étude critique : Étude critique de document(s) 2 : Les conditions de construction du savoir guerre paix conflit environnement conflits savoir",
+    "subjectMarkdown": "# 2021 - Métropole, Mayotte, La Réunion, Antilles Guyane - Sujet - Jour 1\n\n**Code épreuve :** `21-HGGSPJ1ME2`\n\n**Session :** Session 2021 - Épreuves normales\n\n**Localisation :** Métropole, Mayotte, La Réunion, Antilles Guyane\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 6 - L'enjeu de la connaissance\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Quels sont les moyens pour construire la paix depuis 1648 ?  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - Les acteurs états-uniens face aux enjeux environnementaux  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Étude critique de document(s) 1 : Les conflits patrimoniaux  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Étude critique** - Étude critique de document(s) 2 : Les conditions de construction du savoir  \n  _Thème 6 - L'enjeu de la connaissance_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/21-hggspj1mepdf-91197.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "guerre",
+      "paix",
+      "conflit",
+      "environnement",
+      "conflits",
+      "savoir"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Quels sont les moyens pour construire la paix depuis 1648 ?",
+      "Dissertation 2 : Les acteurs états-uniens face aux enjeux environnementaux",
+      "Étude critique : Étude critique de document(s) 1 : Les conflits patrimoniaux",
+      "Étude critique : Étude critique de document(s) 2 : Les conditions de construction du savoir"
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "themeIds": [
+      "T2",
+      "T5",
+      "T6"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Quels sont les moyens pour construire la paix depuis 1648 ?",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Les acteurs états-uniens face aux enjeux environnementaux",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document(s) 1 : Les conflits patrimoniaux",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "conflits"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document(s) 2 : Les conditions de construction du savoir",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "savoir"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2021-metropole-mayotte-la-reunion-antilles-guyane-sujet-jour-2-81",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves normales"
+    ],
+    "year": 2021,
+    "session": "Session 2021 - Épreuves normales",
+    "place": "Métropole, Mayotte, La Réunion, Antilles Guyane",
+    "title": "2021 - Métropole, Mayotte, La Réunion, Antilles Guyane - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "21-HGGSPJ2ME2",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/21-hggspj2mepdf-91200.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/21-hggspj2mepdf-91200.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Métropole, Mayotte, La Réunion, Antilles Guyane",
+      "Session 2021 - Épreuves normales",
+      "Sujet - Jour 2",
+      "21-HGGSPJ2ME2",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Dissertation 1 : Pourquoi la paix est-elle difficile à établir au Moyen-Orient depuis 1948 ?",
+      "Dissertation 2 : Le patrimoine français : quels enjeux économiques et diplomatiques ?",
+      "Étude critique : Étude critique de document(s) 1 : Les États et l’enjeu de la connaissance"
+    ],
+    "indexedText": "2021 - Métropole, Mayotte, La Réunion, Antilles Guyane - Sujet - Jour 2 Session 2021 - Épreuves normales Métropole, Mayotte, La Réunion, Antilles Guyane Sujet - Jour 2 21-HGGSPJ2ME2 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 6 - L'enjeu de la connaissance Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Dissertation 1 : Pourquoi la paix est-elle difficile à établir au Moyen-Orient depuis 1948 ? Dissertation 2 : Le patrimoine français : quels enjeux économiques et diplomatiques ? Étude critique : Étude critique de document(s) 1 : Les États et l’enjeu de la connaissance Étude critique : Étude critique de document(s) 2 : Les représentations de l’environnement guerre paix conflit moyen-orient patrimoine connaissance environnement",
+    "subjectMarkdown": "# 2021 - Métropole, Mayotte, La Réunion, Antilles Guyane - Sujet - Jour 2\n\n**Code épreuve :** `21-HGGSPJ2ME2`\n\n**Session :** Session 2021 - Épreuves normales\n\n**Localisation :** Métropole, Mayotte, La Réunion, Antilles Guyane\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 6 - L'enjeu de la connaissance\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Pourquoi la paix est-elle difficile à établir au Moyen-Orient depuis 1948 ?  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - Le patrimoine français : quels enjeux économiques et diplomatiques ?  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Étude critique** - Étude critique de document(s) 1 : Les États et l’enjeu de la connaissance  \n  _Thème 6 - L'enjeu de la connaissance_\n- **Étude critique** - Étude critique de document(s) 2 : Les représentations de l’environnement  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/21-hggspj2mepdf-91200.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "guerre",
+      "paix",
+      "conflit",
+      "moyen-orient",
+      "patrimoine",
+      "connaissance",
+      "environnement"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Pourquoi la paix est-elle difficile à établir au Moyen-Orient depuis 1948 ?",
+      "Dissertation 2 : Le patrimoine français : quels enjeux économiques et diplomatiques ?",
+      "Étude critique : Étude critique de document(s) 1 : Les États et l’enjeu de la connaissance",
+      "Étude critique : Étude critique de document(s) 2 : Les représentations de l’environnement"
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire"
+    ],
+    "themeIds": [
+      "T2",
+      "T4",
+      "T6",
+      "T5"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Pourquoi la paix est-elle difficile à établir au Moyen-Orient depuis 1948 ?",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit",
+          "moyen-orient"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Le patrimoine français : quels enjeux économiques et diplomatiques ?",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document(s) 1 : Les États et l’enjeu de la connaissance",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de document(s) 2 : Les représentations de l’environnement",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2021-metropole-mayotte-la-reunion-antilles-guyane-sujet-jour-1-82",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "chapters": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques"
+    ],
+    "type": "Sujet - Jour 1",
+    "types": [
+      "Sujet - Jour 1",
+      "Épreuves de remplacement"
+    ],
+    "year": 2021,
+    "session": "Session 2021 - Épreuves de remplacement",
+    "place": "Métropole, Mayotte, La Réunion, Antilles Guyane",
+    "title": "2021 - Métropole, Mayotte, La Réunion, Antilles Guyane - Sujet - Jour 1",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "21-HGGSPJ1ME3",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/21-hggspj1me3pdf-91218.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/21-hggspj1me3pdf-91218.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Métropole, Mayotte, La Réunion, Antilles Guyane",
+      "Session 2021 - Épreuves de remplacement",
+      "Sujet - Jour 1",
+      "21-HGGSPJ1ME3",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Dissertation 1 : Peut-on parler d’un nouveau rapport des sociétés à leurs milieux à partir du XIXe siècle ?",
+      "Dissertation 2 : Quels rôles jouent les États dans l’élaboration et la protection des connaissances ?",
+      "Étude critique : Étude critique de documents 1 : La complexité de la construction de la paix"
+    ],
+    "indexedText": "2021 - Métropole, Mayotte, La Réunion, Antilles Guyane - Sujet - Jour 1 Session 2021 - Épreuves de remplacement Métropole, Mayotte, La Réunion, Antilles Guyane Sujet - Jour 1 21-HGGSPJ1ME3 Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 6 - L'enjeu de la connaissance Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Dissertation 1 : Peut-on parler d’un nouveau rapport des sociétés à leurs milieux à partir du XIXe siècle ? Dissertation 2 : Quels rôles jouent les États dans l’élaboration et la protection des connaissances ? Étude critique : Étude critique de documents 1 : La complexité de la construction de la paix Étude critique : Étude critique de documents 2 : Le château de Versailles, un patrimoine valorisé qui contribue au rayonnement de la France environnement milieux connaissance connaissances guerre paix conflit patrimoine versailles",
+    "subjectMarkdown": "# 2021 - Métropole, Mayotte, La Réunion, Antilles Guyane - Sujet - Jour 1\n\n**Code épreuve :** `21-HGGSPJ1ME3`\n\n**Session :** Session 2021 - Épreuves de remplacement\n\n**Localisation :** Métropole, Mayotte, La Réunion, Antilles Guyane\n\n**Description :** Sujet - Jour 1\n\n## Thèmes associés\n\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 6 - L'enjeu de la connaissance\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n\n**Confiance du classement :** forte\n\n## Sujets détectés\n\n- **Dissertation 1** - Peut-on parler d’un nouveau rapport des sociétés à leurs milieux à partir du XIXe siècle ?  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Dissertation 2** - Quels rôles jouent les États dans l’élaboration et la protection des connaissances ?  \n  _Thème 6 - L'enjeu de la connaissance_\n- **Étude critique** - Étude critique de documents 1 : La complexité de la construction de la paix  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Étude critique** - Étude critique de documents 2 : Le château de Versailles, un patrimoine valorisé qui contribue au rayonnement de la France  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/21-hggspj1me3pdf-91218.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "themeId": "T5",
+    "themeConfidence": "forte",
+    "themeMatches": [
+      "environnement",
+      "milieux",
+      "connaissance",
+      "connaissances",
+      "guerre",
+      "paix",
+      "conflit",
+      "patrimoine",
+      "versailles"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Peut-on parler d’un nouveau rapport des sociétés à leurs milieux à partir du XIXe siècle ?",
+      "Dissertation 2 : Quels rôles jouent les États dans l’élaboration et la protection des connaissances ?",
+      "Étude critique : Étude critique de documents 1 : La complexité de la construction de la paix",
+      "Étude critique : Étude critique de documents 2 : Le château de Versailles, un patrimoine valorisé qui contribue au rayonnement de la France"
+    ],
+    "themes": [
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques"
+    ],
+    "themeIds": [
+      "T5",
+      "T6",
+      "T2",
+      "T4"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Peut-on parler d’un nouveau rapport des sociétés à leurs milieux à partir du XIXe siècle ?",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "environnement",
+          "milieux"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Quels rôles jouent les États dans l’élaboration et la protection des connaissances ?",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance",
+          "connaissances"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents 1 : La complexité de la construction de la paix",
+        "documentKey": "hggsp-2021-metropole-mayotte-la-reunion-antilles-guyane-sujet-jour-1-82 la complexite de la construction de la paix",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents 2 : Le château de Versailles, un patrimoine valorisé qui contribue au rayonnement de la France",
+        "documentKey": "hggsp-2021-metropole-mayotte-la-reunion-antilles-guyane-sujet-jour-1-82 le chateau de versailles un patrimoine valorise qui contribue au rayonnement de la france",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine",
+          "versailles"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hggsp-2021-metropole-mayotte-la-reunion-antilles-guyane-sujet-jour-2-83",
+    "subject": "HGGSP",
+    "subjects": [
+      "HGGSP"
+    ],
+    "chapter": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "chapters": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "type": "Sujet - Jour 2",
+    "types": [
+      "Sujet - Jour 2",
+      "Épreuves de remplacement"
+    ],
+    "year": 2021,
+    "session": "Session 2021 - Épreuves de remplacement",
+    "place": "Métropole, Mayotte, La Réunion, Antilles Guyane",
+    "title": "2021 - Métropole, Mayotte, La Réunion, Antilles Guyane - Sujet - Jour 2",
+    "source": "Eduscol",
+    "sourceUrl": "https://eduscol.education.gouv.fr/5199/annales-des-epreuves-du-baccalaureat-des-voies-generale-et-technologique",
+    "examCode": "21-HGGSPJ2ME3",
+    "primaryPdf": "https://eduscol.education.gouv.fr/sites/default/files/document/21-hggspj2me3pdf-91221.pdf",
+    "links": [
+      {
+        "label": "Sujet",
+        "url": "https://eduscol.education.gouv.fr/sites/default/files/document/21-hggspj2me3pdf-91221.pdf",
+        "kind": "pdf"
+      }
+    ],
+    "keywords": [
+      "Métropole, Mayotte, La Réunion, Antilles Guyane",
+      "Session 2021 - Épreuves de remplacement",
+      "Sujet - Jour 2",
+      "21-HGGSPJ2ME3",
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance",
+      "Dissertation 1 : Les formes de la guerre du XVIII e siècle à nos jours",
+      "Dissertation 2 : Le patrimoine et le tourisme",
+      "Étude critique : Étude critique de documents 1 : Le rôle des sociétés dans le changement climatique"
+    ],
+    "indexedText": "2021 - Métropole, Mayotte, La Réunion, Antilles Guyane - Sujet - Jour 2 Session 2021 - Épreuves de remplacement Métropole, Mayotte, La Réunion, Antilles Guyane Sujet - Jour 2 21-HGGSPJ2ME3 Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire Thème 6 - L'enjeu de la connaissance Dissertation 1 : Les formes de la guerre du XVIII e siècle à nos jours Dissertation 2 : Le patrimoine et le tourisme Étude critique : Étude critique de documents 1 : Le rôle des sociétés dans le changement climatique Étude critique : Étude critique de documents 2 : Le cyberespace, un espace conflictuel ? guerre paix conflit patrimoine tourisme climatique connaissance cyberespace",
+    "subjectMarkdown": "# 2021 - Métropole, Mayotte, La Réunion, Antilles Guyane - Sujet - Jour 2\n\n**Code épreuve :** `21-HGGSPJ2ME3`\n\n**Session :** Session 2021 - Épreuves de remplacement\n\n**Localisation :** Métropole, Mayotte, La Réunion, Antilles Guyane\n\n**Description :** Sujet - Jour 2\n\n## Thèmes associés\n\n- Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution\n- Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques\n- Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire\n- Thème 6 - L'enjeu de la connaissance\n\n**Confiance du classement :** à vérifier\n\n## Sujets détectés\n\n- **Dissertation 1** - Les formes de la guerre du XVIII e siècle à nos jours  \n  _Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution_\n- **Dissertation 2** - Le patrimoine et le tourisme  \n  _Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques_\n- **Étude critique** - Étude critique de documents 1 : Le rôle des sociétés dans le changement climatique  \n  _Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire_\n- **Étude critique** - Étude critique de documents 2 : Le cyberespace, un espace conflictuel ?  \n  _Thème 6 - L'enjeu de la connaissance_\n\n<p class=\"cleaned-note\"><strong>Sujet officiel Eduscol.</strong> Le PDF officiel reste la référence ; cette fiche sert à retrouver, filtrer et télécharger rapidement l'annale.</p>\n\n<p><a class=\"primary-resource\" href=\"https://eduscol.education.gouv.fr/sites/default/files/document/21-hggspj2me3pdf-91221.pdf\" target=\"_blank\" rel=\"noopener\">Ouvrir le PDF officiel</a></p>",
+    "correctionMarkdown": "",
+    "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "themeId": "T2",
+    "themeConfidence": "à vérifier",
+    "themeMatches": [
+      "guerre",
+      "paix",
+      "conflit",
+      "patrimoine",
+      "tourisme",
+      "climatique",
+      "connaissance",
+      "cyberespace"
+    ],
+    "detectedSubjects": [
+      "Dissertation 1 : Les formes de la guerre du XVIII e siècle à nos jours",
+      "Dissertation 2 : Le patrimoine et le tourisme",
+      "Étude critique : Étude critique de documents 1 : Le rôle des sociétés dans le changement climatique",
+      "Étude critique : Étude critique de documents 2 : Le cyberespace, un espace conflictuel ?"
+    ],
+    "themes": [
+      "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+      "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+      "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+      "Thème 6 - L'enjeu de la connaissance"
+    ],
+    "themeIds": [
+      "T2",
+      "T4",
+      "T5",
+      "T6"
+    ],
+    "classifiedSubjects": [
+      {
+        "type": "Dissertation 1",
+        "title": "Les formes de la guerre du XVIII e siècle à nos jours",
+        "theme": "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+        "themeId": "T2",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "guerre",
+          "paix",
+          "conflit"
+        ]
+      },
+      {
+        "type": "Dissertation 2",
+        "title": "Le patrimoine et le tourisme",
+        "theme": "Thème 4 - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+        "themeId": "T4",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "patrimoine",
+          "tourisme"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents 1 : Le rôle des sociétés dans le changement climatique",
+        "documentKey": "hggsp-2021-metropole-mayotte-la-reunion-antilles-guyane-sujet-jour-2-83 le role des societes dans le changement climatique",
+        "theme": "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+        "themeId": "T5",
+        "themeConfidence": "à vérifier",
+        "themeMatches": [
+          "climatique"
+        ]
+      },
+      {
+        "type": "Étude critique",
+        "title": "Étude critique de documents 2 : Le cyberespace, un espace conflictuel ?",
+        "documentKey": "hggsp-2021-metropole-mayotte-la-reunion-antilles-guyane-sujet-jour-2-83 le cyberespace un espace conflictuel",
+        "theme": "Thème 6 - L'enjeu de la connaissance",
+        "themeId": "T6",
+        "themeConfidence": "forte",
+        "themeMatches": [
+          "connaissance",
+          "cyberespace"
+        ]
+      }
+    ]
+  }
+];
+
+// La session normale de Nouvelle-Calédonie 2022 est la fiche conservée dans les archives.
+// Les deux entrées de remplacement, identiques dans la liste, ne doivent pas apparaître comme doublons.
+window.HGGSP_EXERCISES = window.HGGSP_EXERCISES.filter((exercise) => ![
+  "hggsp-2022-nouvelle-caledonie-sujet-jour-1-75",
+  "hggsp-2022-nouvelle-caledonie-sujet-jour-2-74"
+].includes(exercise.id));
+
+// L'étude critique du sujet 2022 Polynésie française J1 était absente de la fiche générée.
+const hggsp2022PolynesieJ1 = window.HGGSP_EXERCISES.find((exercise) => exercise.id === "hggsp-2022-polynesie-francaise-sujet-jour-1-68");
+if (hggsp2022PolynesieJ1 && !(hggsp2022PolynesieJ1.classifiedSubjects || []).some((topic) => topic.documentKey)) {
+  const documentKey = "hggsp 2022 polynesie francaise sujet jour 1 68 la pensee clausewitzienne permet elle de comprendre les conflits du debut du xxie siecle";
+  const documentStudy = {
+    type: "Étude critique",
+    title: "La pensée clausewitzienne et les conflits du début du XXIe siècle",
+    documentKey,
+    theme: "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    themeId: "T2",
+    themeConfidence: "forte",
+    themeMatches: ["guerre", "paix", "conflit", "clausewitz"]
+  };
+  hggsp2022PolynesieJ1.classifiedSubjects = [...(hggsp2022PolynesieJ1.classifiedSubjects || []), documentStudy];
+  hggsp2022PolynesieJ1.chapters = [...new Set([...(hggsp2022PolynesieJ1.chapters || []), documentStudy.theme])];
+  hggsp2022PolynesieJ1.themes = [...new Set([...(hggsp2022PolynesieJ1.themes || []), documentStudy.theme])];
+  hggsp2022PolynesieJ1.themeIds = [...new Set([...(hggsp2022PolynesieJ1.themeIds || []), documentStudy.themeId])];
+  hggsp2022PolynesieJ1.themeMatches = [...new Set([...(hggsp2022PolynesieJ1.themeMatches || []), ...documentStudy.themeMatches])];
+  hggsp2022PolynesieJ1.keywords = [
+    ...(hggsp2022PolynesieJ1.keywords || []),
+    "Thème 2 - Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+    "Étude critique : La pensée clausewitzienne et les conflits du début du XXIe siècle"
+  ];
+  hggsp2022PolynesieJ1.detectedSubjects = [
+    ...(hggsp2022PolynesieJ1.detectedSubjects || []),
+    "Étude critique : La pensée clausewitzienne et les conflits du début du XXIe siècle"
+  ];
+  hggsp2022PolynesieJ1.indexedText += " Étude critique : La pensée clausewitzienne et les conflits du début du XXIe siècle guerre paix conflit clausewitz";
+}
+
+// L'étude critique du sujet 2022 Polynésie française J2 était absente de la fiche générée.
+const hggsp2022PolynesieJ2 = window.HGGSP_EXERCISES.find((exercise) => exercise.id === "hggsp-2022-polynesie-francaise-sujet-jour-2-69");
+if (hggsp2022PolynesieJ2 && !(hggsp2022PolynesieJ2.classifiedSubjects || []).some((topic) => topic.documentKey)) {
+  const documentKey = "hggsp 2022 polynesie francaise sujet jour 2 69 les etapes de l action des etres humains sur leur environnement depuis le neolithique";
+  const documentStudy = {
+    type: "Étude critique",
+    title: "Les étapes de l’action des êtres humains sur leur environnement depuis le Néolithique",
+    documentKey,
+    theme: "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    themeId: "T5",
+    themeConfidence: "forte",
+    themeMatches: ["environnement", "êtres humains", "Néolithique", "Anthropocène"]
+  };
+  hggsp2022PolynesieJ2.classifiedSubjects = [...(hggsp2022PolynesieJ2.classifiedSubjects || []), documentStudy];
+  hggsp2022PolynesieJ2.chapters = [...new Set([...(hggsp2022PolynesieJ2.chapters || []), documentStudy.theme])];
+  hggsp2022PolynesieJ2.themes = [...new Set([...(hggsp2022PolynesieJ2.themes || []), documentStudy.theme])];
+  hggsp2022PolynesieJ2.themeIds = [...new Set([...(hggsp2022PolynesieJ2.themeIds || []), documentStudy.themeId])];
+  hggsp2022PolynesieJ2.themeMatches = [...new Set([...(hggsp2022PolynesieJ2.themeMatches || []), ...documentStudy.themeMatches])];
+  hggsp2022PolynesieJ2.keywords = [
+    ...(hggsp2022PolynesieJ2.keywords || []),
+    "Thème 5 - L'environnement, entre exploitation et protection : un enjeu planétaire",
+    "Étude critique : Les étapes de l’action des êtres humains sur leur environnement depuis le Néolithique"
+  ];
+  hggsp2022PolynesieJ2.detectedSubjects = [
+    ...(hggsp2022PolynesieJ2.detectedSubjects || []),
+    "Étude critique : Les étapes de l’action des êtres humains sur leur environnement depuis le Néolithique"
+  ];
+  hggsp2022PolynesieJ2.indexedText += " Étude critique : Les étapes de l’action des êtres humains sur leur environnement depuis le Néolithique environnement êtres humains Néolithique Anthropocène";
+}
